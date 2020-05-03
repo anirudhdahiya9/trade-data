@@ -1,0 +1,367 @@
+Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Antigua and Barbuda
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cabo Verde
+Cambodia
+Cameroon
+Canada
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Cyprus
+Czechia
+Côte d'Ivoire
+Democratic People's Republic of Korea
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Fiji
+Finland
+France
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Holy See
+Honduras
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kuwait
+Kyrgyzstan
+Lao People's Democratic Republic
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Republic of Korea
+Republic of Moldova
+Romania
+Russian Federation
+Rwanda
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Sudan
+Spain
+Sri Lanka
+State of Palestine
+Sudan
+Suriname
+Sweden
+Switzerland
+Syrian Arab Republic
+Tajikistan
+Thailand
+Timor-Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom of Great Britain and Northern Ireland
+United Republic of Tanzania
+United States of America
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Viet Nam
+Yemen
+Zambia
+Zimbabwe
+the Arab Republic of Egypt
+the Argentine Republic
+the Bolivarian Republic of Venezuela
+the Central African Republic
+the Co-operative Republic of Guyana
+the Commonwealth of Dominica
+the Commonwealth of the Bahamas
+the Cook Islands
+the Czech Republic
+the Democratic People's Republic of Korea
+the Democratic Republic of Sao Tome and Principe
+the Democratic Republic of Timor-Leste
+the Democratic Republic of the Congo
+the Democratic Socialist Republic of Sri Lanka
+the Dominican Republic
+the Eastern Republic of Uruguay
+the Federal Democratic Republic of Ethiopia
+the Federal Democratic Republic of Nepal
+the Federal Republic of Germany
+the Federal Republic of Nigeria
+the Federal Republic of Somalia
+the Federated States of Micronesia
+the Federative Republic of Brazil
+the French Republic
+the Gabonese Republic
+the Grand Duchy of Luxembourg
+the Hashemite Kingdom of Jordan
+the Hellenic Republic
+the Holy See
+the Independent State of Papua New Guinea
+the Independent State of Samoa
+the Islamic Republic of Afghanistan
+the Islamic Republic of Iran
+the Islamic Republic of Mauritania
+the Islamic Republic of Pakistan
+the Kingdom of Bahrain
+the Kingdom of Belgium
+the Kingdom of Bhutan
+the Kingdom of Cambodia
+the Kingdom of Denmark
+the Kingdom of Eswatini
+the Kingdom of Lesotho
+the Kingdom of Morocco
+the Kingdom of Norway
+the Kingdom of Saudi Arabia
+the Kingdom of Spain
+the Kingdom of Sweden
+the Kingdom of Thailand
+the Kingdom of Tonga
+the Kingdom of the Netherlands
+the Kyrgyz Republic
+the Lao People's Democratic Republic
+the Lebanese Republic
+the People's Democratic Republic of Algeria
+the People's Republic of Bangladesh
+the People's Republic of China
+the Plurinational State of Bolivia
+the Portuguese Republic
+the Principality of Andorra
+the Principality of Liechtenstein
+the Principality of Monaco
+the Republic of Albania
+the Republic of Angola
+the Republic of Armenia
+the Republic of Austria
+the Republic of Azerbaijan
+the Republic of Belarus
+the Republic of Benin
+the Republic of Botswana
+the Republic of Bulgaria
+the Republic of Burundi
+the Republic of Cabo Verde
+the Republic of Cameroon
+the Republic of Chad
+the Republic of Chile
+the Republic of Colombia
+the Republic of Costa Rica
+the Republic of Croatia
+the Republic of Cuba
+the Republic of Cyprus
+the Republic of Côte d'Ivoire
+the Republic of Djibouti
+the Republic of Ecuador
+the Republic of El Salvador
+the Republic of Equatorial Guinea
+the Republic of Estonia
+the Republic of Fiji
+the Republic of Finland
+the Republic of Ghana
+the Republic of Guatemala
+the Republic of Guinea
+the Republic of Guinea-Bissau
+the Republic of Haiti
+the Republic of Honduras
+the Republic of Iceland
+the Republic of India
+the Republic of Indonesia
+the Republic of Iraq
+the Republic of Italy
+the Republic of Kazakhstan
+the Republic of Kenya
+the Republic of Kiribati
+the Republic of Korea
+the Republic of Latvia
+the Republic of Liberia
+the Republic of Lithuania
+the Republic of Madagascar
+the Republic of Malawi
+the Republic of Maldives
+the Republic of Mali
+the Republic of Malta
+the Republic of Mauritius
+the Republic of Moldova
+the Republic of Mozambique
+the Republic of Namibia
+the Republic of Nauru
+the Republic of Nicaragua
+the Republic of North Macedonia
+the Republic of Palau
+the Republic of Panama
+the Republic of Paraguay
+the Republic of Peru
+the Republic of Poland
+the Republic of Rwanda
+the Republic of San Marino
+the Republic of Senegal
+the Republic of Serbia
+the Republic of Seychelles
+the Republic of Sierra Leone
+the Republic of Singapore
+the Republic of Slovenia
+the Republic of South Africa
+the Republic of South Sudan
+the Republic of Suriname
+the Republic of Tajikistan
+the Republic of Trinidad and Tobago
+the Republic of Tunisia
+the Republic of Turkey
+the Republic of Uganda
+the Republic of Uzbekistan
+the Republic of Vanuatu
+the Republic of Yemen
+the Republic of Zambia
+the Republic of Zimbabwe
+the Republic of the Congo
+the Republic of the Gambia
+the Republic of the Marshall Islands
+the Republic of the Niger
+the Republic of the Philippines
+the Republic of the Sudan
+the Republic of the Union of Myanmar
+the Russian Federation
+the Slovak Republic
+the Socialist Republic of Viet Nam
+the State of Eritrea
+the State of Israel
+the State of Kuwait
+the State of Libya
+the State of Palestine
+the State of Qatar
+the Sultanate of Oman
+the Swiss Confederation
+the Syrian Arab Republic
+the Togolese Republic
+the Union of the Comoros
+the United Arab Emirates
+the United Kingdom of Great Britain and Northern Ireland
+the United Mexican States
+the United Republic of Tanzania
+the United States of America

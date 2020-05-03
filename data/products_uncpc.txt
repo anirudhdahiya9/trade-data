@@ -1,0 +1,1058 @@
+Cereals
+Wheat
+Wheat
+Wheat
+Maize (corn)
+Maize (corn)
+Maize (corn)
+Rice
+Rice
+Sorghum
+Sorghum
+Sorghum
+Barley
+Barley
+Barley
+Rye
+Rye
+Rye
+Oats
+Oats
+Oats
+Millet
+Millet
+Millet
+Other cereals
+Triticale
+Buckwheat
+Fonio
+Quinoa
+Canary seed
+Other cereals n.e.c.
+Vegetables
+Leafy or stem vegetables
+Asparagus
+Cabbages
+Cauliflowers and broccoli
+Lettuce and chicory
+Spinach
+Artichokes
+Melons
+Watermelons
+Cantaloupes and other melons
+Fruit-bearing vegetables
+Cucumbers and gherkins
+Eggplants (aubergines)
+Tomatoes
+Pumpkins
+Other fruit-bearing vegetables
+Green leguminous vegetables
+Beans
+Peas
+Other green leguminous vegetables
+Carrots and turnips
+Green garlic
+Onions
+Mushrooms and truffles
+Vegetables
+Fruits and nuts
+Tropical and subtropical fruits
+Avocados
+Bananas
+Plantains and cooking bananas
+Dates
+Figs
+Mangoes
+Papayas
+Pineapples
+Citrus fruits
+Pomelos and grapefruits
+Lemons and limes
+Oranges
+Tangerines
+Other citrus fruit
+Grapes
+Apples
+Pears and quinces
+Apricots
+Cherries
+Peaches and nectarines
+Plums and sloes
+Berries and other fruits
+Currants and gooseberries
+Kiwi fruit
+Strawberries
+Locust beans (carobs)
+Other fruits
+Fruit seeds
+Almonds
+Cashew nuts
+Chestnuts
+Hazelnuts
+Pistachios
+Walnuts
+Brazil nuts
+Oilseeds and oleaginous fruits
+Soya beans
+Soya beans
+Groundnuts
+Groundnuts
+Groundnuts
+Cottonseed
+Cottonseed
+Cottonseed
+Other oilseeds
+Linseed
+Mustard seed
+Rape or colza seed
+Sesame seed
+Sunflower seed
+Safflower seed
+Castor oil seeds
+Poppy seed
+Other oilseeds
+Olives
+Coconuts
+Other oleaginous fruits
+Palm nuts and kernels
+Copra
+Other oleaginous fruits
+Potatoes
+Cassava
+Sweet potatoes
+Yams
+Taro
+Taro 
+Yautia
+Coffee
+Tea leaves
+Mat leaves
+Cocoa beans
+Pepper (<i>Piper</i> spp.)
+Nutmeg
+Cloves (whole stems)
+Ginger
+Vanilla
+Hop cones
+Chicory roots
+Pulses (dried leguminous vegetables)
+Beans
+Chick peas
+Lentils
+Peas
+Cow peas
+Pigeon peas
+Bambara beans
+Pulses
+Sugar crops
+Sugar beet
+Sugar cane
+Sugar beet seeds
+Other sugar crops n.e.c.
+Forage products
+Forage products
+Fibre crops
+Flower seeds
+Unmanufactured tobacco
+Live animals
+Bovine animals
+Cattle
+Buffalo
+Other bovine animals
+Other ruminants
+Camels and camelids
+Sheep
+Goats
+Other ruminants
+Horses and other equines
+Horses
+Asses
+Mules and hinnies
+Swine / pigs
+Poultry
+Chickens
+Turkeys
+Geese
+Ducks
+Guinea fowls
+Other live animals
+Rabbits and hares
+Other mammals
+Ostriches and emus
+Other birds
+Reptiles
+Bees
+Other live animals
+Raw milk
+Raw milk of cattle
+Raw milk of buffalo
+Other raw milk
+Raw milk of sheep
+Raw milk of goats
+Raw milk of camel
+Other raw milk n.e.c.
+Reproductive materials of animals
+Semen
+Bovine semen
+Semen
+Embryos
+Other animal products
+Natural honey
+Raw furskins
+Forestry and logging products
+Wood in the rough
+Logs of coniferous wood
+Logs of non-coniferous wood
+Non-wood forest products
+Other wild edible products
+Christmas trees
+Ornamental fish
+Wild ornamental fish
+Farmed ornamental fish
+Coal and peat
+Hard coal
+Brown coal
+Peat
+Metal ores
+Copper
+Nickel ores and concentrates
+Aluminium ores and concentrates
+Stone
+Monumental or building stone
+Slate
+Natural sands
+Clays
+Other minerals
+Chemical and fertilizer minerals
+Unroasted iron pyrites
+Other chemical minerals
+Chalk and dolomite
+Other minerals n.e.c.
+Electrical energy
+Steam and hot water
+Ice and snow
+Natural water
+Meat and meat products
+Meat of mammals
+Meat of cattle
+Meat of buffalo
+Meat of pigs
+Meat of sheep
+Meat of goat
+Meat of poultry
+Meat of chickens
+Meat of ducks
+Meat of geese
+Meat of turkeys
+Freshwater fish
+Salmonidae
+Flatfish
+Fish of Gadiformes
+Other pelagic fish
+Other fish
+Fish fillets
+Fish including fillets
+Edible fish meal
+Caviar and caviar substitutes
+Beans
+Peas
+Potatoes
+Vegetable juices
+Tomato juice
+Other vegetable juices
+Vegetables provisionally preserved
+Dried fruit
+Raisins
+Plums
+Other dried fruit
+Shelled nuts
+Groundnuts
+Almonds
+Hazelnuts
+Cashew nuts
+Other shelled nuts
+Fruit juices
+Orange juice
+Grapefruit juice
+Pineapple juice
+Grape juice
+Apple juice
+Other fruit juices
+Animal fats
+Animal fats
+Cattle fat
+Buffalo fat
+Sheep fat
+Goat fat
+Animal fats
+Pig fat
+Poultry fat
+Tallow
+Other animal fats
+Vegetable oils
+Soya bean oil
+Soya bean oil
+Soya bean oil
+Groundnut oil
+Groundnut oil
+Groundnut oil
+Sunflower-seed and safflower-seed oil
+Palm oil
+Palm oil
+Palm oil
+Coconut oil
+Coconut oil
+Coconut oil
+Olive oil
+Olive oil
+Olive oil
+Oil of olive residues
+Cottonseed oil
+Cottonseed oil
+Cottonseed oil
+Other vegetable oils
+Margarine and similar preparations
+Cotton linters
+Processed liquid milk
+Cream
+Whey
+Other dairy products
+Whole milk powder
+Evaporated milk
+Condensed milk
+Milk and cream
+Cheese
+Casein
+Dairy products n.e.c.
+Grain mill products
+Wheat and meslin flour
+Other cereal flours
+Husked rice
+Bakery products
+Pastry goods and cakes
+Sugar and molasses
+Cane sugar
+Beet sugar
+Refined sugar
+Molasses
+Cocoa powder
+Cocoa powder
+Food products n.e.c.
+Coffee and tea
+Coffee
+Spices and aromatics
+Pepper (piper spp.)
+Nutmeg
+Cinnamon (canella)
+Cloves (whole stems)
+Ginger
+Vanilla
+Other food products
+Other food products n.e.c.
+Beverages
+Wines
+Malt liquors and malt
+Beer made from malt
+Other non-alcoholic caloric beverages
+Tobacco products
+Cured stemmed/stripped tobacco leaves
+Raw silk (not thrown)
+Cotton
+Cotton sewing thread
+Woven fabrics of flax
+Special fabrics
+Made-up textile articles
+Parachutes
+Textiles n.e.c.
+Felt and nonwovens
+Felt
+Nonwovens
+Other textile articles
+Metallized yarn
+Knitted or crocheted fabrics
+Hats and headgear
+Tanned or dressed furskins
+Wood wool; wood flour
+Boards and panels
+Particle board
+Oriented strand board (OSB)
+Medium density fibreboard (MDF)
+Hardboard
+Other fibreboard
+Densified wood
+Other products of wood
+Pulp
+Newsprint
+Hand-made paper and paperboard
+Kraftliner
+Testliner (recycled liner board)
+Processed paper and paperboard
+Corrugated paper and paperboard
+Textile wall coverings
+Books
+Educational textbooks
+Directories
+Other books
+Children's books
+Globes
+Other printed matter
+Motor gasoline
+Aviation gasoline
+Gasolene-type jet fuel
+Naphtha
+Kerosenes
+Kerosene-type jet fuel
+Other kerosene
+Gas oil
+Fuel oils n.e.c.
+Lubricants
+Other petroleum oils n.e.c.
+Propane and butanes
+Ethylene
+Basic chemicals
+Basic organic chemicals
+Basic inorganic chemicals n.e.c.
+Phosphoric acid
+Nitric acid
+Miscellaneous basic chemical products
+Wood charcoal
+Roasted iron pyrites
+Glycerol
+Fertilizers and pesticides
+Urea
+Ammonium sulphate
+Ammonium nitrate
+Superphosphate
+Other phosphatic fertilizers
+Diammonium hydrogenorthophosphate (diammonium phosphate)
+Monoammonium phosphate
+Potassium nitrate
+Other fertilizers
+Ammonia
+Ammonia
+Ammonium chloride; nitrites
+Fertilizers n.e.c.
+Insecticides
+Fungicides
+Disinfectants
+Hazardous pesticides
+Plastics in primary forms
+Printing ink
+Pharmaceutical products
+Other pharmaceutical products
+Detergents and washing preparations
+Perfume and toilet preparations
+Cleaning and polishing preparations
+Chemical products n.e.c.
+Pyrotechnic articles
+Other chemical products
+Biodiesel
+Other chemical products n.e.c.
+Man-made fibres
+Synthetic monofilament and strip
+Artificial monofilament and strip
+Rubber and plastics products
+Rubber tyres and tubes
+Other rubber products
+Reclaimed rubber
+Semi-manufactures of plastics
+Packaging products of plastics
+Other plastics products
+Safety headgear
+Articles of plastics n.e.c.
+Glass and glass products
+Safety glass
+Other glass articles
+Electrical insulators of glass
+Non-structural ceramic ware
+Other non-structural ceramic wares
+Plaster
+Plasters
+Cement clinkers
+Calcinated or agglomerated dolomite
+Non-refractory mortars and concretes
+Artificial corundum
+Furniture
+Seats
+Other seats
+Other furniture n.e.c.
+Parts of furniture
+Jewellery and related articles
+Coin
+Musical instruments
+Other string musical instruments
+Sports goods
+Games and toys
+Puzzles
+Playing cards
+Video game consoles
+Prefabricated buildings
+Prefabricated buildings
+Prefabricated buildings
+Prefabricated buildings
+Prefabricated buildings
+Other manufactured articles n.e.c.
+Linoleum
+Other articles
+Imitation jewellery
+Matches
+Wastes or scraps
+Bagasse
+Wine lees; argol
+Tobacco refuse
+Non-metal wastes or scraps
+Miscellaneous textile wastes
+Silk waste
+Waste of man-made fibres
+Wood pellets
+Metal wastes or scraps
+Ferrous waste and scrap
+Other wastes and scraps
+Municipal waste
+Sewage sludge
+Pharmaceutical waste
+Other clinical waste
+Waste organic solvents
+Other wastes n.e.c.
+Basic metals
+Basic iron and steel
+Ferro-manganese
+Ferro-chromium
+Ferro-nickel
+Other ferro-alloys
+Crude steel
+Wire of alloy steel
+Copper mattes; cement copper
+Unwrought nickel
+Aluminium
+Unwrought aluminium
+Lead
+Zinc
+Tin
+Wire of copper
+Wire of aluminium
+Cermets and articles thereof
+Nuclear reactors
+Other fabricated metal products
+Domestic metal products
+Other metal goods
+Metal goods n.e.c.
+General-purpose machinery
+Turbo-jets and turbo-propellers
+Ball or roller bearings
+Air-conditioning machines
+Gaskets of metal sheeting
+General-purpose machinery n.e.c.
+Automatic goods vending machines
+Machinery parts
+Special-purpose machinery
+Ploughs
+Seeders
+Parts of soil machinery
+Other soil machinery
+Combine harvester / threshers
+Other haymaking machinery
+Milking and dairy machines
+Milking machines
+Dairy machinery
+Agricultural tractors
+Pedestrian controlled tractors
+Track-laying tractors
+Other agricultural tractors
+Other agricultural machinery
+Poultry incubators and brooders
+Poultry-keeping machinery
+Other agricultural machinery n.e.c.
+Parts of agricultural machinery
+Lathes for removing metal
+Bulldozers and angledozers
+Graders and levellers
+Scrapers
+Front-end shovel loaders
+Bulldozer or angledozer blades
+Cream separators
+Dryers for agricultural products
+Weaving machines (looms)
+Electric blankets
+Household sewing machines
+Other special-purpose machinery
+Centrifugal clothes driers
+Typewriters and word-processing machines
+Other office machines
+Storage units
+Fixed media storage units
+Removable media storage units
+Electrical machinery and apparatus
+Electrical transformers
+Insulated winding wire
+Electric accumulators
+Lighting equipment
+Permanent metallic magnets
+Electrical capacitors
+Printed circuits
+Electronic integrated circuits
+Television cameras
+Video camera recorders
+Digital cameras
+Optical media
+Solid-state non-volatile storage devices
+Packaged software
+Systems software
+Operating systems
+Network software
+Database management software
+Application software
+Computer game software
+Other application software
+"Smart cards"
+Optical instruments
+Photographic equipment
+Photographic (including cinematographic) cameras
+Cinematographic projectors
+Other photographic equipment
+Watches
+Clocks
+Watch or clock movements
+Transport equipment
+Motor vehicles
+Road tractors for semi-trailers
+Crane lorries
+Special-purpose motor vehicles n.e.c.
+Bodies for motor vehicles
+Trailers and semi-trailers; containers
+Ships
+Commercial ships and warships
+Tankers (ships)
+Tugs and pusher craft
+Other floating structures
+Pleasure and sporting boats
+Diesel-electric locomotives
+Aeroplanes and helicopters
+Helicopters
+Motorcycles and side-cars
+Bicycles and invalid carriages
+Invalid carriages
+Constructions and construction services
+Constructions
+Buildings
+Residential buildings
+Multi-dwelling residential buildings
+Non-residential buildings
+Industrial buildings
+Commercial buildings
+Other non-residential buildings
+Civil engineering works
+Railways
+Airfield runways
+Bridges and elevated highways
+Tunnels
+Dams
+Long-distance pipelines
+Local pipelines
+Mines and industrial plants
+Mining constructions
+Power plants
+Other constructions for manufacturing
+Other civil engineering works
+Construction services
+Site preparation services
+Demolition services
+Excavating and earthmoving services
+Water well drilling services
+Septic system installation services
+Special trade construction services
+Pile driving services
+Foundation services
+Construction framing services
+Building framing services
+Roof framing services
+Roofing and waterproofing services
+Concrete services
+Structural steel erection services
+Masonry services
+Scaffolding services
+Installation services
+Electrical installation services
+Fire alarm installation services
+Residential antenna installation services
+Other electrical installation services
+Water plumbing services
+Drain laying services
+Heating equipment installation services
+Gas fitting installation services
+Insulation services
+Other installation services
+Other installation services n.e.c.
+Glazing services
+Plastering services
+Painting services
+Joinery and carpentry services
+Fencing and railing services
+Wholesale trade services
+Retail trade services
+Accommodation services for visitors
+Camp site services
+Food serving services
+Event catering services
+Other contract food services
+Other food serving services
+Beverage serving services
+Passenger transport services
+Taxi services
+Sightseeing transportation services
+Sightseeing services by rail
+Sightseeing services by water
+Sightseeing services by air
+Freight transport services
+Transport services via pipeline
+Supporting transport services
+Cargo handling services
+Container handling services
+Storage and warehousing services
+Refrigerated storage services
+Bus station services
+Parking lot services
+Pilotage and berthing services
+Air traffic control services
+Other supporting transport services
+Postal and courier services
+Postal services
+Post office counter services
+Other postal services
+Courier services
+Domestic courier services
+International courier services
+Local delivery services
+Financial and related services
+Central banking services
+Deposit services
+Credit-granting services
+Residential mortgage loan services
+Non-residential mortgage loan services
+Credit card loan services
+Other credit-granting services
+Financial leasing services
+Investment banking services
+Life insurance services
+Individual pension services
+Group pension services
+Health insurance services
+Motor vehicle insurance services
+Freight insurance services
+Other property insurance services
+General liability insurance services
+Travel insurance services
+Other non-life insurance services
+Reinsurance services
+Life reinsurance services
+Other non-life reinsurance services
+Motor vehicle reinsurance services
+Freight reinsurance services
+Other property reinsurance services
+General liability reinsurance services
+Mergers and acquisition services
+Securities brokerage services
+Commodity brokerage services
+Trust and custody services
+Trust services
+Custody services
+Financial market operational services
+Financial market regulatory services
+Financial consultancy services
+Foreign exchange services
+Insurance claims adjustment services
+Actuarial services
+Pension fund management services
+Real estate services
+Trade services of buildings
+Business and production services
+Research and development services
+Interdisciplinary basic research services
+Interdisciplinary applied research services
+Interdisciplinary experimental development services
+Research and development originals
+Legal and accounting services
+Legal services
+Other legal services
+Arbitration and conciliation services
+Other legal services n.e.c.
+Financial auditing services
+Accounting and bookkeeping services
+Accounting services
+Bookkeeping services
+Payroll services
+Insolvency and receivership services
+Strategic management consulting services
+Financial management consulting services
+Marketing management consulting services
+Operations management consulting services
+Business process management services
+Head office services
+Business consulting services
+Public relations services
+Other business consulting services
+IT consulting services
+IT support services
+Software originals
+Website hosting services
+Application service provisioning
+Network management services
+Computer systems management services
+Architectural advisory services
+Historical restoration architectural services
+Urban planning services
+Rural land planning services
+Landscape architectural advisory services
+Landscape architectural services
+Engineering services
+Engineering advisory services
+Geophysical services
+Mineral exploration and evaluation
+Surface surveying services
+Map-making services
+Veterinary services
+Veterinary services for livestock
+Other veterinary services
+Advertising services
+Full service advertising
+Other advertising services
+Portrait photography services
+Specialty photography services
+Other photography services
+Photographic processing services
+Specialty design services
+Interior design services
+Industrial design services
+Other specialty design services
+Design originals
+Environmental consulting services
+Original compilations of facts/information
+Translation and interpretation services
+Trademarks and franchises
+Carrier services
+Fixed telephony services
+Mobile telecommunications services
+Mobile voice services
+Mobile text services
+Private network services
+Data transmission services
+Other telecommunications services
+Internet telecommunications services
+Internet backbone services
+Internet access services
+Narrowband Internet access services
+Broadband Internet access services
+Other Internet telecommunications services
+On-line content
+On-line text based information
+On-line books
+On-line newspapers and periodicals
+On-line audio content
+Musical audio downloads
+Streamed audio content
+On-line video content
+Streamed video content
+Software downloads
+System software downloads
+Application software downloads
+Other on-line content
+On-line games
+On-line software
+On-line adult content
+Web search portal content
+Other on-line content n.e.c.
+News agency services
+Library and archive services
+Library services
+Archive services
+Radio broadcast originals
+Television broadcast originals
+Radio channel programmes
+Television channel programmes
+Broadcasting services
+Support services
+Employment services
+Executive/retained search services
+Labour supply services
+Contract staffing services
+Temporary staffing services
+Long-term staffing (payrolling) services
+Temporary staffing-to-permanent placement services
+Co-employment staffing services
+Investigation and security services
+Investigation services
+Security consulting services
+Security systems services
+Armoured car services
+Guard services
+Other security services
+Cleaning services
+Disinfecting and exterminating services
+Window cleaning services
+General cleaning services
+Specialized cleaning services
+Packaging services
+Reservation services for transportation
+Reservation services for accommodation
+Time-share exchange services
+Reservation services for cruises
+Other reservation services
+Tour operator services
+Tourist guide services
+Tourism promotion services
+Visitor information services
+Other support services
+Credit reporting services
+Collection agency services
+Telephone-based support services
+Telephone call centre services
+Other telephone-based support services
+Combined office administrative services
+Specialized office support services
+Duplicating services
+Mailing list compilation services
+Mailing services
+Other information services
+Other support services n.e.c.
+Post-harvest crop services
+Seed processing services
+Animal husbandry services
+Other animal husbandry services
+Support services to hunting
+Support services to fishing
+Support services to aquaculture
+Support services to mining
+Repair services of furniture
+Meat processing services
+Fish processing services
+Dairy product manufacturing services
+Bakery product manufacturing services
+Sugar manufacturing services
+Beverage manufacturing services
+Wine manufacturing services
+Soft drink manufacturing services
+Tobacco manufacturing services
+Textile manufacturing services
+Textile fibre manufacturing services
+Textile weaving services
+Textile finishing services
+Wearing apparel manufacturing services
+Fur apparel manufacturing services
+Luggage manufacturing services
+Footwear manufacturing services
+Wood manufacturing services
+Carpentry manufacturing services
+Wooden containers manufacturing services
+Chemical product manufacturing services
+Basic chemicals manufacturing services
+Fertilizer manufacturing services
+Agrochemical product manufacturing services
+Paint manufacturing services
+Man-made fibre manufacturing services
+Pharmaceutical product manufacturing services
+Rubber product manufacturing services
+Tyre manufacturing services
+Plastic product manufacturing services
+Glass manufacturing services
+Refractory product manufacturing services
+Basic metal manufacturing services
+Steam generator manufacturing services
+General machining services
+Communication equipment manufacturing services
+Consumer electronics manufacturing services
+Electrical equipment manufacturing services
+Wiring device manufacturing services
+Domestic appliance manufacturing services
+General-purpose machinery manufacturing services
+Special-purpose machinery manufacturing services
+Metallurgy machinery manufacturing services
+Transport equipment manufacturing services
+Motor vehicle manufacturing services
+Ship building services
+Motorcycle manufacturing services
+Other manufacturing services
+Furniture manufacturing services
+Jewellery manufacturing services
+Imitation jewellery manufacturing services
+Musical instrument manufacturing services
+Sports good manufacturing services
+Other manufacturing services n.e.c.
+Printing services
+Services related to printing
+Non-ferrous metal casting services
+Overall government public services
+Executive and legislative services
+Financial and fiscal services
+Military defence services
+Civil defence services
+Education services
+Pre-primary education services
+Primary education services
+Secondary education services
+Post-secondary non-tertiary education services
+Tertiary education services
+Cultural education services
+Educational support services
+Human health services
+Inpatient services
+Surgical services for inpatients
+Psychiatric services for inpatients
+Other services for inpatients
+Medical and dental services
+General medical services
+Specialized medical services
+Dental services
+Other human health services
+Childbirth and related services
+Nursing services
+Physiotherapeutic services
+Ambulance services
+Medical laboratory services
+Diagnostic-imaging services
+Vocational rehabilitation services
+Child day-care services
+Welfare services without accommodation
+Waste collection services
+General waste collection services
+Hazardous waste treatment services
+Hazardous waste disposal services
+Incineration of non-hazardous waste
+Remediation services
+Building remediation services
+Other remediation services n.e.c.
+Sanitation and similar services
+Other sanitation services
+Services of membership organizations
+Religious services
+Grant-giving services
+Audiovisual and related services
+Sound recording services
+Live recording services
+Sound recording originals
+Radio programme production services
+Audiovisual post-production services
+Audiovisual editing services
+Visual effects services
+Animation services
+Other post-production services
+Motion picture projection services
+Services of performing artists
+Museum and preservation services
+Services of sports clubs
+Services of athletes
+Gambling and betting services
+On-line gambling services
+Coin-operated amusement machine services
+Other services
+Coin-operated laundry services
+Other textile cleaning services
+Pressing services
+Dyeing and colouring services
+Hairdressing and barbers' services
+Physical well-being services
+Cemeteries and cremation services
+Undertaking services
+Other miscellaneous services
+Escort services
+Other miscellaneous services n.e.c.
+Domestic services
