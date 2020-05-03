@@ -1,16 +1,17 @@
 # Data Processing Readme
 
-### Structure
+## Structure
 `./*.ipynb` the notebooks used to preprocess and extract the datasets for each corresponding category.
+
 `./data/*.txt` are the corresponding clean data files.
 
-### Categorywise Remarks
+## Categorywise Remarks
 
-#### Location
+### Location
 Used the UN location code data from [here](http://www.unece.org/cefact/locode/welcome.html). Cleaned the country and province names in the notebook. Data currently segregated into cities, subdivisions and countries list.
 * Should I consider company addresses as data points too here? Access to that data exists as part of [Corpwatch](https://old.datahub.io/dataset/corpwatch) company registries data. 
 
-####  Company Names
+###  Company Names
 Data fetched from [Corpwatch](https://old.datahub.io/dataset/corpwatch).
 Huge collections of company registrations mainly based in the US.
 * Generated *1,083,055* unique company names with probabilistic case variations (uppercase, lowercase, mixedcase), as initial data had all company names in ALLCAPS.
@@ -18,7 +19,7 @@ Huge collections of company registrations mainly based in the US.
 * Example: `TATA SONS & CO` -> `Tata Sons & Co` `tata sons & co` `tata sons` and all case variations.
 	**Clarification :** *Ideally the data should include foreign names of companies too, since the data is meant for international trade. Please clarify if current data is alright.*
 
- #### Products
+ ### Products
   Data sourced from [UNCPC product classification data](https://unstats.un.org/unsd/classifications/Econ/CPC.cshtml) (1058 products), and [Flipkart products dataset](https://www.kaggle.com/PromptCloudHQ/flipkart-products) (an ecommerce site in India) (4061 products).
  ##### Preprocessing
  * Flipkart Dataset
@@ -27,7 +28,7 @@ Huge collections of company registrations mainly based in the US.
 	* Since lots of overlapping and finer product categories, I first create a set of unique items.
 	* Since many products are basically descriptions, I take only products upto length 5 words, and also ignore any further specification, like `Rice, seed`. Can create further case variations.
 
-#### Date
+### Date
 Collected from [OntoNotesv5](https://catalog.ldc.upenn.edu/LDC2013T19) Dataset, where the NER labels also specify any date expressions. Was able to filter out 23,799 various date expressions from the dataset.
  * *Clarification* : Currently the mined date expressions are more natural language text in nature. Should we focus more on standardized date expressions? like `20-08-2014` and `20th Jan 1948`
  For example, 
