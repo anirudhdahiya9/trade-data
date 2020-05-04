@@ -44,7 +44,9 @@ Collected from [OntoNotesv5](https://catalog.ldc.upenn.edu/LDC2013T19) Dataset, 
 	Four years ago
 	year
 	1996
-	```	
+	```
+ * Also generated random date data in various formats, check `data/dates_randomgen.txt`	
+
 ### Random Strings
 This category seems to be meant to capture random ID numbers, like invoice/tracking numbers etc. Created a random number generator, where the delimiter, the number and types of id segments, and the individual segment lengths, all are generated on the fly and randomly. Refer to `random_string.ipynb` for details. Currently generated strings look like
 ```text
