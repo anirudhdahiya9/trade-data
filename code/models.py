@@ -1,7 +1,9 @@
 import torch
 from torch import nn
 import torch.nn.functional as F
+import logging
 
+logger = logging.getLogger('TEXT CLASSIFIER')
 
 class ConvClassifier:
     def __init__(self, num_classes=6, wvocab_size=50000, wv_dim=100,

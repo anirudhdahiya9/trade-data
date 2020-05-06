@@ -3,11 +3,11 @@ import logging
 import os
 from utils import Tokenizer, TextDataset
 from models import ConvClassifier
-import torch
+import pydevd_pycharm
 
 
 def setup_logging(log_path):
-    logger = logging.getLogger(__name__)
+    logger = logging.getLogger('TEXT CLASSIFIER')
     format = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 
     fhandler = logging.FileHandler(log_path)
@@ -45,6 +45,8 @@ def preprocess_data(data_dir, split, tokenizer):
 if __name__ == "__main__":
     parser = ArgumentParser(prog="Text Classifier", description="Training Code for the trade text classifier.")
 
+    parser.add_argument('--remote_debug', type=bool, default=True, help="Flag for the remote debug process.")
+
     parser.add_argument('--mode', choices=('train', 'infer'), required=True, help="Run mode.")
     parser.add_argument('--lint_ascii', default=True, type=bool, help="Run mode.")
     parser.add_argument('--case_lower', default=True, type=bool, help="Run mode.")
@@ -56,6 +58,9 @@ if __name__ == "__main__":
     parser.add_argument('--log_path', default='../logs/main.log', type=str, help="Path to the log file.")
 
     args = parser.parse_args()
+
+    if args.remote_debug:
+        pydevd_pycharm.settrace('10.1.65.133', port=2134, stdoutToServer=True, stderrToServer=True)
 
     setup_logging(args.log_path)
 

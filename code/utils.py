@@ -2,6 +2,10 @@ import unidecode
 import os
 from torch.utils.data import Dataset
 import torch
+import logging
+
+
+logger = logging.getLogger('TEXT CLASSIFIER')
 
 
 def clean_string(inp_string, lint_ascii, case_lower):
