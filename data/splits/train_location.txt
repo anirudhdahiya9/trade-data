@@ -1,0 +1,7028 @@
+Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Antigua and Barbuda
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cabo Verde
+Cambodia
+Cameroon
+Canada
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Cyprus
+Czechia
+Côte d'Ivoire
+Democratic People's Republic of Korea
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Fiji
+Finland
+France
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Holy See
+Honduras
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kuwait
+Kyrgyzstan
+Lao People's Democratic Republic
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Republic of Korea
+Republic of Moldova
+Romania
+Russian Federation
+Rwanda
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Sudan
+Spain
+Sri Lanka
+State of Palestine
+Sudan
+Suriname
+Sweden
+Switzerland
+Syrian Arab Republic
+Tajikistan
+Thailand
+Timor-Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom of Great Britain and Northern Ireland
+United Republic of Tanzania
+United States of America
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Viet Nam
+Yemen
+Zambia
+Zimbabwe
+the Arab Republic of Egypt
+the Argentine Republic
+the Bolivarian Republic of Venezuela
+the Central African Republic
+the Co-operative Republic of Guyana
+the Commonwealth of Dominica
+the Commonwealth of the Bahamas
+the Cook Islands
+the Czech Republic
+the Democratic People's Republic of Korea
+the Democratic Republic of Sao Tome and Principe
+the Democratic Republic of Timor-Leste
+the Democratic Republic of the Congo
+the Democratic Socialist Republic of Sri Lanka
+the Dominican Republic
+the Eastern Republic of Uruguay
+the Federal Democratic Republic of Ethiopia
+the Federal Democratic Republic of Nepal
+the Federal Republic of Germany
+the Federal Republic of Nigeria
+the Federal Republic of Somalia
+the Federated States of Micronesia
+the Federative Republic of Brazil
+the French Republic
+the Gabonese Republic
+the Grand Duchy of Luxembourg
+the Hashemite Kingdom of Jordan
+the Hellenic Republic
+the Holy See
+the Independent State of Papua New Guinea
+the Independent State of Samoa
+the Islamic Republic of Afghanistan
+the Islamic Republic of Iran
+the Islamic Republic of Mauritania
+the Islamic Republic of Pakistan
+the Kingdom of Bahrain
+the Kingdom of Belgium
+the Kingdom of Bhutan
+the Kingdom of Cambodia
+the Kingdom of Denmark
+the Kingdom of Eswatini
+the Kingdom of Lesotho
+the Kingdom of Morocco
+the Kingdom of Norway
+the Kingdom of Saudi Arabia
+the Kingdom of Spain
+the Kingdom of Sweden
+the Kingdom of Thailand
+the Kingdom of Tonga
+the Kingdom of the Netherlands
+the Kyrgyz Republic
+the Lao People's Democratic Republic
+the Lebanese Republic
+the People's Democratic Republic of Algeria
+the People's Republic of Bangladesh
+the People's Republic of China
+the Plurinational State of Bolivia
+the Portuguese Republic
+the Principality of Andorra
+the Principality of Liechtenstein
+the Principality of Monaco
+the Republic of Albania
+the Republic of Angola
+the Republic of Armenia
+the Republic of Austria
+the Republic of Azerbaijan
+the Republic of Belarus
+the Republic of Benin
+the Republic of Botswana
+the Republic of Bulgaria
+the Republic of Burundi
+the Republic of Cabo Verde
+the Republic of Cameroon
+the Republic of Chad
+the Republic of Chile
+the Republic of Colombia
+the Republic of Costa Rica
+the Republic of Croatia
+the Republic of Cuba
+the Republic of Cyprus
+the Republic of Côte d'Ivoire
+the Republic of Djibouti
+the Republic of Ecuador
+the Republic of El Salvador
+the Republic of Equatorial Guinea
+the Republic of Estonia
+the Republic of Fiji
+the Republic of Finland
+the Republic of Ghana
+the Republic of Guatemala
+the Republic of Guinea
+the Republic of Guinea-Bissau
+the Republic of Haiti
+the Republic of Honduras
+the Republic of Iceland
+the Republic of India
+the Republic of Indonesia
+the Republic of Iraq
+the Republic of Italy
+the Republic of Kazakhstan
+the Republic of Kenya
+the Republic of Kiribati
+the Republic of Korea
+the Republic of Latvia
+the Republic of Liberia
+the Republic of Lithuania
+the Republic of Madagascar
+the Republic of Malawi
+the Republic of Maldives
+the Republic of Mali
+the Republic of Malta
+the Republic of Mauritius
+the Republic of Moldova
+the Republic of Mozambique
+the Republic of Namibia
+the Republic of Nauru
+the Republic of Nicaragua
+the Republic of North Macedonia
+the Republic of Palau
+the Republic of Panama
+the Republic of Paraguay
+the Republic of Peru
+the Republic of Poland
+the Republic of Rwanda
+the Republic of San Marino
+the Republic of Senegal
+the Republic of Serbia
+the Republic of Seychelles
+the Republic of Sierra Leone
+the Republic of Singapore
+the Republic of Slovenia
+the Republic of South Africa
+the Republic of South Sudan
+the Republic of Suriname
+the Republic of Tajikistan
+the Republic of Trinidad and Tobago
+the Republic of Tunisia
+the Republic of Turkey
+the Republic of Uganda
+the Republic of Uzbekistan
+the Republic of Vanuatu
+the Republic of Yemen
+the Republic of Zambia
+the Republic of Zimbabwe
+the Republic of the Congo
+the Republic of the Gambia
+the Republic of the Marshall Islands
+the Republic of the Niger
+the Republic of the Philippines
+the Republic of the Sudan
+the Republic of the Union of Myanmar
+the Russian Federation
+the Slovak Republic
+the Socialist Republic of Viet Nam
+the State of Eritrea
+the State of Israel
+the State of Kuwait
+the State of Libya
+the State of Palestine
+the State of Qatar
+the Sultanate of Oman
+the Swiss Confederation
+the Syrian Arab Republic
+the Togolese Republic
+the Union of the Comoros
+the United Arab Emirates
+the United Kingdom of Great Britain and Northern Ireland
+the United Mexican States
+the United Republic of Tanzania
+the United States of America
+Republic of Abkhazia
+Aphsny Axwynthkharra
+Respublika Abkhaziya
+Autonomous Republic of Abkhazia
+Islamic Republic of Afghanistan
+Republic of Albania
+Arnavutluk
+Arbanon
+People's Democratic Republic of Algeria
+Principality of Andorra
+Principat d'Andorra
+Principality of the Valleys of Andorra
+Argentine Republic
+la Argentina
+the Argentine
+Argentine Nation
+Argentine Confederation
+Republic of Armenia
+Republic of Artsakh
+Nagorno-Karabakh Republic
+Artsakh Republic of Mountainous Karabakh
+Republic of Austria
+Republic of Azerbaijan
+Commonwealth of The Bahamas
+Kingdom of Bahrain
+State of Bahrain
+People's Republic of Bangladesh
+Bim
+Bimshire
+Little England
+The Rock
+Republic of Belarus
+Gudija
+Byelorussia
+White Russia
+Kingdom of Belgium
+Royaume de Belgique
+British Honduras
+Republic of Benin
+Kingdom of Bhutan
+Druk Gyal Khap
+Plurinational State of Bolivia
+Estado Plurinacional de Bolivia
+Republic of Bolivia
+Republic of Bosnia and Herzegovina
+Socialist Republic of Bosnia and Herzegovina
+Republic of Botswana
+Pindorama
+Terra de Santa Cruz
+Ilha de Vera Cruz
+Empire of Brazil
+United States of Brazil
+Federative Republic of Brazil
+Terra di Papaga
+Nation of Brunei, the Abode of Peace
+State of Brunei
+Republic of Bulgaria
+People's Republic of Bulgaria
+Haute-Volta
+Bourkina-Fasso
+Republic of Burundi
+Republika y'Uburundi
+Kingdom of Burundi
+Royaume du Cambodge
+Republic of Cameroon
+United Republic of Cameroon
+Dominion of Canada
+Dominion du Canada
+Acadia
+Cabo Verde
+Ubangi-Shari
+Empire Centrafricain
+Republic of Chad
+Republic of Chile
+Chilli
+Chili
+Capitania general de Chile
+People's Republic of China
+PRC
+Communist China
+Red China
+New China
+Shenzhou
+Ch'in Empire
+Cathay
+Zhongguo
+Republic of Colombia
+Estados Unidos de Colombia
+Union of the Comoros
+Union des Comores
+Udzima wa Komori
+United Republic of the Commoros
+DRC
+Congo Kinshasa
+Congo
+Congo Brazzaville
+Republic of Costa Rica
+Republic of Croatia
+Republika Hrvatska
+Republic of Cuba
+Czechia
+CR
+Czechland
+the Czechlands
+Kingdom of Denmark
+Kongeriget Danmark
+French Territory of the Afars and the Issas
+French Somaliland
+Obock Territory
+Territoire d'Obock
+Republic of Djibouti
+Timor-Leste
+Democratic Republic of Timor-Leste
+Aegyptus
+Arab Republic of Egypt
+Eesti
+Viru
+Viro
+Estland
+Maarjamaa
+Igaunija
+Swaziland
+eSwatini
+Kingdom of Eswatini
+Abyssinia
+Habeshastan
+Federal Democratic Republic of Ethiopia
+Al-Habasha
+Republic of Finland
+Suomi
+Suomen tasavalta
+Republiken Finland
+Suomenmaa
+Suopma
+Soome
+French Republic
+L'Hexagone
+Gaule
+La France
+Tsarfat
+Gabonese Republic
+Federal Republic of Germany
+Bundesrepublik Deutschland
+Deutschland
+BRD
+FRG
+Duitsland
+Allemagne
+Alemania
+Germania
+Niemcy
+Nemacia
+Bavaria
+Prussia
+Saksa
+Saxony
+Deutsche Demokratische Republik
+German Democratic Republic
+DDR
+GDR
+United Gold Coast Convention
+Hellas
+Yunanistan
+Hellenic Republic
+Yavan
+Republic of Guinea-Bissau
+Guinea
+Republic of Hungary
+Hungarian People's Republic
+Kingdom of Hungary
+Hungaria
+Republic of Iceland
+Fold
+Thule
+India
+Union of India
+Hindustan
+(Al-)Hind
+Republik Indonesia
+Insulinde
+Indunesia
+Netherlands East-Indies
+Hindia Belanda
+Persia
+Islamic Republic of Iran
+IRI
+I.R.I.
+I.R.I
+Irish Free State
+Republic of Ireland
+Erin
+Banba
+Fodla
+Hibernia
+State of Israel
+Medinat Yisra'el
+Dawlat Isra'il
+the Jewish State
+the Hebrew State
+the Holy Land
+Eretz Yisrael
+Tel Aviv regime
+the 
+Occupied Palestine
+Illegal State of Zion
+Zionistan
+Herzlstan
+Repubblica Italiana
+Italia
+the Beautiful Country
+the Boot
+Ausonia
+Esperia
+Enotria
+Tirrenia
+Xamayca
+Nippon
+Hashemite Kingdom of Jordan
+Republic of Kazakhstan
+Kazakhstan
+Republic of Kazakhstan
+Qazaqstan
+Alash
+Kazakhskaya Sovetskaya Sotsialisticheskaya Respublika
+Jamhuri ya Kenya
+British 
+D.P.R.K.
+DPRK
+Choson Minjujuui Inmin Konghwaguk
+Cho-son
+Korea
+R.O.K.
+ROK
+Dae-han-min-guk
+Han-guk
+Korea
+Republika Kosovo
+Kyrgyz Republic
+Kyrgyz Respublikasy
+Kyrgyzskaya Respublika
+Kyrgyz Sovettik Sotsialisttik Respublikasy
+Kirgizskaya Sovetskaya Sotsialisticheskaya Respublika
+Kirghizia
+Kirgizstan
+Republic of Kyrgyzstan
+Latvija
+Lettland
+Letland
+Letonija
+Letonnie
+Al-Jumhuriyya Al-Lubnaniyya
+Lebnan or Lubnan
+Liban
+Kingdom of Lesotho
+Lietuva
+Litva
+Lietuvos Respublika
+Grand Duchy of Luxembourg
+Madagasikara
+Republic of Madagascar
+Repoblikan'i Madagasikara
+Nyasaland
+Republic of Malawi
+Persekutuan Malaysia
+Federation of Malaysia
+Malaya
+Sabah
+Sarawak
+Tanah Melayu
+Malesiya
+Republic of the Maldives
+The Maldive Islands
+Dhivehi Raajje
+Mahal Dvipa
+Dhibat-al-Mahal
+Islamic Republic of Mauritania
+United Mexican States
+Estados Unidos Mexicanos
+MEX
+MX
+Republika Crna Gora
+Mali i Zi
+Karadag
+Duklja
+Zeta
+Black Mountain
+Republic of the Union of Myanmar
+Kingdom of the Netherlands
+Koninkrijk der Nederlanden
+Nederland
+Batavia
+Pays-Bas
+Federal Democratic Republic Of Nepal
+Republic of North Macedonia
+(Republic of) Macedonia
+The former Yugoslav Republic of Macedonia
+FYROM
+Paeonia
+Kingdom of Norway
+Kongeriket Norge
+Kongeriket Noreg
+Sultanate of Oman
+Sindhustan
+Indoscythia
+Mumlikat-e Khudadaad
+Pakistan
+State of Palestine
+the Holy Land
+Eretz Yisrael
+ and 
+Palestinian territories
+Occupied Palestinian Territory
+Occupied Palestinian Territories
+Peruvian Republic
+Republic of the Philippines
+Pilipinas
+Filipinas
+Las Islas Filipinas
+Las Islas Felipenas
+PH
+Philippine Islands
+Filipina
+Rzeczpospolita Polska
+Polska
+RP
+People's Republic of Poland
+Polonia
+Galaico-Portuguese
+Ophiusa
+Portugalensis patrie
+Portugalensium patrie
+Portugaliae
+Regno Portugalensium
+Portugalis
+Portugalliae et Algarbiae
+Portugalliae
+Lusitaniae
+Purtugall
+Portingall
+Portingal
+Ocidental Praia Lusitana
+Luxitania
+Portugraal
+Associated Free State of Puerto Rico
+Borinquen
+Borinken
+Rumania
+Roumania
+Kingdom of Romania
+Romanian People's Republic
+Russian Federation
+Russia
+Russland
+Rossiya
+RF
+RSFSR
+Union of Soviet Socialist Republics
+USSR
+Soyuz Sovetskikh Sotsialisticheskikh Respublik
+SSSR
+SU
+Sovetskiy Soyuz
+Rus
+Great Russia
+Rwandese Republic
+Republic of Rwanda
+Repubulika y'u Rwanda
+"Pays des mille collines"
+Ruanda
+Federation of Saint Christopher and Nevis
+Saint Christopher and Nevis
+Saint Kitts-Nevis-Anguilla
+Saint Kitts
+Saint Christopher
+Liamuiga
+Oualie
+Hairouna
+Kingdom of Saudi Arabia
+KSA
+Saudia
+Al-Mamlaka al-Arabiyya as-Saudiyya
+Hijaz
+Saudi regime
+Republic of Serbia
+Servia
+Srbija
+Republika Srbija
+Serbia and Montenegro
+Yugoslavia
+Republic of Singapore
+Singapura
+Sinhapura
+Slovak Republic
+Slovensko
+SR
+SSR
+Republic of Slovenia
+Slovenija
+Republika Slovenija
+RS
+Mzansi
+Suid-Afrika
+Zuid-Afrika
+Kingdom of Spain
+Espanya
+Espainia
+La piel de toro
+La pell de brau
+Democratic Socialist Republic of Sri Lanka
+Land of Sinhalese
+Island of Gems
+elangai
+Netherlands Guiana
+Republic of Suriname
+Republiek Suriname
+Surinam
+Konungariket Sverige
+Kingdom of Sweden
+Svea Rike
+Thule
+Svitjod
+Schweiz
+Schweizerische Eidgenossenschaft
+Suisse
+Svizzera
+Confederazione Svizzera
+Svizra
+Confederaziun Svizra
+CH
+China
+ROC
+Zhonggua Taipei
+Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu
+Taipei, China
+Taiwan, Province of China
+Nationalist China
+Free China
+Formosa
+Cathay
+Zhongguo
+United Republic of Tanganyika and Zanzibar
+United Republic of Tanzania
+Deutsch-Ostafrika
+Kingdom of Thailand
+Pridnestrovskaia Moldavskaia Respublica
+Republic of Trinidad and Tobago
+Trinbago
+Tunisia
+Republic of Tunisia
+Turkish Empire
+Sublime Porte
+Ukraine
+UA
+UKR.
+Zaporizhian Host
+United Arab Emirates
+Trucial States
+Al Emirat al Arabbiya al Muttahida
+UAE
+U.A.E.
+The Emirates
+United Kingdom of Great Britain and Northern Ireland
+Britain
+UK
+U.K.
+United Kingdom
+Albion
+Britannia
+Anglia
+Alba
+Caledonia
+Cymru
+Cambria
+Ulster
+United States of America
+America
+the States
+US
+U.S.
+USA
+Usa
+U.S.A.
+U.S.A
+Columbia
+Appalachia
+Alleghany
+United States
+Usono
+Niuhebridis
+Nouvelles Hebrides
+Ripablik blong Vanuatu
+Vanuatri
+An Nam
+Champa
+Socialist Republic of Vietnam
+Democratic Republic of Vietnam
+Republic of Vietnam
+SRV
+S.R.V.
+VN
+V.N.
+Republic of Zambia
+Republic of Rhodesia
+Republic of Zimbabwe
+Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Antigua and Barbuda
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cabo Verde
+Cambodia
+Cameroon
+Canada
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Cyprus
+Czechia
+Côte d'Ivoire
+Democratic People's Republic of Korea
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Fiji
+Finland
+France
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Holy See
+Honduras
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kuwait
+Kyrgyzstan
+Lao People's Democratic Republic
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Republic of Korea
+Republic of Moldova
+Romania
+Russian Federation
+Rwanda
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Sudan
+Spain
+Sri Lanka
+State of Palestine
+Sudan
+Suriname
+Sweden
+Switzerland
+Syrian Arab Republic
+Tajikistan
+Thailand
+Timor-Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom of Great Britain and Northern Ireland
+United Republic of Tanzania
+United States of America
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Viet Nam
+Yemen
+Zambia
+Zimbabwe
+the Arab Republic of Egypt
+the Argentine Republic
+the Bolivarian Republic of Venezuela
+the Central African Republic
+the Co-operative Republic of Guyana
+the Commonwealth of Dominica
+the Commonwealth of the Bahamas
+the Cook Islands
+the Czech Republic
+the Democratic People's Republic of Korea
+the Democratic Republic of Sao Tome and Principe
+the Democratic Republic of Timor-Leste
+the Democratic Republic of the Congo
+the Democratic Socialist Republic of Sri Lanka
+the Dominican Republic
+the Eastern Republic of Uruguay
+the Federal Democratic Republic of Ethiopia
+the Federal Democratic Republic of Nepal
+the Federal Republic of Germany
+the Federal Republic of Nigeria
+the Federal Republic of Somalia
+the Federated States of Micronesia
+the Federative Republic of Brazil
+the French Republic
+the Gabonese Republic
+the Grand Duchy of Luxembourg
+the Hashemite Kingdom of Jordan
+the Hellenic Republic
+the Holy See
+the Independent State of Papua New Guinea
+the Independent State of Samoa
+the Islamic Republic of Afghanistan
+the Islamic Republic of Iran
+the Islamic Republic of Mauritania
+the Islamic Republic of Pakistan
+the Kingdom of Bahrain
+the Kingdom of Belgium
+the Kingdom of Bhutan
+the Kingdom of Cambodia
+the Kingdom of Denmark
+the Kingdom of Eswatini
+the Kingdom of Lesotho
+the Kingdom of Morocco
+the Kingdom of Norway
+the Kingdom of Saudi Arabia
+the Kingdom of Spain
+the Kingdom of Sweden
+the Kingdom of Thailand
+the Kingdom of Tonga
+the Kingdom of the Netherlands
+the Kyrgyz Republic
+the Lao People's Democratic Republic
+the Lebanese Republic
+the People's Democratic Republic of Algeria
+the People's Republic of Bangladesh
+the People's Republic of China
+the Plurinational State of Bolivia
+the Portuguese Republic
+the Principality of Andorra
+the Principality of Liechtenstein
+the Principality of Monaco
+the Republic of Albania
+the Republic of Angola
+the Republic of Armenia
+the Republic of Austria
+the Republic of Azerbaijan
+the Republic of Belarus
+the Republic of Benin
+the Republic of Botswana
+the Republic of Bulgaria
+the Republic of Burundi
+the Republic of Cabo Verde
+the Republic of Cameroon
+the Republic of Chad
+the Republic of Chile
+the Republic of Colombia
+the Republic of Costa Rica
+the Republic of Croatia
+the Republic of Cuba
+the Republic of Cyprus
+the Republic of Côte d'Ivoire
+the Republic of Djibouti
+the Republic of Ecuador
+the Republic of El Salvador
+the Republic of Equatorial Guinea
+the Republic of Estonia
+the Republic of Fiji
+the Republic of Finland
+the Republic of Ghana
+the Republic of Guatemala
+the Republic of Guinea
+the Republic of Guinea-Bissau
+the Republic of Haiti
+the Republic of Honduras
+the Republic of Iceland
+the Republic of India
+the Republic of Indonesia
+the Republic of Iraq
+the Republic of Italy
+the Republic of Kazakhstan
+the Republic of Kenya
+the Republic of Kiribati
+the Republic of Korea
+the Republic of Latvia
+the Republic of Liberia
+the Republic of Lithuania
+the Republic of Madagascar
+the Republic of Malawi
+the Republic of Maldives
+the Republic of Mali
+the Republic of Malta
+the Republic of Mauritius
+the Republic of Moldova
+the Republic of Mozambique
+the Republic of Namibia
+the Republic of Nauru
+the Republic of Nicaragua
+the Republic of North Macedonia
+the Republic of Palau
+the Republic of Panama
+the Republic of Paraguay
+the Republic of Peru
+the Republic of Poland
+the Republic of Rwanda
+the Republic of San Marino
+the Republic of Senegal
+the Republic of Serbia
+the Republic of Seychelles
+the Republic of Sierra Leone
+the Republic of Singapore
+the Republic of Slovenia
+the Republic of South Africa
+the Republic of South Sudan
+the Republic of Suriname
+the Republic of Tajikistan
+the Republic of Trinidad and Tobago
+the Republic of Tunisia
+the Republic of Turkey
+the Republic of Uganda
+the Republic of Uzbekistan
+the Republic of Vanuatu
+the Republic of Yemen
+the Republic of Zambia
+the Republic of Zimbabwe
+the Republic of the Congo
+the Republic of the Gambia
+the Republic of the Marshall Islands
+the Republic of the Niger
+the Republic of the Philippines
+the Republic of the Sudan
+the Republic of the Union of Myanmar
+the Russian Federation
+the Slovak Republic
+the Socialist Republic of Viet Nam
+the State of Eritrea
+the State of Israel
+the State of Kuwait
+the State of Libya
+the State of Palestine
+the State of Qatar
+the Sultanate of Oman
+the Swiss Confederation
+the Syrian Arab Republic
+the Togolese Republic
+the Union of the Comoros
+the United Arab Emirates
+the United Kingdom of Great Britain and Northern Ireland
+the United Mexican States
+the United Republic of Tanzania
+the United States of America
+Republic of Abkhazia
+Aphsny Axwynthkharra
+Respublika Abkhaziya
+Autonomous Republic of Abkhazia
+Islamic Republic of Afghanistan
+Republic of Albania
+Arnavutluk
+Arbanon
+People's Democratic Republic of Algeria
+Principality of Andorra
+Principat d'Andorra
+Principality of the Valleys of Andorra
+Argentine Republic
+la Argentina
+the Argentine
+Argentine Nation
+Argentine Confederation
+Republic of Armenia
+Republic of Artsakh
+Nagorno-Karabakh Republic
+Artsakh Republic of Mountainous Karabakh
+Republic of Austria
+Republic of Azerbaijan
+Commonwealth of The Bahamas
+Kingdom of Bahrain
+State of Bahrain
+People's Republic of Bangladesh
+Bim
+Bimshire
+Little England
+The Rock
+Republic of Belarus
+Gudija
+Byelorussia
+White Russia
+Kingdom of Belgium
+Royaume de Belgique
+British Honduras
+Republic of Benin
+Kingdom of Bhutan
+Druk Gyal Khap
+Plurinational State of Bolivia
+Estado Plurinacional de Bolivia
+Republic of Bolivia
+Republic of Bosnia and Herzegovina
+Socialist Republic of Bosnia and Herzegovina
+Republic of Botswana
+Pindorama
+Terra de Santa Cruz
+Ilha de Vera Cruz
+Empire of Brazil
+United States of Brazil
+Federative Republic of Brazil
+Terra di Papaga
+Nation of Brunei, the Abode of Peace
+State of Brunei
+Republic of Bulgaria
+People's Republic of Bulgaria
+Haute-Volta
+Bourkina-Fasso
+Republic of Burundi
+Republika y'Uburundi
+Kingdom of Burundi
+Royaume du Cambodge
+Republic of Cameroon
+United Republic of Cameroon
+Dominion of Canada
+Dominion du Canada
+Acadia
+Cabo Verde
+Ubangi-Shari
+Empire Centrafricain
+Republic of Chad
+Republic of Chile
+Chilli
+Chili
+Capitania general de Chile
+People's Republic of China
+PRC
+Communist China
+Red China
+New China
+Shenzhou
+Ch'in Empire
+Cathay
+Zhongguo
+Republic of Colombia
+Estados Unidos de Colombia
+Union of the Comoros
+Union des Comores
+Udzima wa Komori
+United Republic of the Commoros
+DRC
+Congo Kinshasa
+Congo
+Congo Brazzaville
+Republic of Costa Rica
+Republic of Croatia
+Republika Hrvatska
+Republic of Cuba
+Czechia
+CR
+Czechland
+the Czechlands
+Kingdom of Denmark
+Kongeriget Danmark
+French Territory of the Afars and the Issas
+French Somaliland
+Obock Territory
+Territoire d'Obock
+Republic of Djibouti
+Timor-Leste
+Democratic Republic of Timor-Leste
+Aegyptus
+Arab Republic of Egypt
+Eesti
+Viru
+Viro
+Estland
+Maarjamaa
+Igaunija
+Swaziland
+eSwatini
+Kingdom of Eswatini
+Abyssinia
+Habeshastan
+Federal Democratic Republic of Ethiopia
+Al-Habasha
+Republic of Finland
+Suomi
+Suomen tasavalta
+Republiken Finland
+Suomenmaa
+Suopma
+Soome
+French Republic
+L'Hexagone
+Gaule
+La France
+Tsarfat
+Gabonese Republic
+Federal Republic of Germany
+Bundesrepublik Deutschland
+Deutschland
+BRD
+FRG
+Duitsland
+Allemagne
+Alemania
+Germania
+Niemcy
+Nemacia
+Bavaria
+Prussia
+Saksa
+Saxony
+Deutsche Demokratische Republik
+German Democratic Republic
+DDR
+GDR
+United Gold Coast Convention
+Hellas
+Yunanistan
+Hellenic Republic
+Yavan
+Republic of Guinea-Bissau
+Guinea
+Republic of Hungary
+Hungarian People's Republic
+Kingdom of Hungary
+Hungaria
+Republic of Iceland
+Fold
+Thule
+India
+Union of India
+Hindustan
+(Al-)Hind
+Republik Indonesia
+Insulinde
+Indunesia
+Netherlands East-Indies
+Hindia Belanda
+Persia
+Islamic Republic of Iran
+IRI
+I.R.I.
+I.R.I
+Irish Free State
+Republic of Ireland
+Erin
+Banba
+Fodla
+Hibernia
+State of Israel
+Medinat Yisra'el
+Dawlat Isra'il
+the Jewish State
+the Hebrew State
+the Holy Land
+Eretz Yisrael
+Tel Aviv regime
+the 
+Occupied Palestine
+Illegal State of Zion
+Zionistan
+Herzlstan
+Repubblica Italiana
+Italia
+the Beautiful Country
+the Boot
+Ausonia
+Esperia
+Enotria
+Tirrenia
+Xamayca
+Nippon
+Hashemite Kingdom of Jordan
+Republic of Kazakhstan
+Kazakhstan
+Republic of Kazakhstan
+Qazaqstan
+Alash
+Kazakhskaya Sovetskaya Sotsialisticheskaya Respublika
+Jamhuri ya Kenya
+British 
+D.P.R.K.
+DPRK
+Choson Minjujuui Inmin Konghwaguk
+Cho-son
+Korea
+R.O.K.
+ROK
+Dae-han-min-guk
+Han-guk
+Korea
+Republika Kosovo
+Kyrgyz Republic
+Kyrgyz Respublikasy
+Kyrgyzskaya Respublika
+Kyrgyz Sovettik Sotsialisttik Respublikasy
+Kirgizskaya Sovetskaya Sotsialisticheskaya Respublika
+Kirghizia
+Kirgizstan
+Republic of Kyrgyzstan
+Latvija
+Lettland
+Letland
+Letonija
+Letonnie
+Al-Jumhuriyya Al-Lubnaniyya
+Lebnan or Lubnan
+Liban
+Kingdom of Lesotho
+Lietuva
+Litva
+Lietuvos Respublika
+Grand Duchy of Luxembourg
+Madagasikara
+Republic of Madagascar
+Repoblikan'i Madagasikara
+Nyasaland
+Republic of Malawi
+Persekutuan Malaysia
+Federation of Malaysia
+Malaya
+Sabah
+Sarawak
+Tanah Melayu
+Malesiya
+Republic of the Maldives
+The Maldive Islands
+Dhivehi Raajje
+Mahal Dvipa
+Dhibat-al-Mahal
+Islamic Republic of Mauritania
+United Mexican States
+Estados Unidos Mexicanos
+MEX
+MX
+Republika Crna Gora
+Mali i Zi
+Karadag
+Duklja
+Zeta
+Black Mountain
+Republic of the Union of Myanmar
+Kingdom of the Netherlands
+Koninkrijk der Nederlanden
+Nederland
+Batavia
+Pays-Bas
+Federal Democratic Republic Of Nepal
+Republic of North Macedonia
+(Republic of) Macedonia
+The former Yugoslav Republic of Macedonia
+FYROM
+Paeonia
+Kingdom of Norway
+Kongeriket Norge
+Kongeriket Noreg
+Sultanate of Oman
+Sindhustan
+Indoscythia
+Mumlikat-e Khudadaad
+Pakistan
+State of Palestine
+the Holy Land
+Eretz Yisrael
+ and 
+Palestinian territories
+Occupied Palestinian Territory
+Occupied Palestinian Territories
+Peruvian Republic
+Republic of the Philippines
+Pilipinas
+Filipinas
+Las Islas Filipinas
+Las Islas Felipenas
+PH
+Philippine Islands
+Filipina
+Rzeczpospolita Polska
+Polska
+RP
+People's Republic of Poland
+Polonia
+Galaico-Portuguese
+Ophiusa
+Portugalensis patrie
+Portugalensium patrie
+Portugaliae
+Regno Portugalensium
+Portugalis
+Portugalliae et Algarbiae
+Portugalliae
+Lusitaniae
+Purtugall
+Portingall
+Portingal
+Ocidental Praia Lusitana
+Luxitania
+Portugraal
+Associated Free State of Puerto Rico
+Borinquen
+Borinken
+Rumania
+Roumania
+Kingdom of Romania
+Romanian People's Republic
+Russian Federation
+Russia
+Russland
+Rossiya
+RF
+RSFSR
+Union of Soviet Socialist Republics
+USSR
+Soyuz Sovetskikh Sotsialisticheskikh Respublik
+SSSR
+SU
+Sovetskiy Soyuz
+Rus
+Great Russia
+Rwandese Republic
+Republic of Rwanda
+Repubulika y'u Rwanda
+"Pays des mille collines"
+Ruanda
+Federation of Saint Christopher and Nevis
+Saint Christopher and Nevis
+Saint Kitts-Nevis-Anguilla
+Saint Kitts
+Saint Christopher
+Liamuiga
+Oualie
+Hairouna
+Kingdom of Saudi Arabia
+KSA
+Saudia
+Al-Mamlaka al-Arabiyya as-Saudiyya
+Hijaz
+Saudi regime
+Republic of Serbia
+Servia
+Srbija
+Republika Srbija
+Serbia and Montenegro
+Yugoslavia
+Republic of Singapore
+Singapura
+Sinhapura
+Slovak Republic
+Slovensko
+SR
+SSR
+Republic of Slovenia
+Slovenija
+Republika Slovenija
+RS
+Mzansi
+Suid-Afrika
+Zuid-Afrika
+Kingdom of Spain
+Espanya
+Espainia
+La piel de toro
+La pell de brau
+Democratic Socialist Republic of Sri Lanka
+Land of Sinhalese
+Island of Gems
+elangai
+Netherlands Guiana
+Republic of Suriname
+Republiek Suriname
+Surinam
+Konungariket Sverige
+Kingdom of Sweden
+Svea Rike
+Thule
+Svitjod
+Schweiz
+Schweizerische Eidgenossenschaft
+Suisse
+Svizzera
+Confederazione Svizzera
+Svizra
+Confederaziun Svizra
+CH
+China
+ROC
+Zhonggua Taipei
+Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu
+Taipei, China
+Taiwan, Province of China
+Nationalist China
+Free China
+Formosa
+Cathay
+Zhongguo
+United Republic of Tanganyika and Zanzibar
+United Republic of Tanzania
+Deutsch-Ostafrika
+Kingdom of Thailand
+Pridnestrovskaia Moldavskaia Respublica
+Republic of Trinidad and Tobago
+Trinbago
+Tunisia
+Republic of Tunisia
+Turkish Empire
+Sublime Porte
+Ukraine
+UA
+UKR.
+Zaporizhian Host
+United Arab Emirates
+Trucial States
+Al Emirat al Arabbiya al Muttahida
+UAE
+U.A.E.
+The Emirates
+United Kingdom of Great Britain and Northern Ireland
+Britain
+UK
+U.K.
+United Kingdom
+Albion
+Britannia
+Anglia
+Alba
+Caledonia
+Cymru
+Cambria
+Ulster
+United States of America
+America
+the States
+US
+U.S.
+USA
+Usa
+U.S.A.
+U.S.A
+Columbia
+Appalachia
+Alleghany
+United States
+Usono
+Niuhebridis
+Nouvelles Hebrides
+Ripablik blong Vanuatu
+Vanuatri
+An Nam
+Champa
+Socialist Republic of Vietnam
+Democratic Republic of Vietnam
+Republic of Vietnam
+SRV
+S.R.V.
+VN
+V.N.
+Republic of Zambia
+Republic of Rhodesia
+Republic of Zimbabwe
+Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Antigua and Barbuda
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cabo Verde
+Cambodia
+Cameroon
+Canada
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Cyprus
+Czechia
+Côte d'Ivoire
+Democratic People's Republic of Korea
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Fiji
+Finland
+France
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Holy See
+Honduras
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kuwait
+Kyrgyzstan
+Lao People's Democratic Republic
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Republic of Korea
+Republic of Moldova
+Romania
+Russian Federation
+Rwanda
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Sudan
+Spain
+Sri Lanka
+State of Palestine
+Sudan
+Suriname
+Sweden
+Switzerland
+Syrian Arab Republic
+Tajikistan
+Thailand
+Timor-Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom of Great Britain and Northern Ireland
+United Republic of Tanzania
+United States of America
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Viet Nam
+Yemen
+Zambia
+Zimbabwe
+the Arab Republic of Egypt
+the Argentine Republic
+the Bolivarian Republic of Venezuela
+the Central African Republic
+the Co-operative Republic of Guyana
+the Commonwealth of Dominica
+the Commonwealth of the Bahamas
+the Cook Islands
+the Czech Republic
+the Democratic People's Republic of Korea
+the Democratic Republic of Sao Tome and Principe
+the Democratic Republic of Timor-Leste
+the Democratic Republic of the Congo
+the Democratic Socialist Republic of Sri Lanka
+the Dominican Republic
+the Eastern Republic of Uruguay
+the Federal Democratic Republic of Ethiopia
+the Federal Democratic Republic of Nepal
+the Federal Republic of Germany
+the Federal Republic of Nigeria
+the Federal Republic of Somalia
+the Federated States of Micronesia
+the Federative Republic of Brazil
+the French Republic
+the Gabonese Republic
+the Grand Duchy of Luxembourg
+the Hashemite Kingdom of Jordan
+the Hellenic Republic
+the Holy See
+the Independent State of Papua New Guinea
+the Independent State of Samoa
+the Islamic Republic of Afghanistan
+the Islamic Republic of Iran
+the Islamic Republic of Mauritania
+the Islamic Republic of Pakistan
+the Kingdom of Bahrain
+the Kingdom of Belgium
+the Kingdom of Bhutan
+the Kingdom of Cambodia
+the Kingdom of Denmark
+the Kingdom of Eswatini
+the Kingdom of Lesotho
+the Kingdom of Morocco
+the Kingdom of Norway
+the Kingdom of Saudi Arabia
+the Kingdom of Spain
+the Kingdom of Sweden
+the Kingdom of Thailand
+the Kingdom of Tonga
+the Kingdom of the Netherlands
+the Kyrgyz Republic
+the Lao People's Democratic Republic
+the Lebanese Republic
+the People's Democratic Republic of Algeria
+the People's Republic of Bangladesh
+the People's Republic of China
+the Plurinational State of Bolivia
+the Portuguese Republic
+the Principality of Andorra
+the Principality of Liechtenstein
+the Principality of Monaco
+the Republic of Albania
+the Republic of Angola
+the Republic of Armenia
+the Republic of Austria
+the Republic of Azerbaijan
+the Republic of Belarus
+the Republic of Benin
+the Republic of Botswana
+the Republic of Bulgaria
+the Republic of Burundi
+the Republic of Cabo Verde
+the Republic of Cameroon
+the Republic of Chad
+the Republic of Chile
+the Republic of Colombia
+the Republic of Costa Rica
+the Republic of Croatia
+the Republic of Cuba
+the Republic of Cyprus
+the Republic of Côte d'Ivoire
+the Republic of Djibouti
+the Republic of Ecuador
+the Republic of El Salvador
+the Republic of Equatorial Guinea
+the Republic of Estonia
+the Republic of Fiji
+the Republic of Finland
+the Republic of Ghana
+the Republic of Guatemala
+the Republic of Guinea
+the Republic of Guinea-Bissau
+the Republic of Haiti
+the Republic of Honduras
+the Republic of Iceland
+the Republic of India
+the Republic of Indonesia
+the Republic of Iraq
+the Republic of Italy
+the Republic of Kazakhstan
+the Republic of Kenya
+the Republic of Kiribati
+the Republic of Korea
+the Republic of Latvia
+the Republic of Liberia
+the Republic of Lithuania
+the Republic of Madagascar
+the Republic of Malawi
+the Republic of Maldives
+the Republic of Mali
+the Republic of Malta
+the Republic of Mauritius
+the Republic of Moldova
+the Republic of Mozambique
+the Republic of Namibia
+the Republic of Nauru
+the Republic of Nicaragua
+the Republic of North Macedonia
+the Republic of Palau
+the Republic of Panama
+the Republic of Paraguay
+the Republic of Peru
+the Republic of Poland
+the Republic of Rwanda
+the Republic of San Marino
+the Republic of Senegal
+the Republic of Serbia
+the Republic of Seychelles
+the Republic of Sierra Leone
+the Republic of Singapore
+the Republic of Slovenia
+the Republic of South Africa
+the Republic of South Sudan
+the Republic of Suriname
+the Republic of Tajikistan
+the Republic of Trinidad and Tobago
+the Republic of Tunisia
+the Republic of Turkey
+the Republic of Uganda
+the Republic of Uzbekistan
+the Republic of Vanuatu
+the Republic of Yemen
+the Republic of Zambia
+the Republic of Zimbabwe
+the Republic of the Congo
+the Republic of the Gambia
+the Republic of the Marshall Islands
+the Republic of the Niger
+the Republic of the Philippines
+the Republic of the Sudan
+the Republic of the Union of Myanmar
+the Russian Federation
+the Slovak Republic
+the Socialist Republic of Viet Nam
+the State of Eritrea
+the State of Israel
+the State of Kuwait
+the State of Libya
+the State of Palestine
+the State of Qatar
+the Sultanate of Oman
+the Swiss Confederation
+the Syrian Arab Republic
+the Togolese Republic
+the Union of the Comoros
+the United Arab Emirates
+the United Kingdom of Great Britain and Northern Ireland
+the United Mexican States
+the United Republic of Tanzania
+the United States of America
+Republic of Abkhazia
+Aphsny Axwynthkharra
+Respublika Abkhaziya
+Autonomous Republic of Abkhazia
+Islamic Republic of Afghanistan
+Republic of Albania
+Arnavutluk
+Arbanon
+People's Democratic Republic of Algeria
+Principality of Andorra
+Principat d'Andorra
+Principality of the Valleys of Andorra
+Argentine Republic
+la Argentina
+the Argentine
+Argentine Nation
+Argentine Confederation
+Republic of Armenia
+Republic of Artsakh
+Nagorno-Karabakh Republic
+Artsakh Republic of Mountainous Karabakh
+Republic of Austria
+Republic of Azerbaijan
+Commonwealth of The Bahamas
+Kingdom of Bahrain
+State of Bahrain
+People's Republic of Bangladesh
+Bim
+Bimshire
+Little England
+The Rock
+Republic of Belarus
+Gudija
+Byelorussia
+White Russia
+Kingdom of Belgium
+Royaume de Belgique
+British Honduras
+Republic of Benin
+Kingdom of Bhutan
+Druk Gyal Khap
+Plurinational State of Bolivia
+Estado Plurinacional de Bolivia
+Republic of Bolivia
+Republic of Bosnia and Herzegovina
+Socialist Republic of Bosnia and Herzegovina
+Republic of Botswana
+Pindorama
+Terra de Santa Cruz
+Ilha de Vera Cruz
+Empire of Brazil
+United States of Brazil
+Federative Republic of Brazil
+Terra di Papaga
+Nation of Brunei, the Abode of Peace
+State of Brunei
+Republic of Bulgaria
+People's Republic of Bulgaria
+Haute-Volta
+Bourkina-Fasso
+Republic of Burundi
+Republika y'Uburundi
+Kingdom of Burundi
+Royaume du Cambodge
+Republic of Cameroon
+United Republic of Cameroon
+Dominion of Canada
+Dominion du Canada
+Acadia
+Cabo Verde
+Ubangi-Shari
+Empire Centrafricain
+Republic of Chad
+Republic of Chile
+Chilli
+Chili
+Capitania general de Chile
+People's Republic of China
+PRC
+Communist China
+Red China
+New China
+Shenzhou
+Ch'in Empire
+Cathay
+Zhongguo
+Republic of Colombia
+Estados Unidos de Colombia
+Union of the Comoros
+Union des Comores
+Udzima wa Komori
+United Republic of the Commoros
+DRC
+Congo Kinshasa
+Congo
+Congo Brazzaville
+Republic of Costa Rica
+Republic of Croatia
+Republika Hrvatska
+Republic of Cuba
+Czechia
+CR
+Czechland
+the Czechlands
+Kingdom of Denmark
+Kongeriget Danmark
+French Territory of the Afars and the Issas
+French Somaliland
+Obock Territory
+Territoire d'Obock
+Republic of Djibouti
+Timor-Leste
+Democratic Republic of Timor-Leste
+Aegyptus
+Arab Republic of Egypt
+Eesti
+Viru
+Viro
+Estland
+Maarjamaa
+Igaunija
+Swaziland
+eSwatini
+Kingdom of Eswatini
+Abyssinia
+Habeshastan
+Federal Democratic Republic of Ethiopia
+Al-Habasha
+Republic of Finland
+Suomi
+Suomen tasavalta
+Republiken Finland
+Suomenmaa
+Suopma
+Soome
+French Republic
+L'Hexagone
+Gaule
+La France
+Tsarfat
+Gabonese Republic
+Federal Republic of Germany
+Bundesrepublik Deutschland
+Deutschland
+BRD
+FRG
+Duitsland
+Allemagne
+Alemania
+Germania
+Niemcy
+Nemacia
+Bavaria
+Prussia
+Saksa
+Saxony
+Deutsche Demokratische Republik
+German Democratic Republic
+DDR
+GDR
+United Gold Coast Convention
+Hellas
+Yunanistan
+Hellenic Republic
+Yavan
+Republic of Guinea-Bissau
+Guinea
+Republic of Hungary
+Hungarian People's Republic
+Kingdom of Hungary
+Hungaria
+Republic of Iceland
+Fold
+Thule
+India
+Union of India
+Hindustan
+(Al-)Hind
+Republik Indonesia
+Insulinde
+Indunesia
+Netherlands East-Indies
+Hindia Belanda
+Persia
+Islamic Republic of Iran
+IRI
+I.R.I.
+I.R.I
+Irish Free State
+Republic of Ireland
+Erin
+Banba
+Fodla
+Hibernia
+State of Israel
+Medinat Yisra'el
+Dawlat Isra'il
+the Jewish State
+the Hebrew State
+the Holy Land
+Eretz Yisrael
+Tel Aviv regime
+the 
+Occupied Palestine
+Illegal State of Zion
+Zionistan
+Herzlstan
+Repubblica Italiana
+Italia
+the Beautiful Country
+the Boot
+Ausonia
+Esperia
+Enotria
+Tirrenia
+Xamayca
+Nippon
+Hashemite Kingdom of Jordan
+Republic of Kazakhstan
+Kazakhstan
+Republic of Kazakhstan
+Qazaqstan
+Alash
+Kazakhskaya Sovetskaya Sotsialisticheskaya Respublika
+Jamhuri ya Kenya
+British 
+D.P.R.K.
+DPRK
+Choson Minjujuui Inmin Konghwaguk
+Cho-son
+Korea
+R.O.K.
+ROK
+Dae-han-min-guk
+Han-guk
+Korea
+Republika Kosovo
+Kyrgyz Republic
+Kyrgyz Respublikasy
+Kyrgyzskaya Respublika
+Kyrgyz Sovettik Sotsialisttik Respublikasy
+Kirgizskaya Sovetskaya Sotsialisticheskaya Respublika
+Kirghizia
+Kirgizstan
+Republic of Kyrgyzstan
+Latvija
+Lettland
+Letland
+Letonija
+Letonnie
+Al-Jumhuriyya Al-Lubnaniyya
+Lebnan or Lubnan
+Liban
+Kingdom of Lesotho
+Lietuva
+Litva
+Lietuvos Respublika
+Grand Duchy of Luxembourg
+Madagasikara
+Republic of Madagascar
+Repoblikan'i Madagasikara
+Nyasaland
+Republic of Malawi
+Persekutuan Malaysia
+Federation of Malaysia
+Malaya
+Sabah
+Sarawak
+Tanah Melayu
+Malesiya
+Republic of the Maldives
+The Maldive Islands
+Dhivehi Raajje
+Mahal Dvipa
+Dhibat-al-Mahal
+Islamic Republic of Mauritania
+United Mexican States
+Estados Unidos Mexicanos
+MEX
+MX
+Republika Crna Gora
+Mali i Zi
+Karadag
+Duklja
+Zeta
+Black Mountain
+Republic of the Union of Myanmar
+Kingdom of the Netherlands
+Koninkrijk der Nederlanden
+Nederland
+Batavia
+Pays-Bas
+Federal Democratic Republic Of Nepal
+Republic of North Macedonia
+(Republic of) Macedonia
+The former Yugoslav Republic of Macedonia
+FYROM
+Paeonia
+Kingdom of Norway
+Kongeriket Norge
+Kongeriket Noreg
+Sultanate of Oman
+Sindhustan
+Indoscythia
+Mumlikat-e Khudadaad
+Pakistan
+State of Palestine
+the Holy Land
+Eretz Yisrael
+ and 
+Palestinian territories
+Occupied Palestinian Territory
+Occupied Palestinian Territories
+Peruvian Republic
+Republic of the Philippines
+Pilipinas
+Filipinas
+Las Islas Filipinas
+Las Islas Felipenas
+PH
+Philippine Islands
+Filipina
+Rzeczpospolita Polska
+Polska
+RP
+People's Republic of Poland
+Polonia
+Galaico-Portuguese
+Ophiusa
+Portugalensis patrie
+Portugalensium patrie
+Portugaliae
+Regno Portugalensium
+Portugalis
+Portugalliae et Algarbiae
+Portugalliae
+Lusitaniae
+Purtugall
+Portingall
+Portingal
+Ocidental Praia Lusitana
+Luxitania
+Portugraal
+Associated Free State of Puerto Rico
+Borinquen
+Borinken
+Rumania
+Roumania
+Kingdom of Romania
+Romanian People's Republic
+Russian Federation
+Russia
+Russland
+Rossiya
+RF
+RSFSR
+Union of Soviet Socialist Republics
+USSR
+Soyuz Sovetskikh Sotsialisticheskikh Respublik
+SSSR
+SU
+Sovetskiy Soyuz
+Rus
+Great Russia
+Rwandese Republic
+Republic of Rwanda
+Repubulika y'u Rwanda
+"Pays des mille collines"
+Ruanda
+Federation of Saint Christopher and Nevis
+Saint Christopher and Nevis
+Saint Kitts-Nevis-Anguilla
+Saint Kitts
+Saint Christopher
+Liamuiga
+Oualie
+Hairouna
+Kingdom of Saudi Arabia
+KSA
+Saudia
+Al-Mamlaka al-Arabiyya as-Saudiyya
+Hijaz
+Saudi regime
+Republic of Serbia
+Servia
+Srbija
+Republika Srbija
+Serbia and Montenegro
+Yugoslavia
+Republic of Singapore
+Singapura
+Sinhapura
+Slovak Republic
+Slovensko
+SR
+SSR
+Republic of Slovenia
+Slovenija
+Republika Slovenija
+RS
+Mzansi
+Suid-Afrika
+Zuid-Afrika
+Kingdom of Spain
+Espanya
+Espainia
+La piel de toro
+La pell de brau
+Democratic Socialist Republic of Sri Lanka
+Land of Sinhalese
+Island of Gems
+elangai
+Netherlands Guiana
+Republic of Suriname
+Republiek Suriname
+Surinam
+Konungariket Sverige
+Kingdom of Sweden
+Svea Rike
+Thule
+Svitjod
+Schweiz
+Schweizerische Eidgenossenschaft
+Suisse
+Svizzera
+Confederazione Svizzera
+Svizra
+Confederaziun Svizra
+CH
+China
+ROC
+Zhonggua Taipei
+Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu
+Taipei, China
+Taiwan, Province of China
+Nationalist China
+Free China
+Formosa
+Cathay
+Zhongguo
+United Republic of Tanganyika and Zanzibar
+United Republic of Tanzania
+Deutsch-Ostafrika
+Kingdom of Thailand
+Pridnestrovskaia Moldavskaia Respublica
+Republic of Trinidad and Tobago
+Trinbago
+Tunisia
+Republic of Tunisia
+Turkish Empire
+Sublime Porte
+Ukraine
+UA
+UKR.
+Zaporizhian Host
+United Arab Emirates
+Trucial States
+Al Emirat al Arabbiya al Muttahida
+UAE
+U.A.E.
+The Emirates
+United Kingdom of Great Britain and Northern Ireland
+Britain
+UK
+U.K.
+United Kingdom
+Albion
+Britannia
+Anglia
+Alba
+Caledonia
+Cymru
+Cambria
+Ulster
+United States of America
+America
+the States
+US
+U.S.
+USA
+Usa
+U.S.A.
+U.S.A
+Columbia
+Appalachia
+Alleghany
+United States
+Usono
+Niuhebridis
+Nouvelles Hebrides
+Ripablik blong Vanuatu
+Vanuatri
+An Nam
+Champa
+Socialist Republic of Vietnam
+Democratic Republic of Vietnam
+Republic of Vietnam
+SRV
+S.R.V.
+VN
+V.N.
+Republic of Zambia
+Republic of Rhodesia
+Republic of Zimbabwe
+Samsun, Turkey
+Samsun
+Islam Shahr (Qasemabad)
+Islam Shahr
+Qasemabad
+Shubra-El-Khema, Egypt
+Shubra-El-Khema
+Ulsan, South Korea
+Ulsan
+Yokosuka, Japan
+Yokosuka
+Cuernavaca, Mexico
+Cuernavaca
+Daejeon (Taejon)
+Daejeon
+Taejon
+Ciudad del Este, Paraguay
+Ciudad del Este
+Gunpo (Kunpo)
+Gunpo
+Kunpo
+Chongzhou, China
+Chongzhou
+Barcelona-Puerto La Cruz, Venezuela
+Barcelona-Puerto La Cruz
+Zhenjiang, China
+Zhenjiang
+Yakeshi, China
+Yakeshi
+Gwangju (Kwangchu)
+Gwangju
+Kwangchu
+Jacksonville (FL)
+Jacksonville
+FL
+Palmira, Colombia
+Palmira
+Dehradun, India
+Dehradun
+Mokpo, South Korea
+Mokpo
+Franca, Brazil
+Franca
+NOUAKCHOTT, Mauritania
+NOUAKCHOTT
+LILONGWE, Malawi
+LILONGWE
+San Pedro de Macoris, Dominican Republic
+San Pedro de Macoris
+Longquan, China
+Longquan
+Faiyûm, Egypt
+Faiyûm
+ANTANANARIVO, Madagascar
+ANTANANARIVO
+Qingtongxia, China
+Qingtongxia
+Lianyuan, China
+Lianyuan
+Lyon, France
+Lyon
+Guangzhou, China
+Guangzhou
+Xinxiang, China
+Xinxiang
+Taraz, Kazakhstan
+Taraz
+Chandrapur, India
+Chandrapur
+Jiyuan, China
+Jiyuan
+Diyarbakir, Turkey
+Diyarbakir
+Cincinnati (OH)
+Cincinnati
+OH
+Kawasaki, Japan
+Kawasaki
+Baoji, China
+Baoji
+Zengcheng, China
+Zengcheng
+Sihui, China
+Sihui
+VIENNA, Austria
+VIENNA
+Tolyatti, Russia
+Tolyatti
+Nanded, India
+Nanded
+Yangquan, China
+Yangquan
+San Jose (CA)
+San Jose
+CA
+Mandaue, Philippines
+Mandaue
+Smolensk, Russia
+Smolensk
+Astrakhan, Russia
+Astrakhan
+Agra, India
+Agra
+Kaiyuan (Yunnan)
+Kaiyuan
+Yunnan
+San Miguel de Tucumán, Argentina
+San Miguel de Tucumán
+Irapuato, Mexico
+Irapuato
+Angeles, Philippines
+Angeles
+Guiyang, China
+Guiyang
+Mönchengladbach, Germany
+Mönchengladbach
+Bristol, United Kingdom
+Bristol
+NAIROBI, Kenya
+NAIROBI
+Jianyang (Sichuan)
+Jianyang
+Sichuan
+Maracaibo, Venezuela
+Maracaibo
+San Francisco (CA)
+San Francisco
+CA
+Siliguri, India
+Siliguri
+Wendeng, China
+Wendeng
+Constantine (Qacentina)
+Constantine
+Qacentina
+Linfen, China
+Linfen
+Nehe, China
+Nehe
+Fuyang (Anhui)
+Fuyang
+Anhui
+Kerman, Iran
+Kerman
+Wanyuan, China
+Wanyuan
+Bhavnagar, India
+Bhavnagar
+Xinhui, China
+Xinhui
+PRETORIA, South Africa
+PRETORIA
+Camagüey, Cuba
+Camagüey
+Belém, Brazil
+Belém
+Zhuhai, China
+Zhuhai
+Zagazig, Egypt
+Zagazig
+Penza, Russia
+Penza
+RIGA, Latvia
+RIGA
+Huazhou, China
+Huazhou
+Takasaki, Japan
+Takasaki
+Tongling, China
+Tongling
+Pimpri Chinchwad, India
+Pimpri Chinchwad
+KISHINEV, Moldova
+KISHINEV
+Al-Mubarraz, Saudi Arabia
+Al-Mubarraz
+Cuenca, Ecuador
+Cuenca
+Tlaxcala, Mexico
+Tlaxcala
+The Hague, Netherlands
+The Hague
+Tanta, Egypt
+Tanta
+Safi, Morocco
+Safi
+Khamis Mushayt, Saudi Arabia
+Khamis Mushayt
+Shaoyang, China
+Shaoyang
+LA PAZ, Bolivia
+LA PAZ
+Londrina, Brazil
+Londrina
+Arkhangelsk, Russia
+Arkhangelsk
+Renhuai, China
+Renhuai
+Korba, India
+Korba
+Al-Hudaydah (Hodeidah)
+Al-Hudaydah
+Hodeidah
+Songyuan, China
+Songyuan
+Kolhapur, India
+Kolhapur
+Moradabad, India
+Moradabad
+Qitaihe, China
+Qitaihe
+Butuan, Philippines
+Butuan
+Baoshan, China
+Baoshan
+San Isidro, Argentina
+San Isidro
+Pune, India
+Pune
+Kashiwa, Japan
+Kashiwa
+Gongyi, China
+Gongyi
+Rajpur Sonarpur, India
+Rajpur Sonarpur
+Durgapur, India
+Durgapur
+Hà Noi (HANOI)
+Hà Noi
+HANOI
+Gajuwaka, India
+Gajuwaka
+Ganja, Azerbaijan
+Ganja
+Najran (Aba as-Suud)
+Najran
+Aba as-Suud
+Toledo (OH)
+Toledo
+OH
+OTTAWA, Canada
+OTTAWA
+Huludao, China
+Huludao
+Huozhou, China
+Huozhou
+SANA'A, Yemen
+SANA'A
+Cherkasy, Ukraine
+Cherkasy
+Cascavel, Brazil
+Cascavel
+CAIRO, Egypt
+CAIRO
+Toyota, Japan
+Toyota
+Khayelitsa, South Africa
+Khayelitsa
+Bijie, China
+Bijie
+Shouguang, China
+Shouguang
+Jiamusi, China
+Jiamusi
+Sao José dos Campos, Brazil
+Sao José dos Campos
+Santiago del Estero, Argentina
+Santiago del Estero
+Messina, Italy
+Messina
+Chuzhou, China
+Chuzhou
+Santiago de los Caballeros, Dominican Republic
+Santiago de los Caballeros
+Wulanhaote, China
+Wulanhaote
+Johore Bharu, Malaysia
+Johore Bharu
+Hamhung, North Korea
+Hamhung
+Kure, Japan
+Kure
+YAOUNDE, Cameroon
+YAOUNDE
+Jammu, India
+Jammu
+Shihezi, China
+Shihezi
+Al-Hasakeh, Syria
+Al-Hasakeh
+Jaboatao dos Guarapes, Brazil
+Jaboatao dos Guarapes
+Caloocan, Philippines
+Caloocan
+Sfax, Tunisia
+Sfax
+Danjiangkou, China
+Danjiangkou
+Kakogawa, Japan
+Kakogawa
+Cheboksary, Russia
+Cheboksary
+Paranaque, Philippines
+Paranaque
+Mannheim, Germany
+Mannheim
+Emeishan, China
+Emeishan
+Dandong, China
+Dandong
+Zhoukou, China
+Zhoukou
+Feira de Santana, Brazil
+Feira de Santana
+Xi'ning, China
+Xi'ning
+Vila Velha, Brazil
+Vila Velha
+Dzerzhinsk (Novgorodskaya oblast)
+Dzerzhinsk
+Novgorodskaya oblast
+Patiala, India
+Patiala
+Namangan, Uzbekistan
+Namangan
+Alicante, Spain
+Alicante
+Shanwei, China
+Shanwei
+Hama, Syria
+Hama
+Suita, Japan
+Suita
+Chandigarh, India
+Chandigarh
+Malmö, Sweden
+Malmö
+Hangzhou (Hangchow)
+Hangzhou
+Hangchow
+DHAKA, Bangladesh
+DHAKA
+Hengyang, China
+Hengyang
+Santa Maria, Brazil
+Santa Maria
+Faisalabad (Lyallpur)
+Faisalabad
+Lyallpur
+Samarinda, Indonesia
+Samarinda
+Kempton Park, South Africa
+Kempton Park
+Windsor, Canada
+Windsor
+Boa Vista, Brazil
+Boa Vista
+Fengzhen, China
+Fengzhen
+Lomas de Zamora, Argentina
+Lomas de Zamora
+Kaluga, Russia
+Kaluga
+Konya, Turkey
+Konya
+Wuhan, China
+Wuhan
+Songkhla, Thailand
+Songkhla
+Zhangzhou, China
+Zhangzhou
+MOSCOW, Russia
+MOSCOW
+Hulin, China
+Hulin
+KUALA LUMPUR, Malaysia
+KUALA LUMPUR
+Tengzhou, China
+Tengzhou
+Edmonton, Canada
+Edmonton
+Magnitogorsk, Russia
+Magnitogorsk
+BANGUI, Central African Republic
+BANGUI
+At-Ta'if, Saudi Arabia
+At-Ta'if
+Wafangdian, China
+Wafangdian
+Huiyang, China
+Huiyang
+Beian, China
+Beian
+Bouake, Côte d'Ivoire
+Bouake
+Yixing, China
+Yixing
+Yingde, China
+Yingde
+Shaoguan, China
+Shaoguan
+Pasig, Philippines
+Pasig
+Abeokuta, Nigeria
+Abeokuta
+Alwar, India
+Alwar
+Kulti, India
+Kulti
+Hancheng, China
+Hancheng
+Imbaba, Egypt
+Imbaba
+Bazhong, China
+Bazhong
+BAMAKO, Mali
+BAMAKO
+Gold Coast-Tweed, Australia
+Gold Coast-Tweed
+München, Germany
+München
+Haimen, China
+Haimen
+MANAGUA, Nicaragua
+MANAGUA
+Victoria, Canada
+Victoria
+Haiphong, Viet Nam
+Haiphong
+Phyongsong, North Korea
+Phyongsong
+Rasht, Iran
+Rasht
+Yuxi, China
+Yuxi
+Huangshan, China
+Huangshan
+Seattle (WA)
+Seattle
+WA
+Halle, Germany
+Halle
+Lianzhou, China
+Lianzhou
+Auckland, New Zealand
+Auckland
+Jinju (Chinju)
+Jinju
+Chinju
+Shimoga, India
+Shimoga
+Long Beach (CA)
+Long Beach
+CA
+Zhangqiu, China
+Zhangqiu
+Izmir, Turkey
+Izmir
+Kaliningrad (Kaliningradskaya oblast)
+Kaliningrad
+Kaliningradskaya oblast
+Tampa (FL)
+Tampa
+FL
+Mumbai (Bombay)
+Mumbai
+Bombay
+ABU DHABI, United Arab Emirates
+ABU DHABI
+Dresden, Germany
+Dresden
+Fangchenggang, China
+Fangchenggang
+Mito, Japan
+Mito
+Foshan, China
+Foshan
+Augsburg, Germany
+Augsburg
+Mixco, Guatemala
+Mixco
+Tulsa (OK)
+Tulsa
+OK
+Stuttgart, Germany
+Stuttgart
+Haikou, China
+Haikou
+Kaiping, China
+Kaiping
+TEGUCIGALPA, Honduras
+TEGUCIGALPA
+Tianchang, China
+Tianchang
+SARAJEVO, Bosnia and Herzegovina
+SARAJEVO
+San Juan, Argentina
+San Juan
+Fukuyama, Japan
+Fukuyama
+Sanandaj, Iran
+Sanandaj
+Higashiosaka, Japan
+Higashiosaka
+Koshigaya, Japan
+Koshigaya
+Nanxiong, China
+Nanxiong
+Plano (TX)
+Plano
+TX
+Tangerang, Indonesia
+Tangerang
+Wugang (Hunan)
+Wugang
+Hunan
+Ibadan, Nigeria
+Ibadan
+Bâle, Switzerland
+Bâle
+Dortmund, Germany
+Dortmund
+Chon Buri, Thailand
+Chon Buri
+Kurgan, Russia
+Kurgan
+Faridabad, India
+Faridabad
+Rongcheng, China
+Rongcheng
+VIENTIANE, Laos
+VIENTIANE
+Xiangxiang, China
+Xiangxiang
+Omdurman, Sudan
+Omdurman
+Mar del Plata, Argentina
+Mar del Plata
+Ezhou, China
+Ezhou
+Zhangjiajie, China
+Zhangjiajie
+BRUSSELS, Belgium
+BRUSSELS
+Meerut, India
+Meerut
+Sagamihara, Japan
+Sagamihara
+Shangzhi, China
+Shangzhi
+Nagano, Japan
+Nagano
+Nuevo Laredo, Mexico
+Nuevo Laredo
+Gaoyao, China
+Gaoyao
+Bydgoszcz, Poland
+Bydgoszcz
+San Pedro Sula, Honduras
+San Pedro Sula
+Zhangjiakou, China
+Zhangjiakou
+Guigang, China
+Guigang
+Port Sudan, Sudan
+Port Sudan
+Qixia, China
+Qixia
+LONDON, United Kingdom
+LONDON
+Dhule, India
+Dhule
+Sao Bernardo do Campo, Brazil
+Sao Bernardo do Campo
+Guangshui, China
+Guangshui
+WELLINGTON, New Zealand
+WELLINGTON
+Matamoros, Mexico
+Matamoros
+Haining, China
+Haining
+Makasar (Ujung Pandang)
+Makasar
+Ujung Pandang
+Corrientes, Argentina
+Corrientes
+Ambattur, India
+Ambattur
+Liaoyang, China
+Liaoyang
+SANTO DOMINGO, Dominican Republic
+SANTO DOMINGO
+Villa Nueva, Guatemala
+Villa Nueva
+Jundiaí, Brazil
+Jundiaí
+Kasukabe, Japan
+Kasukabe
+Wujiang, China
+Wujiang
+St. Catharines, Canada
+St. Catharines
+Yongcheng, China
+Yongcheng
+Yichun (Heilongjiang)
+Yichun
+Heilongjiang
+Buraydah, Saudi Arabia
+Buraydah
+Campina Grande, Brazil
+Campina Grande
+Lucknow, India
+Lucknow
+Hamburg, Germany
+Hamburg
+Albuquerque (NM)
+Albuquerque
+NM
+Chihuahua, Mexico
+Chihuahua
+Kirkuk, Iraq
+Kirkuk
+Chiclayo, Peru
+Chiclayo
+Yichang, China
+Yichang
+Anyang, China
+Anyang
+Los Angeles (CA)
+Los Angeles
+CA
+Morón, Argentina
+Morón
+Tegal, Indonesia
+Tegal
+Al-Kamishli, Syria
+Al-Kamishli
+MEXICO CITY, Mexico
+MEXICO CITY
+Eindhoven, Netherlands
+Eindhoven
+Jining (Shandong)
+Jining
+Shandong
+Garoua, Cameroon
+Garoua
+HARARE, Zimbabwe
+HARARE
+Omsk, Russia
+Omsk
+Galati, Romania
+Galati
+Osasco, Brazil
+Osasco
+Shifang, China
+Shifang
+Longjing, China
+Longjing
+Culiacán Rosales, Mexico
+Culiacán Rosales
+Anqiu, China
+Anqiu
+Nanjing (Nanking)
+Nanjing
+Nanking
+Hospitalet de Llobregat, Spain
+Hospitalet de Llobregat
+Bournemouth, United Kingdom
+Bournemouth
+Gaoping, China
+Gaoping
+ACCRA, Ghana
+ACCRA
+Rizhao, China
+Rizhao
+Rajarhat Gopalpur, India
+Rajarhat Gopalpur
+Wollongong, Australia
+Wollongong
+Bhubaneswar, India
+Bhubaneswar
+León (de los Aldama)
+León
+de los Aldama
+Beihai, China
+Beihai
+Panipat, India
+Panipat
+Huaying, China
+Huaying
+Ghaziabad, India
+Ghaziabad
+Davao, Philippines
+Davao
+Kisumu, Kenya
+Kisumu
+Ankang, China
+Ankang
+TEHRAN, Iran
+TEHRAN
+Strasbourg, France
+Strasbourg
+Jingmen, China
+Jingmen
+Lanus, Argentina
+Lanus
+Yao, Japan
+Yao
+Takatsuki, Japan
+Takatsuki
+Pelotas, Brazil
+Pelotas
+Port Elizabeth, South Africa
+Port Elizabeth
+Valencia, Venezuela
+Valencia
+Guangyuan, China
+Guangyuan
+Yinchuan, China
+Yinchuan
+Vereeniging, South Africa
+Vereeniging
+Zhuanghe, China
+Zhuanghe
+Takamatsu, Japan
+Takamatsu
+Klang, Malaysia
+Klang
+Bikaner, India
+Bikaner
+Thane, India
+Thane
+Daye, China
+Daye
+Wenling, China
+Wenling
+Buffalo (NY)
+Buffalo
+NY
+Verona, Italy
+Verona
+Khoramabad, Iran
+Khoramabad
+Huangshi (Hubei)
+Huangshi
+Hubei
+Bratsk, Russia
+Bratsk
+Pingdingshan, China
+Pingdingshan
+Yangjiang, China
+Yangjiang
+Gelsenkirchen, Germany
+Gelsenkirchen
+Dunhua, China
+Dunhua
+Sakai, Japan
+Sakai
+Kirov, Russia
+Kirov
+Shanghai, China
+Shanghai
+Kurashiki, Japan
+Kurashiki
+ISLAMABAD, Pakistan
+ISLAMABAD
+Guarulhos, Brazil
+Guarulhos
+Matola, Mozambique
+Matola
+Indianapolis (IN)
+Indianapolis
+IN
+Gwangmyeong (Kwangmyong)
+Gwangmyeong
+Kwangmyong
+Bucheon (Puchon)
+Bucheon
+Puchon
+Delmas, Haiti
+Delmas
+COLOMBO, Sri Lanka
+COLOMBO
+Zürich, Switzerland
+Zürich
+Tokorozawa, Japan
+Tokorozawa
+Pingliang, China
+Pingliang
+Asahikawa, Japan
+Asahikawa
+Miyazaki, Japan
+Miyazaki
+SUCRE, Bolivia
+SUCRE
+Pathum Thani, Thailand
+Pathum Thani
+Mérida, Mexico
+Mérida
+Oakland (CA)
+Oakland
+CA
+Hegang, China
+Hegang
+Glasgow, United Kingdom
+Glasgow
+Belgorod, Russia
+Belgorod
+Weinan, China
+Weinan
+Baoding, China
+Baoding
+Ardabil, Iran
+Ardabil
+Zhaotong, China
+Zhaotong
+Dengzhou, China
+Dengzhou
+Wudalianchi, China
+Wudalianchi
+Halifax, Canada
+Halifax
+Kharagpur, India
+Kharagpur
+Perm, Russia
+Perm
+Yamunanagar, India
+Yamunanagar
+Najaf, Iraq
+Najaf
+Vitória, Brazil
+Vitória
+Gdynia, Poland
+Gdynia
+Nice, France
+Nice
+Nakhon Si Thammarat, Thailand
+Nakhon Si Thammarat
+Suihua, China
+Suihua
+Fuji, Japan
+Fuji
+Changyi, China
+Changyi
+Santarém, Brazil
+Santarém
+Suncheon, South Korea
+Suncheon
+PalmasdeGranCanaria, Spain
+PalmasdeGranCanaria
+Frankfurt am Main, Germany
+Frankfurt am Main
+Maheshtala, India
+Maheshtala
+Juiz de Fora, Brazil
+Juiz de Fora
+Dasarahalli, India
+Dasarahalli
+Uberlândia, Brazil
+Uberlândia
+Changle, China
+Changle
+Blantyre City, Malawi
+Blantyre City
+Fukuoka, Japan
+Fukuoka
+Hamadan, Iran
+Hamadan
+Raleigh (NC)
+Raleigh
+NC
+Villahermosa, Mexico
+Villahermosa
+Ciudad Bolívar, Venezuela
+Ciudad Bolívar
+Gujrat, Pakistan
+Gujrat
+Ostrava, Czech Republic
+Ostrava
+Bahawalpur, Pakistan
+Bahawalpur
+Jieshou, China
+Jieshou
+Shiraz, Iran
+Shiraz
+Leling, China
+Leling
+Anning, China
+Anning
+Taipei, Taiwan (China ROC)
+Taipei
+Linqing, China
+Linqing
+Bandar Lampung, Indonesia
+Bandar Lampung
+Almaty, Kazakhstan
+Almaty
+Liyang, China
+Liyang
+Kerbala, Iraq
+Kerbala
+BERLIN, Germany
+BERLIN
+Oshawa, Canada
+Oshawa
+Kazan, Russia
+Kazan
+Leiden, Netherlands
+Leiden
+Kayes, Mali
+Kayes
+Pietermaritzburg, South Africa
+Pietermaritzburg
+Anshan, China
+Anshan
+TASHKENT, Uzbekistan
+TASHKENT
+Sao Joao de Meriti, Brazil
+Sao Joao de Meriti
+Yiyang, China
+Yiyang
+Ivanovo, Russia
+Ivanovo
+Xiaoshan, China
+Xiaoshan
+Stockton (CA)
+Stockton
+CA
+Valladolid, Spain
+Valladolid
+Sumaré, Brazil
+Sumaré
+Fengcheng (Jiangxi)
+Fengcheng
+Jiangxi
+Kharkiv, Ukraine
+Kharkiv
+Rajkot, India
+Rajkot
+Qujing, China
+Qujing
+Bryansk, Russia
+Bryansk
+Maebashi, Japan
+Maebashi
+Jalna, India
+Jalna
+Daqing, China
+Daqing
+Ad-Dammam, Saudi Arabia
+Ad-Dammam
+Niterói, Brazil
+Niterói
+Yazd, Iran
+Yazd
+Oaxaca de Juárez, Mexico
+Oaxaca de Juárez
+Shaoxing, China
+Shaoxing
+San Juan, Philippines
+San Juan
+Jhang, Pakistan
+Jhang
+Alappuzha, India
+Alappuzha
+Qingzhou, China
+Qingzhou
+Yangzhong, China
+Yangzhong
+Xiamen, China
+Xiamen
+Nizhny Tagil, Russia
+Nizhny Tagil
+Puning, China
+Puning
+Ulyanovsk, Russia
+Ulyanovsk
+Toyama, Japan
+Toyama
+Iksan (Iri)
+Iksan
+Iri
+Ipoh, Malaysia
+Ipoh
+Milan (Milano)
+Milan
+Milano
+Feicheng, China
+Feicheng
+Nanchang, China
+Nanchang
+Liuan, China
+Liuan
+Jeddah (Jiddah)
+Jeddah
+Jiddah
+Qionglai, China
+Qionglai
+Makyivka, Ukraine
+Makyivka
+Wuzhou, China
+Wuzhou
+San Luis Potosí, Mexico
+San Luis Potosí
+Nantong, China
+Nantong
+Columbus (OH)
+Columbus
+OH
+Morelia, Mexico
+Morelia
+An'guo, China
+An'guo
+Rio Branco, Brazil
+Rio Branco
+Puyang, China
+Puyang
+Las Piñas, Philippines
+Las Piñas
+Palma de Mallorca, Spain
+Palma de Mallorca
+Huzhou, China
+Huzhou
+Orumiyeh, Iran
+Orumiyeh
+Barnaul, Russia
+Barnaul
+Brisbane, Australia
+Brisbane
+Tongliao, China
+Tongliao
+Qiqihaer, China
+Qiqihaer
+Johannesburg, South Africa
+Johannesburg
+Nagoya, Japan
+Nagoya
+Sevastopol, Ukraine
+Sevastopol
+Kostroma, Russia
+Kostroma
+Villavicencio, Colombia
+Villavicencio
+Elazig, Turkey
+Elazig
+Belo Horizonte, Brazil
+Belo Horizonte
+Oujda, Morocco
+Oujda
+TOKYO, Japan
+TOKYO
+South Dum Dum, India
+South Dum Dum
+Kumasi, Ghana
+Kumasi
+Perth, Australia
+Perth
+Quilmes, Argentina
+Quilmes
+Armenia, Colombia
+Armenia
+Sanshui, China
+Sanshui
+Dnieprodzerzhynsk, Ukraine
+Dnieprodzerzhynsk
+Shaowu, China
+Shaowu
+Anlu, China
+Anlu
+Belfast, United Kingdom
+Belfast
+Sasebo, Japan
+Sasebo
+Maturín, Venezuela
+Maturín
+Barddhaman, India
+Barddhaman
+Taubaté, Brazil
+Taubaté
+Kyoto, Japan
+Kyoto
+Genève, Switzerland
+Genève
+Khartoum North, Sudan
+Khartoum North
+Lattakia, Syria
+Lattakia
+Vitória da Conquista, Brazil
+Vitória da Conquista
+Baltimore (MD)
+Baltimore
+MD
+Volgograd, Russia
+Volgograd
+Tétouan, Morocco
+Tétouan
+Kakinada, India
+Kakinada
+Liuyang, China
+Liuyang
+Marseille, France
+Marseille
+Denizli, Turkey
+Denizli
+Wuchuan, China
+Wuchuan
+Ogbomosho, Nigeria
+Ogbomosho
+Shimkent, Kazakhstan
+Shimkent
+Haora (Howrah)
+Haora
+Howrah
+Mendoza, Argentina
+Mendoza
+Ubon Ratchathani, Thailand
+Ubon Ratchathani
+Charlotte (NC)
+Charlotte
+NC
+Jiexiu, China
+Jiexiu
+Surabaya, Indonesia
+Surabaya
+Meishan, China
+Meishan
+Pucallpa, Peru
+Pucallpa
+Hilla, Iraq
+Hilla
+Yueyang, China
+Yueyang
+Botou, China
+Botou
+Avellaneda, Argentina
+Avellaneda
+Suez, Egypt
+Suez
+Enugu, Nigeria
+Enugu
+Russiefa, Jordan
+Russiefa
+Münster (Westf.)
+Münster
+Westf.
+LIMA, Peru
+LIMA
+Assyût, Egypt
+Assyût
+Xiaoyi, China
+Xiaoyi
+Jizhou, China
+Jizhou
+SANTIAGO, Chile
+SANTIAGO
+Laohekou, China
+Laohekou
+Sikasso, Mali
+Sikasso
+Busan (Pusan)
+Busan
+Pusan
+Nashville-Davidson (TN)
+Nashville-Davidson
+TN
+Edinburgh, United Kingdom
+Edinburgh
+Glendale (AZ)
+Glendale
+AZ
+Holguín, Cuba
+Holguín
+Meknès, Morocco
+Meknès
+Luzhou, China
+Luzhou
+Winnipeg, Canada
+Winnipeg
+Pingxiang (Jiangxi)
+Pingxiang
+Jiangxi
+Angarsk, Russia
+Angarsk
+Tula, Russia
+Tula
+Linxiang, China
+Linxiang
+Gifu, Japan
+Gifu
+Kadhimain, Iraq
+Kadhimain
+Utsunomiya, Japan
+Utsunomiya
+Jieyang, China
+Jieyang
+Corpus Christi (TX)
+Corpus Christi
+TX
+Yangzhou, China
+Yangzhou
+Birmingham[] , United Kingdom 
+Birmingham[] 
+Christchurch, New Zealand
+Christchurch
+Bremen, Germany
+Bremen
+Putian, China
+Putian
+Jamnagar, India
+Jamnagar
+Beiliu, China
+Beiliu
+Santa Fé, Argentina
+Santa Fé
+Sari, Iran
+Sari
+Sorocaba, Brazil
+Sorocaba
+Aba, Nigeria
+Aba
+KABUL, Afghanistan
+KABUL
+Laizhou, China
+Laizhou
+Ust-Kamenogorsk, Kazakhstan
+Ust-Kamenogorsk
+Habra, India
+Habra
+Ziyang, China
+Ziyang
+Carrefour, Haiti
+Carrefour
+Gejiu, China
+Gejiu
+Canoas, Brazil
+Canoas
+Medan, Indonesia
+Medan
+LUSAKA, Zambia
+LUSAKA
+Salem, India
+Salem
+Petaling Jaya, Malaysia
+Petaling Jaya
+Fresno (CA)
+Fresno
+CA
+Khouribga, Morocco
+Khouribga
+Dongguan, China
+Dongguan
+Betim, Brazil
+Betim
+Czestochowa, Poland
+Czestochowa
+Southend, United Kingdom
+Southend
+Pontianak, Indonesia
+Pontianak
+Yunfu, China
+Yunfu
+Hailin, China
+Hailin
+Belgaum, India
+Belgaum
+Xianyang, China
+Xianyang
+KINGSTON, Jamaica
+KINGSTON
+Oita, Japan
+Oita
+Otsu, Japan
+Otsu
+Gorgan, Iran
+Gorgan
+Caruaru, Brazil
+Caruaru
+Nottingham, United Kingdom
+Nottingham
+Quanzhou, China
+Quanzhou
+Shangyu, China
+Shangyu
+Mansûra, Egypt
+Mansûra
+Sao Paulo, Brazil
+Sao Paulo
+Wuhu, China
+Wuhu
+Zunhua, China
+Zunhua
+Tieli, China
+Tieli
+Izhevsk, Russia
+Izhevsk
+WARSAW, Poland
+WARSAW
+Yongkang, China
+Yongkang
+Gao, Mali
+Gao
+Jiangyin, China
+Jiangyin
+Bogor, Indonesia
+Bogor
+Chaohu, China
+Chaohu
+Pulandian, China
+Pulandian
+Yuyao, China
+Yuyao
+Sanhe, China
+Sanhe
+Jalandhar, India
+Jalandhar
+Sulamaniya, Iraq
+Sulamaniya
+Toronto, Canada
+Toronto
+Linyi, China
+Linyi
+HONG KONG, China - Hong Kong
+HONG KONG
+Qinyang, China
+Qinyang
+Zuwarah, Libya
+Zuwarah
+Jiaozuo, China
+Jiaozuo
+Toulouse, France
+Toulouse
+Hannover, Germany
+Hannover
+Raurkela, India
+Raurkela
+Kawaguchi, Japan
+Kawaguchi
+Guadalajara, Mexico
+Guadalajara
+Ahmedabad, India
+Ahmedabad
+Dazhou, China
+Dazhou
+Hachioji, Japan
+Hachioji
+Pasto, Colombia
+Pasto
+Iloilo, Philippines
+Iloilo
+Arlington (TX)
+Arlington
+TX
+Mesa (AZ)
+Mesa
+AZ
+Ning'an, China
+Ning'an
+Quetta, Pakistan
+Quetta
+Carapicuíba, Brazil
+Carapicuíba
+Vladikavkaz (Osetinskaya ASSR)
+Vladikavkaz
+Osetinskaya ASSR
+Laiwu, China
+Laiwu
+Aligarh, India
+Aligarh
+Mathura, India
+Mathura
+Kaifeng, China
+Kaifeng
+Panjin, China
+Panjin
+Semipalatinsk, Kazakhstan
+Semipalatinsk
+Plymouth, United Kingdom
+Plymouth
+Tyneside, United Kingdom
+Tyneside
+Fuyang (Zhejiang)
+Fuyang
+Zhejiang
+Wroclaw, Poland
+Wroclaw
+Manado, Indonesia
+Manado
+Wujin, China
+Wujin
+Saltillo, Mexico
+Saltillo
+Fife, United Kingdom
+Fife
+Ganzhou, China
+Ganzhou
+Taizhou (Zhejiang)
+Taizhou
+Zhejiang
+Zhucheng, China
+Zhucheng
+Port Harcourt, Nigeria
+Port Harcourt
+Nellore, India
+Nellore
+Ismailia, Egypt
+Ismailia
+Vigo, Spain
+Vigo
+Jinzhou (Liaoning)
+Jinzhou
+Liaoning
+Malegaon, India
+Malegaon
+La Coruña, Spain
+La Coruña
+Weihai, China
+Weihai
+Suining, China
+Suining
+Moji das Cruzes, Brazil
+Moji das Cruzes
+Naha, Japan
+Naha
+Xinji, China
+Xinji
+Tomsk, Russia
+Tomsk
+Itagüi, Colombia
+Itagüi
+Palembang, Indonesia
+Palembang
+Monterrey, Mexico
+Monterrey
+Acheng, China
+Acheng
+Huambo, Angola
+Huambo
+Kitwe, Zambia
+Kitwe
+Gdansk, Poland
+Gdansk
+Gebze, Turkey
+Gebze
+Zhijiang, China
+Zhijiang
+Gwalior, India
+Gwalior
+Guntur, India
+Guntur
+Umlazi, South Africa
+Umlazi
+Jiangyou, China
+Jiangyou
+TBILISI, Georgia
+TBILISI
+South Lanarkshire, United Kingdom
+South Lanarkshire
+Vologda, Russia
+Vologda
+Querétaro, Mexico
+Querétaro
+Ibagué, Colombia
+Ibagué
+Siping, China
+Siping
+Suizhou, China
+Suizhou
+Khmelnytskiy (Hmilnyk)
+Khmelnytskiy
+Hmilnyk
+Nan'gong, China
+Nan'gong
+Himeji, Japan
+Himeji
+Xinghua, China
+Xinghua
+Xingning, China
+Xingning
+Al-Rakka, Syria
+Al-Rakka
+Macapá, Brazil
+Macapá
+Santa Ana, El Salvador
+Santa Ana
+Okazaki, Japan
+Okazaki
+Braunschweig, Germany
+Braunschweig
+Hyderabad, Pakistan
+Hyderabad
+Multan, Pakistan
+Multan
+Jian'ou, China
+Jian'ou
+Rajahmundry, India
+Rajahmundry
+Aurora (CO)
+Aurora
+CO
+Yibin, China
+Yibin
+Weihui, China
+Weihui
+Shantou, China
+Shantou
+Vadodara, India
+Vadodara
+LOME, Togo
+LOME
+Minneapolis (MN)
+Minneapolis
+MN
+AMSTERDAM, Netherlands
+AMSTERDAM
+Al-Ayn, United Arab Emirates
+Al-Ayn
+Nanping, China
+Nanping
+Jiangyan, China
+Jiangyan
+Amagasaki, Japan
+Amagasaki
+Yaroslave, Russia
+Yaroslave
+Jinzhou (Hebei)
+Jinzhou
+Hebei
+Sterlitamak, Russia
+Sterlitamak
+Chenzhou, China
+Chenzhou
+Kurume, Japan
+Kurume
+Calgary, Canada
+Calgary
+Nonthaburi, Thailand
+Nonthaburi
+Yulin (Shaanxi)
+Yulin
+Shaanxi
+Shulan, China
+Shulan
+Sydney, Australia
+Sydney
+Meixian, China
+Meixian
+Gorakhpur, India
+Gorakhpur
+Praia Grande, Brazil
+Praia Grande
+Salvador, Brazil
+Salvador
+Sanmenxia, China
+Sanmenxia
+Dashiqiao, China
+Dashiqiao
+Nasariya, Iraq
+Nasariya
+Szczecin, Poland
+Szczecin
+Langfang, China
+Langfang
+SKOPLJE, Macedonia
+SKOPLJE
+Córdoba, Spain
+Córdoba
+Fenyang, China
+Fenyang
+Piracicaba, Brazil
+Piracicaba
+Huaiyin, China
+Huaiyin
+Surat Thani, Thailand
+Surat Thani
+Bucaramanga, Colombia
+Bucaramanga
+Neiva, Colombia
+Neiva
+OSLO, Norway
+OSLO
+Colorado Springs (CO)
+Colorado Springs
+CO
+Sao José dos Pinhais, Brazil
+Sao José dos Pinhais
+BRASILIA, Brazil
+BRASILIA
+ROME, Italy
+ROME
+CAPE TOWN, South Africa
+CAPE TOWN
+Jamshedpur, India
+Jamshedpur
+Jinghong, China
+Jinghong
+Thoothukkudi (Tuticorin)
+Thoothukkudi
+Tuticorin
+Qidong, China
+Qidong
+San Miguel, El Salvador
+San Miguel
+Nizamabad, India
+Nizamabad
+Orenburg, Russia
+Orenburg
+Joinville, Brazil
+Joinville
+Tumkur, India
+Tumkur
+Shangzhou, China
+Shangzhou
+Alexandria, Egypt
+Alexandria
+Aguascalientes, Mexico
+Aguascalientes
+Denver (CO)
+Denver
+CO
+Mexicali, Mexico
+Mexicali
+Aurangabad, India
+Aurangabad
+Iligan, Philippines
+Iligan
+Ruijin, China
+Ruijin
+KHARTOUM, Sudan
+KHARTOUM
+Kunshan, China
+Kunshan
+Sinuiji, North Korea
+Sinuiji
+ADDIS ABABA, Ethiopia
+ADDIS ABABA
+Simpheropol, Ukraine
+Simpheropol
+Dafeng, China
+Dafeng
+Heze, China
+Heze
+Tanger, Morocco
+Tanger
+Navi Mumbai (New Bombay)
+Navi Mumbai
+New Bombay
+Yancheng, China
+Yancheng
+Xintai, China
+Xintai
+Jalgaon, India
+Jalgaon
+Bukhara, Uzbekistan
+Bukhara
+Kherson, Ukraine
+Kherson
+Marikina, Philippines
+Marikina
+Kukatpalle, India
+Kukatpalle
+Kitakyushu, Japan
+Kitakyushu
+Jingdezhen, China
+Jingdezhen
+Mombasa, Kenya
+Mombasa
+Hanzhong, China
+Hanzhong
+Mianyang, China
+Mianyang
+Québec, Canada
+Québec
+Manukau, New Zealand
+Manukau
+Lishi, China
+Lishi
+Derby, United Kingdom
+Derby
+Yuanjiang, China
+Yuanjiang
+Hyderabad, India
+Hyderabad
+Lviv, Ukraine
+Lviv
+Mingguang, China
+Mingguang
+Porto Velho, Brazil
+Porto Velho
+Kozhikode, India
+Kozhikode
+BAGHDAD, Iraq
+BAGHDAD
+Shenyang, China
+Shenyang
+Bhatpara, India
+Bhatpara
+Wuppertal, Germany
+Wuppertal
+Kurnool, India
+Kurnool
+Fujin, China
+Fujin
+DUSHANBE, Tajikistan
+DUSHANBE
+Kaili, China
+Kaili
+Liling, China
+Liling
+Teresina, Brazil
+Teresina
+Mauá, Brazil
+Mauá
+Ahmednagar, India
+Ahmednagar
+Madurai, India
+Madurai
+Xuancheng, China
+Xuancheng
+Ndola, Zambia
+Ndola
+Trujillo, Peru
+Trujillo
+Firenze, Italy
+Firenze
+Fuzhou (Fujian)
+Fuzhou
+Fujian
+Jinhua, China
+Jinhua
+Changde, China
+Changde
+Jingzhou, China
+Jingzhou
+Rotterdam, Netherlands
+Rotterdam
+Adelaide, Australia
+Adelaide
+Sochi, Russia
+Sochi
+Longyan, China
+Longyan
+Shizuoka, Japan
+Shizuoka
+Orel, Russia
+Orel
+Liaocheng, China
+Liaocheng
+Içel, Turkey
+Içel
+Jian (Jiangxi)
+Jian
+Jiangxi
+Benin City, Nigeria
+Benin City
+New Orleans (LA)
+New Orleans
+LA
+Mérida, Venezuela
+Mérida
+Voronezh, Russia
+Voronezh
+Puente Alto, Chile
+Puente Alto
+Mandaluyong, Philippines
+Mandaluyong
+Qom, Iran
+Qom
+Murcia, Spain
+Murcia
+Novosibirsk, Russia
+Novosibirsk
+Thrissur, India
+Thrissur
+Yizheng, China
+Yizheng
+San Cristóbal, Venezuela
+San Cristóbal
+Yangchun, China
+Yangchun
+Bally, India
+Bally
+Yan'an, China
+Yan'an
+Shimonoseki, Japan
+Shimonoseki
+Koulikoro, Mali
+Koulikoro
+Antofagasta, Chile
+Antofagasta
+Conghua, China
+Conghua
+Deir El-Zor, Syria
+Deir El-Zor
+Tepic, Mexico
+Tepic
+Lexington-Fayette (KY)
+Lexington-Fayette
+KY
+Huayin, China
+Huayin
+Zaozhuang, China
+Zaozhuang
+Anápolis, Brazil
+Anápolis
+Mysore, India
+Mysore
+Bacolod, Philippines
+Bacolod
+Bochum, Germany
+Bochum
+Koriyama, Japan
+Koriyama
+Antwerpen (Anvers)
+Antwerpen
+Anvers
+Durban, South Africa
+Durban
+Zamboanga, Philippines
+Zamboanga
+Jiuquan, China
+Jiuquan
+Xuzhou, China
+Xuzhou
+Granada, Spain
+Granada
+Dubai, United Arab Emirates
+Dubai
+Lipetsk, Russia
+Lipetsk
+Yantai, China
+Yantai
+Coatzacoalcos, Mexico
+Coatzacoalcos
+Ichinomiya, Japan
+Ichinomiya
+Yidu, China
+Yidu
+Austin (TX)
+Austin
+TX
+Tirupati, India
+Tirupati
+Toluca (de Lerdo)
+Toluca
+de Lerdo
+Al-Sharjah, United Arab Emirates
+Al-Sharjah
+Larkana, Pakistan
+Larkana
+Panihati, India
+Panihati
+Santa Ana (CA)
+Santa Ana
+CA
+Brahmapur, India
+Brahmapur
+Leicester, United Kingdom
+Leicester
+Ichikawa, Japan
+Ichikawa
+Campos dos Goytacazes, Brazil
+Campos dos Goytacazes
+Cheongju, South Korea
+Cheongju
+Davangere, India
+Davangere
+BUJUMBURA, Burundi
+BUJUMBURA
+Nakhon Ratchasima, Thailand
+Nakhon Ratchasima
+Gaza, Palestine, Occupied Territory
+Gaza
+Bhilwara, India
+Bhilwara
+Kano, Nigeria
+Kano
+Soledad, Colombia
+Soledad
+Xichang, China
+Xichang
+Udon Thani, Thailand
+Udon Thani
+Boston (MA)
+Boston
+MA
+Taguig, Philippines
+Taguig
+Xuchang, China
+Xuchang
+Patna, India
+Patna
+Mosul, Iraq
+Mosul
+Karlsruhe, Germany
+Karlsruhe
+Varanasi, India
+Varanasi
+Ujjain, India
+Ujjain
+Bologna, Italy
+Bologna
+Hisar, India
+Hisar
+Ajmer, India
+Ajmer
+Farrukhabad-cum-Fategarh, India
+Farrukhabad-cum-Fategarh
+Sheikhu Pura, Pakistan
+Sheikhu Pura
+Wuchang, China
+Wuchang
+Gaobeidian, China
+Gaobeidian
+Penglai, China
+Penglai
+Baguio, Philippines
+Baguio
+Lianjiang, China
+Lianjiang
+Donetsk (Donestskaya oblast)
+Donetsk
+Donestskaya oblast
+Makhachkala, Russia
+Makhachkala
+Aachen, Germany
+Aachen
+Zhalantun, China
+Zhalantun
+Bhopal, India
+Bhopal
+N'DJAMENA, Chad
+N'DJAMENA
+GABORONE, Botswana
+GABORONE
+Jeju (Cheju)
+Jeju
+Cheju
+Taicang, China
+Taicang
+Fuchu, Japan
+Fuchu
+Dujiangyan, China
+Dujiangyan
+Ilorin, Nigeria
+Ilorin
+San Antonio (TX)
+San Antonio
+TX
+Huainan, China
+Huainan
+Yichun (Jiangxi)
+Yichun
+Jiangxi
+Valledupar, Colombia
+Valledupar
+Caxias do Sul, Brazil
+Caxias do Sul
+Hefei, China
+Hefei
+Fushun, China
+Fushun
+Leshan, China
+Leshan
+Köln, Germany
+Köln
+Surgut, Russia
+Surgut
+Diadema, Brazil
+Diadema
+Bulawayo, Zimbabwe
+Bulawayo
+Aktobe, Kazakhstan
+Aktobe
+Cúcuta, Colombia
+Cúcuta
+Tabuk, Saudi Arabia
+Tabuk
+QUITO, Ecuador
+QUITO
+Cixi, China
+Cixi
+Wuxi, China
+Wuxi
+Leizhou, China
+Leizhou
+Orizaba, Mexico
+Orizaba
+Fès, Morocco
+Fès
+Maoming, China
+Maoming
+Piura, Peru
+Piura
+Kitchener, Canada
+Kitchener
+Baise, China
+Baise
+Kunming, China
+Kunming
+Yakutsk, Russia
+Yakutsk
+Bareilly, India
+Bareilly
+Jaipur, India
+Jaipur
+Embu, Brazil
+Embu
+Sevilla, Spain
+Sevilla
+Tangshan, China
+Tangshan
+Montréal, Canada
+Montréal
+Ramagundam, India
+Ramagundam
+Wiesbaden, Germany
+Wiesbaden
+Ananindeua, Brazil
+Ananindeua
+Campo Grande, Brazil
+Campo Grande
+Jersey City (NJ)
+Jersey City
+NJ
+Misurata, Libya
+Misurata
+Zibo, China
+Zibo
+Xinyang, China
+Xinyang
+Huancayo, Peru
+Huancayo
+Yuzhou, China
+Yuzhou
+Jinjiang, China
+Jinjiang
+Monclova, Mexico
+Monclova
+Okene, Nigeria
+Okene
+Wugang (Henan)
+Wugang
+Henan
+PARAMARIBO, Suriname
+PARAMARIBO
+Mataram, Indonesia
+Mataram
+Duque de Caxias, Brazil
+Duque de Caxias
+Sao Gonçalo, Brazil
+Sao Gonçalo
+Dangyang, China
+Dangyang
+BUCHAREST, Romania
+BUCHAREST
+Wuzhong, China
+Wuzhong
+Wonju, South Korea
+Wonju
+Yulin (Guangxi)
+Yulin
+Guangxi
+Akita, Japan
+Akita
+Sanming, China
+Sanming
+Tianmen, China
+Tianmen
+Kamarhati, India
+Kamarhati
+Acapulco (de Juárez)
+Acapulco
+de Juárez
+Samut Prakan, Thailand
+Samut Prakan
+El Paso (TX)
+El Paso
+TX
+Tuxtla Gutiérrez, Mexico
+Tuxtla Gutiérrez
+Maanshan, China
+Maanshan
+Langzhong, China
+Langzhong
+Bijapur, India
+Bijapur
+Al-Madinah, Saudi Arabia
+Al-Madinah
+Kelamayi, China
+Kelamayi
+Jiangshan, China
+Jiangshan
+Shahjahanpur, India
+Shahjahanpur
+Ribeirao Prêto, Brazil
+Ribeirao Prêto
+Basra, Iraq
+Basra
+Samarkand, Uzbekistan
+Samarkand
+Kalookan (Caloocan)
+Kalookan
+Caloocan
+Beining, China
+Beining
+Mogilev, Belarus
+Mogilev
+BERNE, Switzerland
+BERNE
+Kindia, Guinea
+Kindia
+Niigata, Japan
+Niigata
+Newark (NJ)
+Newark
+NJ
+Portsmouth, United Kingdom
+Portsmouth
+Nagasaki, Japan
+Nagasaki
+El-Mahalla El-Kubra, Egypt
+El-Mahalla El-Kubra
+Rampur, India
+Rampur
+Riverside (CA)
+Riverside
+CA
+Hiratsuka, Japan
+Hiratsuka
+AMMAN, Jordan
+AMMAN
+BISHKEK, Kyrgyzstan
+BISHKEK
+Qingzhen, China
+Qingzhen
+Ichihara, Japan
+Ichihara
+Tarlac, Philippines
+Tarlac
+Ahwaz, Iran
+Ahwaz
+Hermosillo, Mexico
+Hermosillo
+Zunyi, China
+Zunyi
+Changchun, China
+Changchun
+Celaya, Mexico
+Celaya
+Jiutai, China
+Jiutai
+Saransk, Russia
+Saransk
+Chuncheon, South Korea
+Chuncheon
+Thessaloniki, Greece
+Thessaloniki
+Gaocheng, China
+Gaocheng
+Jambi, Indonesia
+Jambi
+Poznan, Poland
+Poznan
+Nantes, France
+Nantes
+Guarujá, Brazil
+Guarujá
+Bozhou, China
+Bozhou
+Nankang, China
+Nankang
+Songzi, China
+Songzi
+Imphal, India
+Imphal
+Jianyang (Fujian)
+Jianyang
+Fujian
+Masan, South Korea
+Masan
+Sumy, Ukraine
+Sumy
+Lahore, Pakistan
+Lahore
+Tongzhou, China
+Tongzhou
+Liuzhou, China
+Liuzhou
+Salé, Morocco
+Salé
+Quzhou, China
+Quzhou
+Rio de Janeiro, Brazil
+Rio de Janeiro
+Barcelona, Spain
+Barcelona
+Nanyang, China
+Nanyang
+Xiangtan, China
+Xiangtan
+Taonan, China
+Taonan
+Sao José do Rio Prêto, Brazil
+Sao José do Rio Prêto
+Agadir, Morocco
+Agadir
+Genova, Italy
+Genova
+Houston (TX)
+Houston
+TX
+Cuzco, Peru
+Cuzco
+Cherepovets, Russia
+Cherepovets
+Nishinomiya, Japan
+Nishinomiya
+Vellore, India
+Vellore
+Sangli-Miraj-Kupwad, India
+Sangli-Miraj-Kupwad
+Gujranwala, Pakistan
+Gujranwala
+Ranchi, India
+Ranchi
+Batangas, Philippines
+Batangas
+Zhuji, China
+Zhuji
+Kansas City (MO)
+Kansas City
+MO
+Tongren, China
+Tongren
+Santa Cruz, Bolivia
+Santa Cruz
+Shijiazhuang, China
+Shijiazhuang
+Jining (Inner Mongolia)
+Jining
+Inner Mongolia
+Murmansk, Russia
+Murmansk
+DOHA, Qatar
+DOHA
+Da Nang, Viet Nam
+Da Nang
+BOGOTA, Colombia
+BOGOTA
+La Plata, Argentina
+La Plata
+Haicheng, China
+Haicheng
+Urumqi, China
+Urumqi
+Zhongshan, China
+Zhongshan
+Qingdao (Tsingtao)
+Qingdao
+Tsingtao
+Tiruchchirappalli, India
+Tiruchchirappalli
+Gaziantep, Turkey
+Gaziantep
+STOCKHOLM, Sweden
+STOCKHOLM
+Udaipur, India
+Udaipur
+Wakayama, Japan
+Wakayama
+Magé, Brazil
+Magé
+Jhansi, India
+Jhansi
+Tieling, China
+Tieling
+Oklahoma City (OK)
+Oklahoma City
+OK
+Nizhny Novgorod, Russia
+Nizhny Novgorod
+Jiangmen, China
+Jiangmen
+LISBON, Portugal
+LISBON
+Khon Kaen, Thailand
+Khon Kaen
+Graz, Austria
+Graz
+Jiaonan, China
+Jiaonan
+Laixi, China
+Laixi
+GEORGETOWN, Guyana
+GEORGETOWN
+Amravati, India
+Amravati
+Brest, Belarus
+Brest
+Chelyabinsk, Russia
+Chelyabinsk
+Ruichang, China
+Ruichang
+Kermanshah, Iran
+Kermanshah
+Kursk, Russia
+Kursk
+Plovdiv, Bulgaria
+Plovdiv
+Muntinlupa, Philippines
+Muntinlupa
+Tongi, Bangladesh
+Tongi
+CONAKRY, Guinea
+CONAKRY
+Warri, Nigeria
+Warri
+Aracaju, Brazil
+Aracaju
+Malatya, Turkey
+Malatya
+Keelung, China
+Keelung
+MACAO, China : Macao SAR
+MACAO
+PANAMA CITY, Panama
+PANAMA CITY
+Pizhou, China
+Pizhou
+Fuqing, China
+Fuqing
+Maringá, Brazil
+Maringá
+Incheon, South Korea
+Incheon
+Jos, Nigeria
+Jos
+BUDAPEST, Hungary
+BUDAPEST
+Soyapango, El Salvador
+Soyapango
+Guayaquil, Ecuador
+Guayaquil
+Allahabad, India
+Allahabad
+Huadian, China
+Huadian
+Nagaoka, Japan
+Nagaoka
+Meihekou, China
+Meihekou
+Nagpur, India
+Nagpur
+San Diego (CA)
+San Diego
+CA
+Belford Roxo, Brazil
+Belford Roxo
+Istanbul, Turkey
+Istanbul
+Anchorage (AK)
+Anchorage
+AK
+Chengdu, China
+Chengdu
+Donggang, China
+Donggang
+Tianshui, China
+Tianshui
+Kraków, Poland
+Kraków
+Nakuru, Kenya
+Nakuru
+Longhai, China
+Longhai
+Xingcheng, China
+Xingcheng
+Abadan, Iran
+Abadan
+Limeira, Brazil
+Limeira
+Shillong, India
+Shillong
+Tyumen, Russia
+Tyumen
+Akesu, China
+Akesu
+Ekaterinoburg, Russia
+Ekaterinoburg
+Yaan, China
+Yaan
+Ulhasnagar, India
+Ulhasnagar
+Bergen, Norway
+Bergen
+Kochi, India
+Kochi
+PRAGUE, Czech Republic
+PRAGUE
+Wenzhou, China
+Wenzhou
+Teesside, United Kingdom
+Teesside
+St. Petersburg (FL)
+St. Petersburg
+FL
+Chibi, China
+Chibi
+Muzaffarnagar, India
+Muzaffarnagar
+Jixi, China
+Jixi
+Nan'an, China
+Nan'an
+Shizuishan, China
+Shizuishan
+Xishan, China
+Xishan
+Hechuan, China
+Hechuan
+Dongtai, China
+Dongtai
+TRIPOLI, Libya
+TRIPOLI
+Popayán, Colombia
+Popayán
+Wenchang, China
+Wenchang
+Huizhou, China
+Huizhou
+Pondicherry, India
+Pondicherry
+Cariacica, Brazil
+Cariacica
+SOFIA, Bulgaria
+SOFIA
+Warangal, India
+Warangal
+Xi'an (Sian)
+Xi'an
+Sian
+Bamenda, Cameroon
+Bamenda
+Zhangye, China
+Zhangye
+Campinas, Brazil
+Campinas
+Blumenou, Brazil
+Blumenou
+Virginia Beach (VA)
+Virginia Beach
+VA
+Changzhou, China
+Changzhou
+Zhangping, China
+Zhangping
+Adan, Yemen
+Adan
+Zhytomyr, Ukraine
+Zhytomyr
+Bengkulu, Indonesia
+Bengkulu
+Gijón, Spain
+Gijón
+Chita, Russia
+Chita
+Taishan, China
+Taishan
+Yi'ning, China
+Yi'ning
+Sariwon, North Korea
+Sariwon
+Phoenix (AZ)
+Phoenix
+AZ
+Jintan, China
+Jintan
+Palermo, Italy
+Palermo
+Bellary, India
+Bellary
+Morioka, Japan
+Morioka
+Hejian, China
+Hejian
+Akola, India
+Akola
+Oshogbo, Nigeria
+Oshogbo
+Panzhihua, China
+Panzhihua
+Tabriz, Iran
+Tabriz
+Kanpur, India
+Kanpur
+Annaba, Algeria
+Annaba
+Taian, China
+Taian
+Sendai, Japan
+Sendai
+ASTANA, Kazakhstan
+ASTANA
+Olinda, Brazil
+Olinda
+Huaian, China
+Huaian
+Luhansk, Ukraine
+Luhansk
+Cuddapah, India
+Cuddapah
+Hirakata, Japan
+Hirakata
+MOGADISHU, Somalia
+MOGADISHU
+Novorossiysk, Russia
+Novorossiysk
+Al-Hufuf, Saudi Arabia
+Al-Hufuf
+Toyohashi, Japan
+Toyohashi
+Zhaodong, China
+Zhaodong
+Saint Petersburg (Leningrad)
+Saint Petersburg
+Leningrad
+Beira, Mozambique
+Beira
+Lublin, Poland
+Lublin
+Qinzhou, China
+Qinzhou
+Vicente López, Argentina
+Vicente López
+Qazvin, Iran
+Qazvin
+Bialystok, Poland
+Bialystok
+Veracruz, Mexico
+Veracruz
+Guwahati, India
+Guwahati
+Kryviy Rig, Ukraine
+Kryviy Rig
+Tulufan, China
+Tulufan
+Changsha, China
+Changsha
+KATHMANDU, Nepal
+KATHMANDU
+Shenzhen, China
+Shenzhen
+Ufa, Russia
+Ufa
+Pohang, South Korea
+Pohang
+Katsina, Nigeria
+Katsina
+ASMARA, Eritrea
+ASMARA
+Xuanwei, China
+Xuanwei
+Cleveland (OH)
+Cleveland
+OH
+Lincoln (NE)
+Lincoln
+NE
+Ciudad Guayana, Venezuela
+Ciudad Guayana
+Taizhou (Jiangsu)
+Taizhou
+Jiangsu
+Xingyang, China
+Xingyang
+Jinshi, China
+Jinshi
+Rohtak, India
+Rohtak
+Nashik, India
+Nashik
+Chenghai, China
+Chenghai
+Irbid, Jordan
+Irbid
+Kannur, India
+Kannur
+Ratchaburi, Thailand
+Ratchaburi
+Thiès, Senegal
+Thiès
+Preston, United Kingdom
+Preston
+Kagoshima, Japan
+Kagoshima
+Fujisawa, Japan
+Fujisawa
+Seongnam, South Korea
+Seongnam
+Semarang, Indonesia
+Semarang
+Brighton/Worthing/Littlehampton, United Kingdom
+Brighton/Worthing/Littlehampton
+Yamagata, Japan
+Yamagata
+CARACAS, Venezuela
+CARACAS
+Sapporo, Japan
+Sapporo
+Chaoyang (Liaoning)
+Chaoyang
+Liaoning
+Baiyin, China
+Baiyin
+KYIV (KIEV)
+KYIV
+KIEV
+Lingyuan, China
+Lingyuan
+Roodepoort, South Africa
+Roodepoort
+Ludhiana, India
+Ludhiana
+Gaoyou, China
+Gaoyou
+Ruzhou, China
+Ruzhou
+Tainan, China
+Tainan
+VILNIUS, Lithuania
+VILNIUS
+Huaihua, China
+Huaihua
+Horlivka, Ukraine
+Horlivka
+Manchester, United Kingdom
+Manchester
+Zixing, China
+Zixing
+Jabalpur, India
+Jabalpur
+YEREVAN, Armenia
+YEREVAN
+Shuangyashan, China
+Shuangyashan
+Hamilton, Canada
+Hamilton
+Marrakech, Morocco
+Marrakech
+ANKARA, Turkey
+ANKARA
+Jodhpur, India
+Jodhpur
+Linghai, China
+Linghai
+Kobe, Japan
+Kobe
+Milwaukee (WI)
+Milwaukee
+WI
+Xinmin, China
+Xinmin
+Pingdu, China
+Pingdu
+Santos, Brazil
+Santos
+Yoshkar-ola, Russia
+Yoshkar-ola
+Bokaro Steel City, India
+Bokaro Steel City
+Bloemfontein, South Africa
+Bloemfontein
+Cenxi, China
+Cenxi
+Hakodate, Japan
+Hakodate
+Ponta Grossa, Brazil
+Ponta Grossa
+Barranquilla, Colombia
+Barranquilla
+Utrecht, Netherlands
+Utrecht
+Bazhou, China
+Bazhou
+Dongsheng, China
+Dongsheng
+Toyonaka, Japan
+Toyonaka
+Esfahan, Iran
+Esfahan
+Aomori, Japan
+Aomori
+Majnoon, Iraq
+Majnoon
+Rawalpindi, Pakistan
+Rawalpindi
+Qinhuangdao, China
+Qinhuangdao
+Lichuan, China
+Lichuan
+ULAANBAATAR, Mongolia
+ULAANBAATAR
+Qionghai, China
+Qionghai
+Sacramento (CA)
+Sacramento
+CA
+Yiwu, China
+Yiwu
+Cheonan, South Korea
+Cheonan
+Sakarya, Turkey
+Sakarya
+Raipur, India
+Raipur
+Pereira, Colombia
+Pereira
+Bandung, Indonesia
+Bandung
+Karradah Sharqiyah, Iraq
+Karradah Sharqiyah
+Erbil, Iraq
+Erbil
+Leiyang, China
+Leiyang
+Sialkote, Pakistan
+Sialkote
+Changning, China
+Changning
+Osh, Kyrgyzstan
+Osh
+Guang'an, China
+Guang'an
+Chifeng, China
+Chifeng
+TIRANA, Albania
+TIRANA
+Cartagena, Colombia
+Cartagena
+Katowice, Poland
+Katowice
+Goiânia, Brazil
+Goiânia
+Tver, Russia
+Tver
+Gumi (Kumi)
+Gumi
+Kumi
+Fortaleza, Brazil
+Fortaleza
+Dezful, Iran
+Dezful
+Tianjin (Tientsin)
+Tianjin
+Tientsin
+Onitsha, Nigeria
+Onitsha
+Cebu, Philippines
+Cebu
+Batna, Algeria
+Batna
+Zhuozhou, China
+Zhuozhou
+Temuco, Chile
+Temuco
+Iwaki, Japan
+Iwaki
+Kénitra, Morocco
+Kénitra
+Gaoan, China
+Gaoan
+Makkah, Saudi Arabia
+Makkah
+Basilan, Philippines
+Basilan
+Kolkata (Calcutta)
+Kolkata
+Calcutta
+Bangalore, India
+Bangalore
+Craiova, Romania
+Craiova
+Khabarovsk, Russia
+Khabarovsk
+Aleppo, Syria
+Aleppo
+Gravatai, Brazil
+Gravatai
+Aparecida de Goiania, Brazil
+Aparecida de Goiania
+Lagos, Nigeria
+Lagos
+Jiaxing, China
+Jiaxing
+Qingyuan, China
+Qingyuan
+Sukkur, Pakistan
+Sukkur
+Pavlodar, Kazakhstan
+Pavlodar
+Rivne, Ukraine
+Rivne
+Lódz, Poland
+Lódz
+Chizhou, China
+Chizhou
+Erode, India
+Erode
+Tombouctou, Mali
+Tombouctou
+Itaquaquecetuba, Brazil
+Itaquaquecetuba
+Qian'an, China
+Qian'an
+Zigong, China
+Zigong
+Tampico, Mexico
+Tampico
+Thiruvananthapuram, India
+Thiruvananthapuram
+Ichalakaranji, India
+Ichalakaranji
+BEIRUT, Lebanon
+BEIRUT
+Tembisa, South Africa
+Tembisa
+Zaporizhya, Ukraine
+Zaporizhya
+Karachi, Pakistan
+Karachi
+Saharanpur, India
+Saharanpur
+Iasi, Romania
+Iasi
+Zahedan, Iran
+Zahedan
+Brasov, Romania
+Brasov
+Quezon City, Philippines
+Quezon City
+Surakarta, Indonesia
+Surakarta
+Ningbo, China
+Ningbo
+Renqiu, China
+Renqiu
+Xinmi, China
+Xinmi
+Bandjarmasin, Indonesia
+Bandjarmasin
+COPENHAGEN, Denmark
+COPENHAGEN
+Florianópolis, Brazil
+Florianópolis
+Huanggang, China
+Huanggang
+Buenaventura, Colombia
+Buenaventura
+West Yorkshire, United Kingdom
+West Yorkshire
+DUBLIN, Ireland
+DUBLIN
+MAPUTO, Mozambique
+MAPUTO
+Dingzhou, China
+Dingzhou
+Lanzhou, China
+Lanzhou
+Susano, Brazil
+Susano
+Kawagoe, Japan
+Kawagoe
+St. Paul (MN)
+St. Paul
+MN
+Haiyang, China
+Haiyang
+Viamao, Brazil
+Viamao
+Chiang Rai, Thailand
+Chiang Rai
+Sukabumi, Indonesia
+Sukabumi
+Floridablanca, Colombia
+Floridablanca
+Xinzhou, China
+Xinzhou
+Gimhae (Kimhae)
+Gimhae
+Kimhae
+Panshi, China
+Panshi
+Saraburi, Thailand
+Saraburi
+Ta'izz, Yemen
+Ta'izz
+Lishui, China
+Lishui
+Rajshahi, Bangladesh
+Rajshahi
+Xiantao, China
+Xiantao
+Kollam, India
+Kollam
+Narayanganj, Bangladesh
+Narayanganj
+Borujerd, Iran
+Borujerd
+MANILA, Philippines
+MANILA
+Douala, Cameroon
+Douala
+Callao, Peru
+Callao
+Zhaoqing, China
+Zhaoqing
+Deyang, China
+Deyang
+Kayseri, Turkey
+Kayseri
+Komsomolsk-na-Amure, Russia
+Komsomolsk-na-Amure
+Jincheng, China
+Jincheng
+MADRID, Spain
+MADRID
+KINSHASA, Dem Rep of Congo 
+KINSHASA
+Jian (Jilin)
+Jian
+Jilin
+Gomel, Belarus
+Gomel
+Hengshui, China
+Hengshui
+Labé, Guinea
+Labé
+Gunsan (Kunsan)
+Gunsan
+Kunsan
+Ségou, Mali
+Ségou
+Dali, China
+Dali
+Baranagar, India
+Baranagar
+Pakanbaru, Indonesia
+Pakanbaru
+Naples (Napoli)
+Naples
+Napoli
+Cuiabá, Brazil
+Cuiabá
+Luquan, China
+Luquan
+Harbin (Haerbin)
+Harbin
+Haerbin
+Yanji, China
+Yanji
+Dhanbad, India
+Dhanbad
+Huanghua, China
+Huanghua
+Dexing, China
+Dexing
+NIAMEY, Niger
+NIAMEY
+Longkou, China
+Longkou
+Jilin, China
+Jilin
+Balikpapan, Indonesia
+Balikpapan
+Krefeld, Germany
+Krefeld
+Fuan, China
+Fuan
+Chennai (Madras)
+Chennai
+Madras
+Chernivtsy, Ukraine
+Chernivtsy
+Krasnodar, Russia
+Krasnodar
+Ipatinga, Brazil
+Ipatinga
+Yizhou, China
+Yizhou
+Jiangdu, China
+Jiangdu
+Miami (FL)
+Miami
+FL
+Nova Iguaçu, Brazil
+Nova Iguaçu
+Dengta, China
+Dengta
+Chittagong, Bangladesh
+Chittagong
+Changshu, China
+Changshu
+BENGHAZI, Libya
+BENGHAZI
+Orsk, Russia
+Orsk
+GUATEMALA CITY, Guatemala
+GUATEMALA CITY
+Tokushima, Japan
+Tokushima
+Grodno, Belarus
+Grodno
+Dongyang, China
+Dongyang
+Solapur, India
+Solapur
+Porto Alegre, Brazil
+Porto Alegre
+Guixi, China
+Guixi
+Port Said, Egypt
+Port Said
+Junagadh, India
+Junagadh
+Hailun, China
+Hailun
+Cluj-Napoca, Romania
+Cluj-Napoca
+Rostov-na-Donu, Russia
+Rostov-na-Donu
+London, Canada
+London
+ATHENS, Greece
+ATHENS
+Las Vegas (NV)
+Las Vegas
+NV
+Salta, Argentina
+Salta
+Aldershot, United Kingdom
+Aldershot
+Yingcheng, China
+Yingcheng
+Chiba, Japan
+Chiba
+Pekalongan, Indonesia
+Pekalongan
+Vladimir, Russia
+Vladimir
+Valenzuela, Philippines
+Valenzuela
+Dar es Salaam, Tanzania
+Dar es Salaam
+Latur, India
+Latur
+Mishan, China
+Mishan
+ALGIERS, Algeria
+ALGIERS
+Qufu, China
+Qufu
+Swansea, United Kingdom
+Swansea
+Jiande, China
+Jiande
+Detroit (MI)
+Detroit
+MI
+Bhagalpur, India
+Bhagalpur
+Nürnberg, Germany
+Nürnberg
+Tucson (AZ)
+Tucson
+AZ
+Reading/Wokingham, United Kingdom
+Reading/Wokingham
+Taganrog, Russia
+Taganrog
+Mashhad, Iran
+Mashhad
+Khulna, Bangladesh
+Khulna
+Honghu, China
+Honghu
+Visakhapatnam, India
+Visakhapatnam
+Naberezhnye Tchelny, Russia
+Naberezhnye Tchelny
+Ryazan, Russia
+Ryazan
+Firozabad, India
+Firozabad
+Xiangfan, China
+Xiangfan
+Baotou, China
+Baotou
+Saratov, Russia
+Saratov
+Akashi, Japan
+Akashi
+Durg-Bhilai Nagar, India
+Durg-Bhilai Nagar
+Yogyakarta, Indonesia
+Yogyakarta
+Vitebsk, Belarus
+Vitebsk
+PORT MORESBY, Papua New Guinea
+PORT MORESBY
+Leping, China
+Leping
+Ningde, China
+Ningde
+Pengzhou, China
+Pengzhou
+Zhongxiang, China
+Zhongxiang
+Linhai, China
+Linhai
+Gaizhou, China
+Gaizhou
+Leqing, China
+Leqing
+Shengzhou, China
+Shengzhou
+Nampula, Mozambique
+Nampula
+Zaragoza, Spain
+Zaragoza
+ASHGABAT, Turkmenistan
+ASHGABAT
+Volta Redonda, Brazil
+Volta Redonda
+Leipzig, Germany
+Leipzig
+Zhanjiang, China
+Zhanjiang
+Wonsan, North Korea
+Wonsan
+TALLINN, Estonia
+TALLINN
+Timisoara, Romania
+Timisoara
+NEW DELHI, India
+NEW DELHI
+Bilaspur, India
+Bilaspur
+Banda Aceh, Indonesia
+Banda Aceh
+Haifa, Israel
+Haifa
+Zaria, Nigeria
+Zaria
+Las Palmas de Gran Canaria, Spain
+Las Palmas de Gran Canaria
+Amritsar, India
+Amritsar
+Jingjiang, China
+Jingjiang
+Bengbu, China
+Bengbu
+Kasugai, Japan
+Kasugai
+Sumgayit, Azerbaijan
+Sumgayit
+Natal, Brazil
+Natal
+Makati, Philippines
+Makati
+Venezia, Italy
+Venezia
+Pachuca (de Soto)
+Pachuca
+de Soto
+Dnipropetrovsk, Ukraine
+Dnipropetrovsk
+Sanya, China
+Sanya
+HAVANA, Cuba
+HAVANA
+Surat, India
+Surat
+Varna, Bulgaria
+Varna
+Dengfeng, China
+Dengfeng
+Yokohama, Japan
+Yokohama
+BEIJING (PEKING)
+BEIJING
+PEKING
+Santiago de Cuba, Cuba
+Santiago de Cuba
+Suqian, China
+Suqian
+Homs, Syria
+Homs
+Hamamatsu, Japan
+Hamamatsu
+Caucaia, Brazil
+Caucaia
+Jinzhong, China
+Jinzhong
+Luoding, China
+Luoding
+Yucheng, China
+Yucheng
+Duyun, China
+Duyun
+RABAT, Morocco
+RABAT
+St. Louis (MO)
+St. Louis
+MO
+Blackpool, United Kingdom
+Blackpool
+Phra Nakhon Si Ayutthaya, Thailand
+Phra Nakhon Si Ayutthaya
+Boksburg, South Africa
+Boksburg
+Pinghu, China
+Pinghu
+Shishi, China
+Shishi
+Padang, Indonesia
+Padang
+Bursa, Turkey
+Bursa
+Puebla de Zaragoza, Mexico
+Puebla de Zaragoza
+Sargodha, Pakistan
+Sargodha
+Jeonju (Chonchu)
+Jeonju
+Chonchu
+Alajuela, Costa Rica
+Alajuela
+KAMPALA, Uganda
+KAMPALA
+Atlanta (GA)
+Atlanta
+GA
+Chuxiong, China
+Chuxiong
+Chishui, China
+Chishui
+Hubli-Dharwad, India
+Hubli-Dharwad
+Macheng, China
+Macheng
+Sheffield, United Kingdom
+Sheffield
+Al-Rayyan, Qatar
+Al-Rayyan
+BUENOS AIRES, Argentina
+BUENOS AIRES
+Pikine-Guediawaye, Senegal
+Pikine-Guediawaye
+Hailaer, China
+Hailaer
+Hanchuan, China
+Hanchuan
+Irkutsk, Russia
+Irkutsk
+Stavropol, Russia
+Stavropol
+Enshi, China
+Enshi
+Indore, India
+Indore
+Malang, Indonesia
+Malang
+Soacha, Colombia
+Soacha
+Pasay, Philippines
+Pasay
+Neijiang, China
+Neijiang
+Eskisehir, Turkey
+Eskisehir
+Yokkaichi, Japan
+Yokkaichi
+Shiyan, China
+Shiyan
+Newcastle, Australia
+Newcastle
+Juàzeiro do Norte, Brazil
+Juàzeiro do Norte
+Wuhai, China
+Wuhai
+Meizhou, China
+Meizhou
+Nizhenvartovsk, Russia
+Nizhenvartovsk
+Vladivostok, Russia
+Vladivostok
+WASHINGTON (DC)
+WASHINGTON
+DC
+Tijuana, Mexico
+Tijuana
+Kirovohrad, Ukraine
+Kirovohrad
+Chemnitz, Germany
+Chemnitz
+Xiaogan, China
+Xiaogan
+Bahía Blanca, Argentina
+Bahía Blanca
+Casablanca (Dar-el-Beida)
+Casablanca
+Dar-el-Beida
+Dallas (TX)
+Dallas
+TX
+Gaozhou, China
+Gaozhou
+Danzhou, China
+Danzhou
+Mykolayiv (Nikolaevskaya oblast)
+Mykolayiv
+Nikolaevskaya oblast
+Sanliurfa, Turkey
+Sanliurfa
+Petrolina, Brazil
+Petrolina
+Brno, Czech Republic
+Brno
+Matsudo, Japan
+Matsudo
+Nara, Japan
+Nara
+Shakhty, Russia
+Shakhty
+Århus, Denmark
+Århus
+El-Jadida, Morocco
+El-Jadida
+Zhuzhou, China
+Zhuzhou
+JERUSALEM, Israel
+JERUSALEM
+Mianzhu, China
+Mianzhu
+Duisburg, Germany
+Duisburg
+Chernihiv, Ukraine
+Chernihiv
+Nampho, North Korea
+Nampho
+Bello, Colombia
+Bello
+Jiaozhou, China
+Jiaozhou
+Arak, Iran
+Arak
+Ribeirao das Neves, Brazil
+Ribeirao das Neves
+Ha'il, Saudi Arabia
+Ha'il
+SAN JOSE, Costa Rica
+SAN JOSE
+Jiujiang, China
+Jiujiang
+Laiyang, China
+Laiyang
+Mangalore, India
+Mangalore
+Luton/Dunstable, United Kingdom
+Luton/Dunstable
+Jiaohe, China
+Jiaohe
+Benoni, South Africa
+Benoni
+Wichita (KS)
+Wichita
+KS
+Yushu, China
+Yushu
+Torino, Italy
+Torino
+Yongzhou, China
+Yongzhou
+Tambov, Russia
+Tambov
+Bhilai Nagar, India
+Bhilai Nagar
+Yingkou, China
+Yingkou
+Miluo, China
+Miluo
+Coventry/Bedworth, United Kingdom
+Coventry/Bedworth
+Yongji, China
+Yongji
+Cali, Colombia
+Cali
+Várzea Grande, Brazil
+Várzea Grande
+Binzhou, China
+Binzhou
+Chaozhou, China
+Chaozhou
+Cochabamba, Bolivia
+Cochabamba
+Lanxi, China
+Lanxi
+Sincelejo, Colombia
+Sincelejo
+Anaheim (CA)
+Anaheim
+CA
+Taixing, China
+Taixing
+Viña del Mar, Chile
+Viña del Mar
+Kemerovo, Russia
+Kemerovo
+Fenghua, China
+Fenghua
+Wanning, China
+Wanning
+Yuhang, China
+Yuhang
+Oran (Wahran)
+Oran
+Wahran
+The Potteries, United Kingdom
+The Potteries
+Vancouver, Canada
+Vancouver
+West Midlands, United Kingdom
+West Midlands
+Novokuznetsk, Russia
+Novokuznetsk
+PYONGYANG, North Korea
+PYONGYANG
+Yeosu, South Korea
+Yeosu
+Danyang, China
+Danyang
+Volzhsky, Russia
+Volzhsky
+Guanghan, China
+Guanghan
+Hebi, China
+Hebi
+SEOUL, South Korea
+SEOUL
+Kaduna, Nigeria
+Kaduna
+Fuzhou (Jiangxi)
+Fuzhou
+Jiangxi
+Erzurum, Turkey
+Erzurum
+Luoyang, China
+Luoyang
+Jiangjin, China
+Jiangjin
+Bielefeld, Germany
+Bielefeld
+Maceió, Brazil
+Maceió
+Linzhou, China
+Linzhou
+Suzhou (Anhui)
+Suzhou
+Anhui
+SAN JUAN, Puerto Rico
+SAN JUAN
+Vijayawada, India
+Vijayawada
+Ulan-Ude, Russia
+Ulan-Ude
+Chongqing, China
+Chongqing
+Santa Marta, Colombia
+Santa Marta
+La Matanza, Argentina
+La Matanza
+San Bernardo, Chile
+San Bernardo
+Shangqiu, China
+Shangqiu
+Bakersfield (CA)
+Bakersfield
+CA
+SINGAPORE, Singapore
+SINGAPORE
+Philadelphia (PA)
+Philadelphia
+PA
+Fort Worth (TX)
+Fort Worth
+TX
+DAKAR, Senegal
+DAKAR
+Soweto, South Africa
+Soweto
+Chengde, China
+Chengde
+Zanjan, Iran
+Zanjan
+Kuerle, China
+Kuerle
+Rosario, Argentina
+Rosario
+Changji, China
+Changji
+Governador Valadares, Brazil
+Governador Valadares
+Tongxiang, China
+Tongxiang
+Batman, Turkey
+Batman
+Barcelona, Venezuela
+Barcelona
+Manizales, Colombia
+Manizales
+Lianyungang, China
+Lianyungang
+Kota, India
+Kota
+Tonghua, China
+Tonghua
+Funabashi, Japan
+Funabashi
+Denpasar, Indonesia
+Denpasar
+Rushan, China
+Rushan
+Goyang, South Korea
+Goyang
+Zarqa, Jordan
+Zarqa
+Sao Vicente, Brazil
+Sao Vicente
+Zhangshu, China
+Zhangshu
+Kankan, Guinea
+Kankan
+Jurong, China
+Jurong
+Cardiff, United Kingdom
+Cardiff
+Vinnytsya, Ukraine
+Vinnytsya
+Joao Pessoa, Brazil
+Joao Pessoa
+Cirebon, Indonesia
+Cirebon
+Reynosa, Mexico
+Reynosa
+Melbourne, Australia
+Melbourne
+Bonn, Germany
+Bonn
+Kaesong, North Korea
+Kaesong
+Cotonou, Benin
+Cotonou
+Kalyan, India
+Kalyan
+Fukushima, Japan
+Fukushima
+MINSK, Belarus
+MINSK
+Gyeongju (Kyongju)
+Gyeongju
+Kyongju
+Cumaná, Venezuela
+Cumaná
+New York (NY)
+New York
+NY
+Kuching, Malaysia
+Kuching
+Xingping, China
+Xingping
+Enping, China
+Enping
+Mariupol, Ukraine
+Mariupol
+Yunzhou, China
+Yunzhou
+Rangpur, Bangladesh
+Rangpur
+Oyo, Nigeria
+Oyo
+Poltava, Ukraine
+Poltava
+Düsseldorf, Germany
+Düsseldorf
+Matsuyama, Japan
+Matsuyama
+Odessa, Ukraine
+Odessa
+Sagar, India
+Sagar
+Tongchuan, China
+Tongchuan
+SAN SALVADOR, El Salvador
+SAN SALVADOR
+Huixian, China
+Huixian
+Hachinohe, Japan
+Hachinohe
+Mardan, Pakistan
+Mardan
+ASUNCION, Paraguay
+ASUNCION
+Fuding, China
+Fuding
+Mira-Bhayandar, India
+Mira-Bhayandar
+Mudanjiang, China
+Mudanjiang
+Luohe, China
+Luohe
+Kanazawa, Japan
+Kanazawa
+Dalian, China
+Dalian
+Tiefa, China
+Tiefa
+Uijeongbu (Eujeongbu)
+Uijeongbu
+Eujeongbu
+Sao Luís, Brazil
+Sao Luís
+Dire Dawa, Ethiopia
+Dire Dawa
+Xinyi (Jiangsu)
+Xinyi
+Jiangsu
+Samara (Samarskaya oblast)
+Samara
+Samarskaya oblast
+Chiayi, China
+Chiayi
+Giza, Egypt
+Giza
+Bilbao, Spain
+Bilbao
+Iquitos, Peru
+Iquitos
+Guilin, China
+Guilin
+Xianning, China
+Xianning
+Karaj, Iran
+Karaj
+Ciudad Victoria, Mexico
+Ciudad Victoria
+Jimo, China
+Jimo
+Batam, Indonesia
+Batam
+Cangzhou, China
+Cangzhou
+Delhi, India
+Delhi
+Cagayan de Oro, Philippines
+Cagayan de Oro
+Gaomi, China
+Gaomi
+Petrozavodsk, Russia
+Petrozavodsk
+Kashi (Xinjiang)
+Kashi
+Xinjiang
+Bandar-e-Abbas, Iran
+Bandar-e-Abbas
+Adhamiyah, Iraq
+Adhamiyah
+Tongcheng, China
+Tongcheng
+Anqing, China
+Anqing
+Nanhai, China
+Nanhai
+Recife, Brazil
+Recife
+Zaoyang, China
+Zaoyang
+Dezhou, China
+Dezhou
+Nanchong, China
+Nanchong
+Lengshuijiang, China
+Lengshuijiang
+Qods, Iran
+Qods
+Lin'an, China
+Lin'an
+Bari, Italy
+Bari
+Karaganda, Kazakhstan
+Karaganda
+Valparaíso, Chile
+Valparaíso
+Chongjin, North Korea
+Chongjin
+Zhengzhou, China
+Zhengzhou
+General San Martín, Argentina
+General San Martín
+Huaibei, China
+Huaibei
+Yicheng, China
+Yicheng
+Wuxian, China
+Wuxian
+Gongzhuling, China
+Gongzhuling
+L.B. Nagar, India
+L.B. Nagar
+Xiangcheng, China
+Xiangcheng
+Kathlehong, South Africa
+Kathlehong
+Chiang Mai, Thailand
+Chiang Mai
+Linhe, China
+Linhe
+Yanshi, China
+Yanshi
+Ho Chi Minh City (Saigon)
+Ho Chi Minh City
+Saigon
+Rugao, China
+Rugao
+Nanning, China
+Nanning
+Okayama, Japan
+Okayama
+Essen, Germany
+Essen
+Córdoba, Argentina
+Córdoba
+Montes Claros, Brazil
+Montes Claros
+General Santos, Philippines
+General Santos
+Baishan, China
+Baishan
+Santo André, Brazil
+Santo André
+Lufeng, China
+Lufeng
+Shishou, China
+Shishou
+Fuxin, China
+Fuxin
+Omaha (NE)
+Omaha
+NE
+Yuncheng, China
+Yuncheng
+Yong'an, China
+Yong'an
+BELGRADE, Serbia
+BELGRADE
+Petrópolis, Brazil
+Petrópolis
+Taichung, China
+Taichung
+Maracay, Venezuela
+Maracay
+BRATISLAVA, Slovakia
+BRATISLAVA
+Zacatecas, Mexico
+Zacatecas
+Machida, Japan
+Machida
+Lingwu, China
+Lingwu
+Huhehaote, China
+Huhehaote
+Chimbote, Peru
+Chimbote
+LJUBLJANA, Slovenia
+LJUBLJANA
+Gaoming, China
+Gaoming
+Xinle, China
+Xinle
+Valencia, Spain
+Valencia
+Gaya, India
+Gaya
+Shuangliao, China
+Shuangliao
+Coimbatore, India
+Coimbatore
+Yuanping, China
+Yuanping
+CANBERRA, Australia
+CANBERRA
+Andizhan, Uzbekistan
+Andizhan
+Muzaffarpur, India
+Muzaffarpur
+Naltchik, Russia
+Naltchik
+Taiyuan, China
+Taiyuan
+Gulbarga, India
+Gulbarga
+Ningguo, China
+Ningguo
+Hechi, China
+Hechi
+Xinyu, China
+Xinyu
+Cancun, Mexico
+Cancun
+Weifang, China
+Weifang
+Sokoto, Nigeria
+Sokoto
+Suzhou (Jiangsu)
+Suzhou
+Jiangsu
+Xingyi, China
+Xingyi
+Shangrao, China
+Shangrao
+Zhangjiagang, China
+Zhangjiagang
+ZAGREB, Croatia
+ZAGREB
+Hongjiang, China
+Hongjiang
+Dehui, China
+Dehui
+San Miguelito, Panama
+San Miguelito
+RIYADH, Saudi Arabia
+RIYADH
+Kasur, Pakistan
+Kasur
+Changzhi, China
+Changzhi
+Resistencia, Argentina
+Resistencia
+Saskatoon, Canada
+Saskatoon
+Anda, China
+Anda
+Darbhanga, India
+Darbhanga
+Medellín, Colombia
+Medellín
+Suwon (Puwan)
+Suwon
+Puwan
+Baicheng, China
+Baicheng
+Juárez, Mexico
+Juárez
+Noida, India
+Noida
+Liupanshui, China
+Liupanshui
+MONTEVIDEO, Uruguay
+MONTEVIDEO
+Kediri, Indonesia
+Kediri
+ABUJA, Nigeria
+ABUJA
+Heshan (Guangdong)
+Heshan
+Guangdong
+Birkenhead, United Kingdom
+Birkenhead
+Loudi, China
+Loudi
+Dordrecht, Netherlands
+Dordrecht
+Tiruppur, India
+Tiruppur
+Srinagar, India
+Srinagar
+Catania, Italy
+Catania
+Fuquan, China
+Fuquan
+Muling, China
+Muling
+Ruian, China
+Ruian
+Mopti, Mali
+Mopti
+Montería, Colombia
+Montería
+Kumamoto, Japan
+Kumamoto
+Bobo Dioulasso, Burkina Faso
+Bobo Dioulasso
+Paulista, Brazil
+Paulista
+Calabar, Nigeria
+Calabar
+Krasnoyarsk, Russia
+Krasnoyarsk
+Nzérékoré, Guinea
+Nzérékoré
+Datong, China
+Datong
+NIS, Serbia
+NIS
+Uberaba, Brazil
+Uberaba
+Parbhani, India
+Parbhani
+Syktivkar, Russia
+Syktivkar
+Shenzhou, China
+Shenzhou
+Guiping, China
+Guiping
+Jishou, China
+Jishou
+Portland (OR)
+Portland
+OR
+Liverpool, United Kingdom
+Liverpool
+Adana, Turkey
+Adana
+Daegu (Taegu)
+Daegu
+Taegu
+Anshun, China
+Anshun
+Peshawar, Pakistan
+Peshawar
+Ji'nan, China
+Ji'nan
+Shahe, China
+Shahe
+Lausanne, Switzerland
+Lausanne
+Shuangcheng, China
+Shuangcheng
+Fengnan, China
+Fengnan
+Ibaraki, Japan
+Ibaraki
+HELSINKI, Finland
+HELSINKI
+NoviSad, Serbia
+NoviSad
+Soka, Japan
+Soka
+Wuxue, China
+Wuxue
+Southampton, United Kingdom
+Southampton
+Honolulu (HI)
+Honolulu
+HI
+Akure, Nigeria
+Akure
+LIBREVILLE, Gabon
+LIBREVILLE
+Xinzheng, China
+Xinzheng
+El Alto, Bolivia
+El Alto
+Fengcheng (Liaoning)
+Fengcheng
+Liaoning
+Xifeng, China
+Xifeng
+Van, Turkey
+Van
+OUAGADOUGOU, Burkina Faso
+OUAGADOUGOU
+Nanchuan, China
+Nanchuan
+Lechang, China
+Lechang
+Handan, China
+Handan
+Tirunelveli, India
+Tirunelveli
+BAKU, Azerbaijan
+BAKU
+Dongying, China
+Dongying
+Changwon, South Korea
+Changwon
+Zoucheng, China
+Zoucheng
+Foz do Iguaçu, Brazil
+Foz do Iguaçu
+Benxi, China
+Benxi
+Serra, Brazil
+Serra
+Curitiba, Brazil
+Curitiba
+Malabon, Philippines
+Malabon
+Luxi (Yunnan)
+Luxi
+Yunnan
+LUANDA, Angola
+LUANDA
+Changge, China
+Changge
+Pittsburgh (PA)
+Pittsburgh
+PA
+Abidjan, Côte d'Ivoire
+Abidjan
+Beipiao, China
+Beipiao
+Bauru, Brazil
+Bauru
+Kochi, Japan
+Kochi
+Manaus, Brazil
+Manaus
+Hejin, China
+Hejin
+PORT-AU-PRINCE, Haiti
+PORT-AU-PRINCE
+Torreón, Mexico
+Torreón
+Hami, China
+Hami
+Barueri, Brazil
+Barueri
+Xingtai, China
+Xingtai
+Zhaoyuan, China
+Zhaoyuan
+Nôvo Hamburgo, Brazil
+Nôvo Hamburgo
+Barquisimeto, Venezuela
+Barquisimeto
+BANGKOK, Thailand
+BANGKOK
+Maiduguri, Nigeria
+Maiduguri
+Málaga, Spain
+Málaga
+JAKARTA, Indonesia
+JAKARTA
+Saitama, Japan
+Saitama
+Kaohsiung, China
+Kaohsiung
+Shunde, China
+Shunde
+Osaka, Japan
+Osaka
+Yangon , Myanmar 
+Yangon 
+Hiroshima, Japan
+Hiroshima
+Zhumadian, China
+Zhumadian
+Xinyi (Guangdong)
+Xinyi
+Guangdong
+Qianjiang, China
+Qianjiang
+Antalya, Turkey
+Antalya
+Yongchuan, China
+Yongchuan
+Arequipa, Peru
+Arequipa
+Kaiyuan (Liaoning)
+Kaiyuan
+Liaoning
+Liaoyuan, China
+Liaoyuan
+Lingbao, China
+Lingbao
+Tel Aviv-Yafo, Israel
+Tel Aviv-Yafo
+TUNIS, Tunisia
+TUNIS
+Contagem, Brazil
+Contagem
+Hezhou, China
+Hezhou
+Wuwei, China
+Wuwei
+Durango (Victoria de Durango)
+Durango
+Victoria de Durango
+Chicago (IL)
+Chicago
+IL
+Memphis (TN)
+Memphis
+TN
+Fukui, Japan
+Fukui
+Kingston-upon-Hull, United Kingdom
+Kingston-upon-Hull
+Kaunas, Lithuania
+Kaunas
+Kashan, Iran
+Kashan
+Wuan, China
+Wuan
+Bhiwandi, India
+Bhiwandi
+Sivas, Turkey
+Sivas
+Colombo, Brazil
+Colombo
+Asansol, India
+Asansol
+Dongfang, China
+Dongfang
+Shuozhou, China
+Shuozhou
+DAMASCUS, Syria
+DAMASCUS
+Zhoushan, China
+Zhoushan
+PHNOM PENH, Cambodia
+PHNOM PENH
+Neyagawa, Japan
+Neyagawa
+Cuttack, India
+Cuttack
+DJIBOUTI, Djibouti
+DJIBOUTI
+Chaoyang (Guangdong)
+Chaoyang
+Guangdong
+Hsinchu, China
+Hsinchu
+PARIS, France
+PARIS
+Buonmathuot, Viet Nam
+Buonmathuot
+Kahramanmaras, Turkey
+Kahramanmaras
+Constanta, Romania
+Constanta
+Anantapur, India
+Anantapur
+Béni-Mellal, Morocco
+Béni-Mellal
+Louisville (KY)
+Louisville
+KY
+Daan, China
+Daan
+Qiongshan, China
+Qiongshan
+Coruña(A)
+Coruña
+A
+Kuitun, China
+Kuitun
+North Lanarkshire, United Kingdom
+North Lanarkshire
+Göteborg, Sweden
+Göteborg
+Canillo
+Encamp
+La Massana
+Ordino
+Sant Juli de Lria
+Andorra la Vella
+Escaldes-Engordany
+'Ajman
+Abu Zaby
+Dubayy
+Al Fujayrah
+Ras al Khaymah
+Ash Shariqah
+Umm al Qaywayn
+Balkh
+Bamyan
+Badghis
+Badakhshan
+Baghlan
+Daykundi
+Farah
+Faryab
+Ghazni
+Ghor
+Helmand
+Herat
+Jowzjan
+Kabul
+Kandahar
+Kapisa
+Kunduz
+Khost
+Kuna?
+Laghman
+Logar
+Nangarhar
+Nimroz
+Nuristan
+Panjshayr
+Parwan
+Paktiya
+Paktika
+Samangan
+Sar-e Pul
+Takhar
+Uruzgan
+Wardak
+Zabul
+Saint George
+Saint John
+Saint Mary
+Saint Paul
+Saint Peter
+Saint Philip
+Barbuda
+Redonda
+Berat
+Durrs
+Elbasan
+Fier
+Gjirokastr
+Kor
+Kuks
+Lezh
+Dibr
+Shkodr
+Tiran
+Vlor
+Aragac?otn
+Ararat
+Armavir
+Erevan
+Gegark'unik'
+Kotayk'
+Lo?i
+irak
+Syunik'
+Tavu
+Vayoc Jor
+Bengo
+Benguela
+Bi
+Cabinda
+Kuando Kubango
+Cunene
+Kwanza Norte
+Kwanza Sul
+Huambo
+Hula
+Lunda Norte
+Lunda Sul
+Luanda
+Malange
+Moxico
+Namibe
+Uge
+Zaire
+Salta
+Buenos Aires
+Ciudad Autnoma de Buenos Aires
+San Luis
+Entre Ros
+La Rioja
+Santiago del Estero
+Chaco
+San Juan
+Catamarca
+La Pampa
+Mendoza
+Misiones
+Formosa
+Neuqun
+Ro Negro
+Santa Fe
+Tucumn
+Chubut
+Tierra del Fuego
+Corrientes
+Crdoba
+Jujuy
+Santa Cruz
+Burgenland
+Krnten
+Niedersterreich
+Obersterreich
+Salzburg
+Steiermark
+Tirol
+Vorarlberg
+Wien
+Australian Capital Territory
+New South Wales
+Northern Territory
+Queensland
+South Australia
+Tasmania
+Victoria
+Western Australia
+Abseron
+Agstafa
+Agcab?di
+Agdam
+Agdas
+Agsu
+Astara
+Baki
+Bab?k
+Balak?n
+B?rd?
+Beyl?qan
+Bil?suvar
+C?brayil
+C?lilabad
+Culfa
+Dask?s?n
+Fzuli
+G?nc?
+G?d?b?y
+Goranboy
+Gyay
+Gygl
+Haciqabul
+Imisli
+Ismayilli
+K?lb?c?r
+K?ng?rli
+Krd?mir
+L?nk?ran
+Lain
+Lerik
+Masalli
+Ming?evir
+Naftalan
+Neftala
+Naxivan
+Oguz
+Ordubad
+Q?b?l?
+Qax
+Qazax
+Quba
+Qubadli
+Qobustan
+Qusar
+S?ki
+Sabirabad
+S?d?r?k
+Sahbuz
+Salyan
+S?rur
+Saatli
+Sabran
+Siy?z?n
+S?mkir
+Sumqayit
+Samaxi
+Samux
+Sirvan
+Susa
+T?rt?r
+Tovuz
+Ucar
+Xank?ndi
+Xamaz
+Xocali
+Xizi
+Xocav?nd
+Yardimli
+Yevlax
+Z?ngilan
+Zaqatala
+Z?rdab
+Federacija Bosne i Hercegovine
+Brcko distrikt
+Republika Srpska
+Christ Church
+Saint Andrew
+Saint James
+Saint Joseph
+Saint Lucy
+Saint Michael
+Saint Thomas
+Bandarban
+Barguna
+Bogra
+Brahmanbaria
+Bagerhat
+Barisal
+Bhola
+Comilla
+Chandpur
+Chittagong
+Cox's Bazar
+Chuadanga
+Dhaka
+Dinajpur
+Faridpur
+Feni
+Gopalganj
+Gazipur
+Gaibandha
+Habiganj
+Jamalpur

@@ -1,0 +1,879 @@
+Loire-Atlantique
+Loiret
+Lot
+Lot-et-Garonne
+Lozre
+Maine-et-Loire
+Manche
+Marne
+Haute-Marne
+Mayenne
+Meurthe-et-Moselle
+Meuse
+Morbihan
+Moselle
+Nivre
+Nord
+Oise
+Orne
+Pas-de-Calais
+Puy-de-Dme
+Pyrnes-Atlantiques
+Hautes-Pyrnes
+Pyrnes-Orientales
+Bas-Rhin
+Haut-Rhin
+Rhne
+Haute-Sane
+Sane-et-Loire
+Sarthe
+Savoie
+Haute-Savoie
+Paris
+Seine-Maritime
+Seine-et-Marne
+Yvelines
+Deux-Svres
+Somme
+Tarn
+Tarn-et-Garonne
+Var
+Vaucluse
+Vende
+Vienne
+Haute-Vienne
+Vosges
+Yonne
+Territoire de Belfort
+Essonne
+Hauts-de-Seine
+Seine-Saint-Denis
+Val-de-Marne
+Val-d'Oise
+Estuaire
+Haut-Ogoou
+Moyen-Ogoou
+Ngouni
+Nyanga
+Ogoou-Ivindo
+Ogoou-Lolo
+Ogoou-Maritime
+Woleu-Ntem
+Armagh, Banbridge and Craigavon
+Aberdeenshire
+Aberdeen City
+Argyll and Bute
+Isle of Anglesey
+Ards and North Down
+Antrim and Newtownabbey
+Angus
+Armagh
+Bath and North East Somerset
+Blackburn with Darwen
+Bedford
+Barking and Dagenham
+Brent
+Bexley
+Belfast
+Bridgend
+Blaenau Gwent
+Birmingham
+Buckinghamshire
+Bournemouth
+Barnet
+Brighton and Hove
+Barnsley
+Bolton
+Blackpool
+Bracknell Forest
+Bradford
+Bromley
+Bristol, City of
+Bury
+Cambridgeshire
+Caerphilly
+Central Bedfordshire
+Causeway Coast and Glens
+Ceredigion
+Cheshire East
+Cheshire West and Chester
+Calderdale
+Clackmannanshire
+Cumbria
+Camden
+Carmarthenshire
+Cornwall
+Coventry
+Cardiff
+Croydon
+Conwy
+Darlington
+Derbyshire
+Denbighshire
+Derby
+Devon
+Dumfries and Galloway
+Doncaster
+Dundee City
+Dorset
+Derry and Strabane
+Dudley
+Durham
+Ealing
+East Ayrshire
+Edinburgh, City of
+East Dunbartonshire
+East Lothian
+Eilean Siar
+Enfield
+East Renfrewshire
+East Riding of Yorkshire
+Essex
+East Sussex
+Falkirk
+Fife
+Flintshire
+Fermanagh and Omagh
+Gateshead
+Glasgow City
+Gloucestershire
+Greenwich
+Gwynedd
+Halton
+Hampshire
+Havering
+Hackney
+Herefordshire
+Hillingdon
+Highland
+Hammersmith and Fulham
+Hounslow
+Hartlepool
+Hertfordshire
+Harrow
+Haringey
+Isles of Scilly
+Isle of Wight
+Islington
+Inverclyde
+Kensington and Chelsea
+Kent
+Kingston upon Hull
+Kirklees
+Kingston upon Thames
+Knowsley
+Lancashire
+Lisburn and Castlereagh
+Lambeth
+Leicester
+Leeds
+Leicestershire
+Lewisham
+Lincolnshire
+Liverpool
+London, City of
+Luton
+Manchester
+Middlesbrough
+Medway
+Mid and East Antrim
+Milton Keynes
+Midlothian
+Monmouthshire
+Merton
+Moray
+Merthyr Tydfil
+Mid Ulster
+North Ayrshire
+Northumberland
+North East Lincolnshire
+Newcastle upon Tyne
+Norfolk
+Nottingham
+North Lanarkshire
+North Lincolnshire
+Newry, Mourne and Down
+North Somerset
+Northamptonshire
+Neath Port Talbot
+Nottinghamshire
+North Tyneside
+Newham
+Newport
+North Yorkshire
+Oldham
+Orkney Islands
+Oxfordshire
+Pembrokeshire
+Perth and Kinross
+Plymouth
+Poole
+Portsmouth
+Powys
+Peterborough
+Redcar and Cleveland
+Rochdale
+Rhondda, Cynon, Taff
+Redbridge
+Reading
+Renfrewshire
+Richmond upon Thames
+Rotherham
+Rutland
+Sandwell
+South Ayrshire
+Scottish Borders, The
+Suffolk
+Sefton
+South Gloucestershire
+Sheffield
+St. Helens
+Shropshire
+Stockport
+Salford
+Slough
+South Lanarkshire
+Sunderland
+Solihull
+Somerset
+Southend-on-Sea
+Surrey
+Stoke-on-Trent
+Stirling
+Southampton
+Sutton
+Staffordshire
+Stockton-on-Tees
+South Tyneside
+Swansea
+Swindon
+Southwark
+Tameside
+Telford and Wrekin
+Thurrock
+Torbay
+Torfaen
+Trafford
+Tower Hamlets
+Vale of Glamorgan, The
+Warwickshire
+West Berkshire
+West Dunbartonshire
+Waltham Forest
+Wigan
+Wiltshire
+Wakefield
+Walsall
+West Lothian
+Wolverhampton
+Wandsworth
+Windsor and Maidenhead
+Wokingham
+Worcestershire
+Wirral
+Warrington
+Wrexham
+Westminster
+West Sussex
+York
+Shetland Islands
+Southern Grenadine Islands
+Abkhazia
+Ajaria
+Guria
+Imeret'i
+Kakhet'i
+K'vemo K'art'li
+Mts'khet'a-Mt'ianet'i
+Racha-Lechkhumi-Kvemo Svaneti
+Samts'khe-Javakhet'i
+Shida K'art'li
+Samegrelo-Zemo Svanet'i
+T'bilisi
+Greater Accra
+Ashanti
+Brong-Ahafo
+Eastern
+Northern
+Volta
+Upper East
+Upper West
+Western
+Avannaata Kommunia
+Kommune Kujalleq
+Qeqqata Kommunia
+Kommune Qeqertalik
+Kommuneqarfik Sermersooq
+Banjul
+Lower River
+Central River
+North Bank
+Upper River
+Beyla
+Boffa
+Bok
+Coyah
+Dabola
+Dinguiraye
+Dalaba
+Dubrka
+Faranah
+Forcariah
+Fria
+Gaoual
+Gukdou
+Kankan
+Koubia
+Kindia
+Krouan
+Koundara
+Kouroussa
+Kissidougou
+Lab
+Llouma
+Lola
+Macenta
+Mandiana
+Mali
+Mamou
+Nzrkor
+Pita
+Siguiri
+Tliml
+Tougu
+Yomou
+Annobn
+Bioko Norte
+Bioko Sur
+Centro Sur
+Ki-Ntem
+Litoral
+Wele-Nzas
+Anatolik Makedona kai Thrki
+Kentrik Makedona
+Dytiki Makedonia
+peiros
+Thessala
+Iona Nsia
+Dytik Ellda
+Stere Ellda
+Attik
+Peloponnsos
+Voreo Aigao
+Noto Aigao
+Krti
+Alta Verapaz
+Baja Verapaz
+Chimaltenango
+Chiquimula
+Escuintla
+Guatemala
+Huehuetenango
+Izabal
+Jalapa
+Jutiapa
+Petn
+El Progreso
+Quich
+Quetzaltenango
+Retalhuleu
+Sacatepquez
+San Marcos
+Solol
+Santa Rosa
+Suchitepquez
+Totonicapn
+Zacapa
+Bafat
+Bolama
+Biombo
+Bissau
+Cacheu
+Gab
+Oio
+Quinara
+Tombali
+Barima-Waini
+Cuyuni-Mazaruni
+Demerara-Mahaica
+East Berbice-Corentyne
+Essequibo Islands-West Demerara
+Mahaica-Berbice
+Pomeroon-Supenaam
+Potaro-Siparuni
+Upper Demerara-Berbice
+Upper Takutu-Upper Essequibo
+Atlntida
+Choluteca
+Coln
+Comayagua
+Copn
+Corts
+El Paraso
+Francisco Morazn
+Gracias a Dios
+Islas de la Baha
+Intibuc
+Lempira
+Ocotepeque
+Olancho
+Santa Brbara
+Valle
+Yoro
+Zagrebacka upanija
+Krapinsko-zagorska upanija
+Sisacko-moslavacka upanija
+Karlovacka upanija
+Varadinska upanija
+Koprivnicko-krievacka upanija
+Bjelovarsko-bilogorska upanija
+Primorsko-goranska upanija
+Licko-senjska upanija
+Viroviticko-podravska upanija
+Poeko-slavonska upanija
+Brodsko-posavska upanija
+Zadarska upanija
+Osjecko-baranjska upanija
+ibensko-kninska upanija
+Vukovarsko-srijemska upanija
+Splitsko-dalmatinska upanija
+Istarska upanija
+Dubrovacko-neretvanska upanija
+Medimurska upanija
+Grad Zagreb
+Artibonite
+GrandeAnse
+Nord-Est
+Nippes
+Nord-Ouest
+Ouest
+Sud
+Sud-Est
+Baranya
+Bkscsaba
+Bks
+Bcs-Kiskun
+Budapest
+Borsod-Abaj-Zempln
+Csongrd
+Debrecen
+Dunajvros
+Eger
+rd
+Fejr
+Gyor-Moson-Sopron
+Gyor
+Hajd-Bihar
+Heves
+Hdmezovsrhely
+Jsz-Nagykun-Szolnok
+Komrom-Esztergom
+Kecskemt
+Kaposvr
+Miskolc
+Nagykanizsa
+Ngrd
+Nyregyhza
+Pest
+Pcs
+Szeged
+Szkesfehrvr
+Szombathely
+Szolnok
+Sopron
+Somogy
+Szekszrd
+Salgtarjn
+Szabolcs-Szatmr-Bereg
+Tatabnya
+Tolna
+Vas
+Veszprm
+Zala
+Zalaegerszeg
+Aceh
+Bali
+Kepulauan Bangka Belitung
+Bengkulu
+Banten
+Gorontalo
+Jambi
+Jawa Barat
+Jawa Timur
+Jakarta Raya
+Jawa Tengah
+Kalimantan Barat
+Kalimantan Timur
+Kepulauan Riau
+Kalimantan Selatan
+Kalimantan Tengah
+Kalimantan Utara
+Lampung
+Maluku
+Maluku Utara
+Nusa Tenggara Barat
+Nusa Tenggara Timur
+Papua
+Papua Barat
+Riau
+Sulawesi Utara
+Sumatera Barat
+Sulawesi Tenggara
+Sulawesi Selatan
+Sulawesi Barat
+Sumatera Selatan
+Sulawesi Tengah
+Sumatera Utara
+Yogyakarta
+Clare
+Cavan
+Cork
+Carlow
+Dublin
+Donegal
+Galway
+Kildare
+Kilkenny
+Kerry
+Longford
+Louth
+Limerick
+Leitrim
+Laois
+Meath
+Monaghan
+Mayo
+Offaly
+Roscommon
+Sligo
+Tipperary
+Waterford
+Westmeath
+Wicklow
+Wexford
+Al Janubi
+H_efa
+Yerushalayim
+Al Awsat
+Tel-Aviv
+Ash Shamali
+Andaman and Nicobar Islands
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chandigarh
+Chhattisgarh
+Daman and Diu
+Delhi
+Dadra and Nagar Haveli
+Goa
+Gujarat
+Himachal Pradesh
+Haryana
+Jharkhand
+Jammu and Kashmir
+Karnataka
+Kerala
+Lakshadweep
+Maharashtra
+Meghalaya
+Manipur
+Madhya Pradesh
+Mizoram
+Nagaland
+Odisha
+Punjab
+Puducherry
+Rajasthan
+Sikkim
+Telangana
+Tamil Nadu
+Tripura
+Uttar Pradesh
+Uttarakhand
+West Bengal
+AI Anbar
+Arbil
+Al Basrah
+Babil
+Baghdad
+Dahuk
+Diyal
+Dhi Qar
+Karbala'
+Kirkuk
+Maysan
+AI Muthann
+An Najaf
+Ninaw
+Al Qadisiyah
+Salah ad Din
+As Sulaymaniyah
+Wasit
+AZarbayjan-e Sharqi
+AZarbayjan-e Gharbi
+Ardabil
+Esfahan
+Ilam
+Bushehr
+Tehran
+Chahar Ma?al va Bakhtiari
+Khuzestan
+Zanjan
+Semnan
+Sistan va Baluchestan
+Fars
+Kerman
+Kordestan
+Kermanshah
+Kohgiluyeh va Bowyer A?mad
+Gilan
+Lorestan
+Mazandaran
+Markazi
+Hormozgan
+Hamadan
+Yazd
+Qom
+Golestan
+Qazvin
+Khorasan-e Jonubi
+Khorasan-e Ra?avi
+Khorasan-e Shomali
+Alborz
+Hfuborgarsvi
+Suurnes
+Vesturland
+Vestfirir
+Norurland vestra
+Norurland eystra
+Austurland
+Suurland
+Agrigento
+Alessandria
+Ancona
+Aosta
+Ascoli Piceno
+L'Aquila
+Arezzo
+Asti
+Avellino
+Bari
+Bergamo
+Biella
+Belluno
+Benevento
+Bologna
+Brindisi
+Brescia
+Barletta-Andria-Trani
+Bolzano
+Cagliari
+Campobasso
+Caserta
+Chieti
+Caltanissetta
+Cuneo
+Cremona
+Cosenza
+Catania
+Catanzaro
+Enna
+Forl-Cesena
+Ferrara
+Foggia
+Firenze
+Fermo
+Frosinone
+Genova
+Grosseto
+Imperia
+Isernia
+Crotone
+Lecco
+Lecce
+Livorno
+Lodi
+Latina
+Lucca
+Monza e Brianza
+Macerata
+Messina
+Milano
+Mantova
+Modena
+Massa-Carrara
+Matera
+Napoli
+Novara
+Nuoro
+Oristano
+Palermo
+Piacenza
+Padova
+Pescara
+Perugia
+Pisa
+Prato
+Parma
+Pistoia
+Pesaro e Urbino
+Pavia
+Potenza
+Ravenna
+Reggio Calabria
+Reggio Emilia
+Ragusa
+Rieti
+Roma
+Rimini
+Rovigo
+Salerno
+Sud Sardegna
+Siena
+Sondrio
+La Spezia
+Siracusa
+Sassari
+Savona
+Taranto
+Teramo
+Trento
+Torino
+Trapani
+Terni
+Treviso
+Varese
+Verbano-Cusio-Ossola
+Vercelli
+Venezia
+Vicenza
+Verona
+Viterbo
+Vibo Valentia
+Kingston
+Portland
+Saint Ann
+Trelawny
+Hanover
+Westmoreland
+Saint Elizabeth
+Clarendon
+Saint Catherine
+Ajlun
+Al Aqabah
+At Tafilah
+Az Zarqa
+Al Balqa
+Irbid
+Jarash
+AI Karak
+AI Mafraq
+Madaba
+Maan
+Hokkaid
+Aomori
+Iwate
+Miyagi
+Akita
+Yamagata
+Hukusima
+Ibaraki
+Totigi
+Gunma
+Saitama
+Tiba
+Tky
+Kanagawa
+Niigata
+Toyama
+Isikawa
+Hukui
+Yamanasi
+Nagano
+Gihu
+Sizuoka
+Aiti
+Mie
+Siga
+Hygo
+saka
+Hygo
+Nara
+Wakayama
+Tottori
+Simane
+Okayama
+Hirosima
+Yamaguti
+Tokusima
+Kagawa
+Ehime
+Kti
+Hukuoka
+Saga
+Nagasaki
+Kumamoto
+ita
+Miyazaki
+Kagosima
+Okinawa
+Baringo
+Bomet
+Bungoma
+Busia
+Elgeyo
+Embu
+Garissa
+Homa Bay
+Isiolo
+Kajiado
+Kakamega
+Kericho
+Kiambu
+Kilifi
+Kirinyaga
+Kisii
+Kisumu
+Kitui
+Kwale
+Laikipia
+Lamu
+Machakos
+Makueni
+Mandera
+Marsabit
+Meru
+Migori
+Mombasa
+Murang'a
+Nairobi City
+Nakuru
+Nandi
+Narok
+Nyamira
+Nyandarua
+Nyeri
+Samburu
+Siaya
+Taita
+Tana River
+Tharaka-Nithi
+Trans Nzoia
+Turkana
+Uasin Gishu
+Vihiga
+Wajir
+West Pokot
+Batken
+Chy
+Bishkek
+Osh
+Jalal-Abad
+Naryn
+Talas
+Ysyk-Kl
+Banteay Mean Chey
+Kracheh
+Mondol Kiri
