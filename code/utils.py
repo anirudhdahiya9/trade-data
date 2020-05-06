@@ -3,6 +3,7 @@ import os
 from torch.utils.data import Dataset
 import torch
 import logging
+import numpy as np
 
 
 logger = logging.getLogger('TEXT CLASSIFIER')
@@ -97,5 +98,20 @@ class TextDataset(Dataset):
         return self.labels.size()[0]
 
 def prepare_emb_matrix(emb_path, tokenizer):
-    pass
->>>>>>> c56c2e691a1ad1caa6f25fdca3f030fb20159d77
+    # Read the glove matrix
+    glove_vocab = {}
+    with open(emb_path) as f:
+        for line in f:
+            token = line[:line.find(' ')]
+        glove_vocab[token] = np.fromstring(line[line.find(' ') + 1:].strip(), sep=' ')
+
+    # Create the emb matrix
+    emb_matrix = np.ndarray(shape=(len(tokenizer.word_vocab), glove_vocab[token].size))
+    emb_matrix[tokenizer.word_vocab[tokenizer.pad_token], :] = 0.0
+
+    # Initialize rows with glove vectors
+    for token in tokenizer.word_vocab:
+        if token not in (tokenizer.unk_token, tokenizer.pad_token):
+            emb_matrix[tokenizer.word_vocab[token]] = glove_vocab[token]
+
+    return emb_matrix

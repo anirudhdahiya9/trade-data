@@ -1,7 +1,7 @@
 from argparse import ArgumentParser
 import logging
 import os
-from utils import Tokenizer, TextDataset
+from utils import Tokenizer, TextDataset, prepare_emb_matrix
 from models import ConvClassifier
 import pydevd_pycharm
 
@@ -55,6 +55,8 @@ if __name__ == "__main__":
     parser.add_argument('--pretrained_vocab_path', default='../data/glove_vocab.txt', type=str, help="Path to file "
                                                                                                      "containing pretrained "
                                                                                                      "vocab.")
+    parser.add_argument('--pretrained_glove_path', default='/DATA1/USERS/anirudh/glove6B/glove.6B.100d.txt',
+                        type=str, help="Path to the glove embeddings file.")
     parser.add_argument('--log_path', default='../logs/main.log', type=str, help="Path to the log file.")
 
     args = parser.parse_args()
@@ -67,9 +69,14 @@ if __name__ == "__main__":
     if args.mode == 'train':
         with open(args.pretrained_vocab_path) as f:
             pretrained_vocab = set(f.read().strip().split('\n'))
+
         tokenizer = Tokenizer.from_datadir(args.data_dir, pretrained_vocab, args.lint_ascii, args.case_lower)
+
         preprocessed_data = preprocess_data(args.data_dir, 'train', tokenizer)
 
-        model = ConvClassifier(wvocab_size=len(tokenizer.word_vocab), charvocab_size=len(tokenizer.char_vocab))
+        emb_matrix = prepare_emb_matrix(args.pretrained_glove_path, tokenizer)
+        model = ConvClassifier(wvocab_size=len(tokenizer.word_vocab), charvocab_size=len(tokenizer.char_vocab),
+                               embedding_weights=emb_matrix)
+        
 
     pass
