@@ -9,7 +9,10 @@
 
 ### Location
 Used the UN location code data from [here](http://www.unece.org/cefact/locode/welcome.html). Cleaned the country and province names in the notebook. Data currently segregated into cities, subdivisions and countries list.
-* Should I consider company addresses as data points too here? Access to that data exists as part of [Corpwatch](https://old.datahub.io/dataset/corpwatch) company registries data. 
+* Should I consider company addresses as data points too here? Access to that data exists as part of [Corpwatch](https://old.datahub.io/dataset/corpwatch) company registries data.
+
+Also scraped the data for top 2000 populated cities, and added to the data mix.
+
 
 ###  Company Names
 Data fetched from [Corpwatch](https://old.datahub.io/dataset/corpwatch).

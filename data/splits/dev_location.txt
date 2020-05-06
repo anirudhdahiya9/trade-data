@@ -1,879 +1,879 @@
-Loire-Atlantique
-Loiret
-Lot
-Lot-et-Garonne
-Lozre
-Maine-et-Loire
-Manche
-Marne
-Haute-Marne
-Mayenne
-Meurthe-et-Moselle
-Meuse
-Morbihan
-Moselle
-Nivre
-Nord
-Oise
-Orne
-Pas-de-Calais
-Puy-de-Dme
-Pyrnes-Atlantiques
-Hautes-Pyrnes
-Pyrnes-Orientales
-Bas-Rhin
-Haut-Rhin
-Rhne
-Haute-Sane
-Sane-et-Loire
-Sarthe
-Savoie
-Haute-Savoie
-Paris
-Seine-Maritime
-Seine-et-Marne
-Yvelines
-Deux-Svres
-Somme
-Tarn
-Tarn-et-Garonne
-Var
-Vaucluse
-Vende
-Vienne
-Haute-Vienne
-Vosges
-Yonne
-Territoire de Belfort
-Essonne
-Hauts-de-Seine
-Seine-Saint-Denis
-Val-de-Marne
-Val-d'Oise
-Estuaire
-Haut-Ogoou
-Moyen-Ogoou
-Ngouni
-Nyanga
-Ogoou-Ivindo
-Ogoou-Lolo
-Ogoou-Maritime
-Woleu-Ntem
-Armagh, Banbridge and Craigavon
-Aberdeenshire
-Aberdeen City
-Argyll and Bute
-Isle of Anglesey
-Ards and North Down
-Antrim and Newtownabbey
-Angus
-Armagh
-Bath and North East Somerset
-Blackburn with Darwen
-Bedford
-Barking and Dagenham
-Brent
-Bexley
-Belfast
-Bridgend
-Blaenau Gwent
-Birmingham
-Buckinghamshire
-Bournemouth
-Barnet
-Brighton and Hove
-Barnsley
-Bolton
-Blackpool
-Bracknell Forest
-Bradford
-Bromley
-Bristol, City of
-Bury
-Cambridgeshire
-Caerphilly
-Central Bedfordshire
-Causeway Coast and Glens
-Ceredigion
-Cheshire East
-Cheshire West and Chester
-Calderdale
-Clackmannanshire
-Cumbria
-Camden
-Carmarthenshire
-Cornwall
-Coventry
-Cardiff
-Croydon
-Conwy
-Darlington
-Derbyshire
-Denbighshire
-Derby
-Devon
-Dumfries and Galloway
-Doncaster
-Dundee City
-Dorset
-Derry and Strabane
-Dudley
-Durham
-Ealing
-East Ayrshire
-Edinburgh, City of
-East Dunbartonshire
-East Lothian
-Eilean Siar
-Enfield
-East Renfrewshire
-East Riding of Yorkshire
-Essex
-East Sussex
-Falkirk
-Fife
-Flintshire
-Fermanagh and Omagh
-Gateshead
-Glasgow City
-Gloucestershire
-Greenwich
-Gwynedd
-Halton
-Hampshire
-Havering
-Hackney
-Herefordshire
-Hillingdon
-Highland
-Hammersmith and Fulham
-Hounslow
-Hartlepool
-Hertfordshire
-Harrow
-Haringey
-Isles of Scilly
-Isle of Wight
-Islington
-Inverclyde
-Kensington and Chelsea
-Kent
-Kingston upon Hull
-Kirklees
-Kingston upon Thames
-Knowsley
-Lancashire
-Lisburn and Castlereagh
-Lambeth
-Leicester
-Leeds
-Leicestershire
-Lewisham
-Lincolnshire
-Liverpool
-London, City of
-Luton
-Manchester
-Middlesbrough
-Medway
-Mid and East Antrim
-Milton Keynes
-Midlothian
-Monmouthshire
-Merton
-Moray
-Merthyr Tydfil
-Mid Ulster
-North Ayrshire
-Northumberland
-North East Lincolnshire
-Newcastle upon Tyne
-Norfolk
-Nottingham
-North Lanarkshire
-North Lincolnshire
-Newry, Mourne and Down
-North Somerset
-Northamptonshire
-Neath Port Talbot
-Nottinghamshire
-North Tyneside
-Newham
-Newport
-North Yorkshire
-Oldham
-Orkney Islands
-Oxfordshire
-Pembrokeshire
-Perth and Kinross
-Plymouth
-Poole
-Portsmouth
-Powys
-Peterborough
-Redcar and Cleveland
-Rochdale
-Rhondda, Cynon, Taff
-Redbridge
-Reading
-Renfrewshire
-Richmond upon Thames
-Rotherham
-Rutland
-Sandwell
-South Ayrshire
-Scottish Borders, The
-Suffolk
-Sefton
-South Gloucestershire
-Sheffield
-St. Helens
-Shropshire
-Stockport
-Salford
-Slough
-South Lanarkshire
-Sunderland
-Solihull
-Somerset
-Southend-on-Sea
-Surrey
-Stoke-on-Trent
-Stirling
-Southampton
-Sutton
-Staffordshire
-Stockton-on-Tees
-South Tyneside
-Swansea
-Swindon
-Southwark
-Tameside
-Telford and Wrekin
-Thurrock
-Torbay
-Torfaen
-Trafford
-Tower Hamlets
-Vale of Glamorgan, The
-Warwickshire
-West Berkshire
-West Dunbartonshire
-Waltham Forest
-Wigan
-Wiltshire
-Wakefield
-Walsall
-West Lothian
-Wolverhampton
-Wandsworth
-Windsor and Maidenhead
-Wokingham
-Worcestershire
-Wirral
-Warrington
-Wrexham
-Westminster
-West Sussex
-York
-Shetland Islands
-Southern Grenadine Islands
-Abkhazia
-Ajaria
-Guria
-Imeret'i
-Kakhet'i
-K'vemo K'art'li
-Mts'khet'a-Mt'ianet'i
-Racha-Lechkhumi-Kvemo Svaneti
-Samts'khe-Javakhet'i
-Shida K'art'li
-Samegrelo-Zemo Svanet'i
-T'bilisi
-Greater Accra
-Ashanti
-Brong-Ahafo
-Eastern
-Northern
-Volta
-Upper East
-Upper West
-Western
-Avannaata Kommunia
-Kommune Kujalleq
-Qeqqata Kommunia
-Kommune Qeqertalik
-Kommuneqarfik Sermersooq
-Banjul
-Lower River
-Central River
-North Bank
-Upper River
-Beyla
-Boffa
-Bok
-Coyah
-Dabola
-Dinguiraye
-Dalaba
-Dubrka
-Faranah
-Forcariah
-Fria
-Gaoual
-Gukdou
-Kankan
-Koubia
-Kindia
-Krouan
-Koundara
-Kouroussa
-Kissidougou
-Lab
-Llouma
-Lola
-Macenta
-Mandiana
-Mali
-Mamou
-Nzrkor
-Pita
-Siguiri
-Tliml
-Tougu
-Yomou
-Annobn
-Bioko Norte
-Bioko Sur
-Centro Sur
-Ki-Ntem
-Litoral
-Wele-Nzas
-Anatolik Makedona kai Thrki
-Kentrik Makedona
-Dytiki Makedonia
-peiros
-Thessala
-Iona Nsia
-Dytik Ellda
-Stere Ellda
-Attik
-Peloponnsos
-Voreo Aigao
-Noto Aigao
-Krti
-Alta Verapaz
-Baja Verapaz
-Chimaltenango
-Chiquimula
-Escuintla
-Guatemala
-Huehuetenango
-Izabal
-Jalapa
-Jutiapa
-Petn
-El Progreso
-Quich
-Quetzaltenango
-Retalhuleu
-Sacatepquez
-San Marcos
-Solol
-Santa Rosa
-Suchitepquez
-Totonicapn
-Zacapa
-Bafat
-Bolama
-Biombo
-Bissau
-Cacheu
-Gab
-Oio
-Quinara
-Tombali
-Barima-Waini
-Cuyuni-Mazaruni
-Demerara-Mahaica
-East Berbice-Corentyne
-Essequibo Islands-West Demerara
-Mahaica-Berbice
-Pomeroon-Supenaam
-Potaro-Siparuni
-Upper Demerara-Berbice
-Upper Takutu-Upper Essequibo
-Atlntida
-Choluteca
-Coln
-Comayagua
-Copn
-Corts
-El Paraso
-Francisco Morazn
-Gracias a Dios
-Islas de la Baha
-Intibuc
-Lempira
-Ocotepeque
-Olancho
-Santa Brbara
-Valle
-Yoro
-Zagrebacka upanija
-Krapinsko-zagorska upanija
-Sisacko-moslavacka upanija
-Karlovacka upanija
-Varadinska upanija
-Koprivnicko-krievacka upanija
-Bjelovarsko-bilogorska upanija
-Primorsko-goranska upanija
-Licko-senjska upanija
-Viroviticko-podravska upanija
-Poeko-slavonska upanija
-Brodsko-posavska upanija
-Zadarska upanija
-Osjecko-baranjska upanija
-ibensko-kninska upanija
-Vukovarsko-srijemska upanija
-Splitsko-dalmatinska upanija
-Istarska upanija
-Dubrovacko-neretvanska upanija
-Medimurska upanija
-Grad Zagreb
-Artibonite
-GrandeAnse
-Nord-Est
-Nippes
-Nord-Ouest
-Ouest
-Sud
-Sud-Est
-Baranya
-Bkscsaba
-Bks
-Bcs-Kiskun
-Budapest
-Borsod-Abaj-Zempln
-Csongrd
-Debrecen
-Dunajvros
-Eger
-rd
-Fejr
-Gyor-Moson-Sopron
-Gyor
-Hajd-Bihar
-Heves
-Hdmezovsrhely
-Jsz-Nagykun-Szolnok
-Komrom-Esztergom
-Kecskemt
-Kaposvr
-Miskolc
-Nagykanizsa
-Ngrd
-Nyregyhza
-Pest
-Pcs
-Szeged
-Szkesfehrvr
-Szombathely
-Szolnok
-Sopron
-Somogy
-Szekszrd
-Salgtarjn
-Szabolcs-Szatmr-Bereg
-Tatabnya
-Tolna
-Vas
-Veszprm
-Zala
-Zalaegerszeg
-Aceh
-Bali
+Hygo
+Coventry/Bedworth
 Kepulauan Bangka Belitung
-Bengkulu
-Banten
-Gorontalo
-Jambi
-Jawa Barat
-Jawa Timur
-Jakarta Raya
-Jawa Tengah
-Kalimantan Barat
-Kalimantan Timur
-Kepulauan Riau
-Kalimantan Selatan
-Kalimantan Tengah
-Kalimantan Utara
-Lampung
-Maluku
-Maluku Utara
-Nusa Tenggara Barat
-Nusa Tenggara Timur
-Papua
-Papua Barat
-Riau
-Sulawesi Utara
-Sumatera Barat
-Sulawesi Tenggara
-Sulawesi Selatan
-Sulawesi Barat
-Sumatera Selatan
-Sulawesi Tengah
-Sumatera Utara
-Yogyakarta
-Clare
-Cavan
-Cork
-Carlow
-Dublin
-Donegal
-Galway
-Kildare
-Kilkenny
-Kerry
-Longford
-Louth
-Limerick
-Leitrim
-Laois
-Meath
-Monaghan
-Mayo
-Offaly
-Roscommon
-Sligo
-Tipperary
-Waterford
-Westmeath
-Wicklow
-Wexford
-Al Janubi
-H_efa
-Yerushalayim
-Al Awsat
-Tel-Aviv
-Ash Shamali
-Andaman and Nicobar Islands
-Andhra Pradesh
-Arunachal Pradesh
-Assam
-Bihar
-Chandigarh
-Chhattisgarh
-Daman and Diu
-Delhi
-Dadra and Nagar Haveli
-Goa
-Gujarat
-Himachal Pradesh
-Haryana
-Jharkhand
-Jammu and Kashmir
-Karnataka
-Kerala
-Lakshadweep
-Maharashtra
-Meghalaya
-Manipur
-Madhya Pradesh
-Mizoram
-Nagaland
-Odisha
-Punjab
-Puducherry
-Rajasthan
-Sikkim
-Telangana
-Tamil Nadu
-Tripura
-Uttar Pradesh
-Uttarakhand
-West Bengal
-AI Anbar
-Arbil
-Al Basrah
-Babil
-Baghdad
-Dahuk
-Diyal
-Dhi Qar
-Karbala'
-Kirkuk
-Maysan
-AI Muthann
-An Najaf
-Ninaw
-Al Qadisiyah
-Salah ad Din
-As Sulaymaniyah
-Wasit
-AZarbayjan-e Sharqi
-AZarbayjan-e Gharbi
-Ardabil
-Esfahan
-Ilam
-Bushehr
-Tehran
-Chahar Ma?al va Bakhtiari
-Khuzestan
-Zanjan
-Semnan
-Sistan va Baluchestan
-Fars
-Kerman
-Kordestan
-Kermanshah
-Kohgiluyeh va Bowyer A?mad
-Gilan
-Lorestan
-Mazandaran
-Markazi
-Hormozgan
-Hamadan
-Yazd
-Qom
-Golestan
-Qazvin
-Khorasan-e Jonubi
-Khorasan-e Ra?avi
-Khorasan-e Shomali
-Alborz
-Hfuborgarsvi
-Suurnes
-Vesturland
-Vestfirir
-Norurland vestra
-Norurland eystra
-Austurland
-Suurland
-Agrigento
-Alessandria
-Ancona
-Aosta
-Ascoli Piceno
-L'Aquila
-Arezzo
-Asti
-Avellino
-Bari
-Bergamo
-Biella
-Belluno
-Benevento
-Bologna
-Brindisi
-Brescia
-Barletta-Andria-Trani
-Bolzano
-Cagliari
-Campobasso
-Caserta
-Chieti
-Caltanissetta
-Cuneo
-Cremona
-Cosenza
-Catania
-Catanzaro
-Enna
-Forl-Cesena
-Ferrara
-Foggia
-Firenze
-Fermo
-Frosinone
-Genova
-Grosseto
-Imperia
-Isernia
-Crotone
-Lecco
-Lecce
-Livorno
-Lodi
-Latina
-Lucca
-Monza e Brianza
-Macerata
-Messina
-Milano
-Mantova
-Modena
-Massa-Carrara
-Matera
-Napoli
-Novara
-Nuoro
-Oristano
-Palermo
+Niuhebridis
+Republic of Belarus
+Ukraine
+Helmand
+Bordj Bou Arrridj
+Ciudad Guayana, Venezuela
+Masan, South Korea
+Olancho
+Erevan
+Bedford
+Tainan
+Cartagena, Colombia
+Serbia
+Najran (Aba as-Suud)
+Northern Territory
+DDR
+Bhopal, India
+Khulna
+Fengnan, China
+State of Brunei
+the Republic of Nicaragua
+Kingdom of Lesotho
+Tokorozawa, Japan
+the Republic of Angola
 Piacenza
-Padova
-Pescara
-Perugia
-Pisa
-Prato
-Parma
+the Republic of Moldova
+the Republic of Côte d'Ivoire
+Monterrey
+Carrefour, Haiti
+Foz do Iguaçu, Brazil
+North Lanarkshire
+Badghis
+Samsun, Turkey
+Muramvya
+Faryab
+Qods
+Oxfordshire
+Taipei, China
+Dublin
+Suopma
+Haikou
+KINGSTON
+Nizamabad, India
+Santiago del Estero
+Jiangxi
+Dnieprodzerzhynsk, Ukraine
+LUSAKA
+Tongren, China
+Yamunanagar, India
+Lobaye
+the Republic of Angola
+Trinidad and Tobago
+Lettland
+Jian
+Morioka, Japan
+Denver
+Tianmen, China
+Zimbabwe
+Makati
+Vestfirir
+Confederazione Svizzera
+Rampur
+Jersey City (NJ)
+the Commonwealth of the Bahamas
+Enping, China
+Pardubick kraj
+the Republic of Austria
 Pistoia
-Pesaro e Urbino
-Pavia
-Potenza
-Ravenna
-Reggio Calabria
-Reggio Emilia
-Ragusa
-Rieti
-Roma
-Rimini
-Rovigo
-Salerno
-Sud Sardegna
-Siena
-Sondrio
-La Spezia
-Siracusa
-Sassari
-Savona
-Taranto
-Teramo
-Trento
-Torino
-Trapani
-Terni
-Treviso
-Varese
-Verbano-Cusio-Ossola
-Vercelli
-Venezia
-Vicenza
-Verona
-Viterbo
-Vibo Valentia
-Kingston
-Portland
-Saint Ann
-Trelawny
-Hanover
-Westmoreland
-Saint Elizabeth
-Clarendon
-Saint Catherine
-Ajlun
-Al Aqabah
-At Tafilah
-Az Zarqa
-Al Balqa
-Irbid
-Jarash
-AI Karak
-AI Mafraq
-Madaba
-Maan
-Hokkaid
-Aomori
-Iwate
-Miyagi
-Akita
-Yamagata
-Hukusima
-Ibaraki
-Totigi
-Gunma
-Saitama
-Tiba
-Tky
+Yao, Japan
+Liamuiga
+Qingdao (Tsingtao)
+the Slovak Republic
+Union of the Comoros
+Tanger
+Ribeirao Prêto, Brazil
+Dafeng
+Pakistan
+Hairouna
+Changde, China
+Huangshi (Hubei)
+United Republic of Tanganyika and Zanzibar
+CO
+the Hellenic Republic
+Dhivehi Raajje
+Makkah, Saudi Arabia
+Samdrup Jongkhar
+Shaanxi
+Mokpo, South Korea
+Saksa
+the Republic of Uzbekistan
+Kathlehong
+Lietuvos Respublika
+Chhattisgarh
+Ganzhou
+Finland
+Ordubad
+Democratic Republic of the Congo
+Itaquaquecetuba
+Bochum, Germany
+Polonia
+Suncheon, South Korea
+Zhongshan
+South Lanarkshire, United Kingdom
+Duyun
+Quba
+Shahjahanpur
+Xinyang
+Avellaneda
+Vrumaa
+Moji das Cruzes, Brazil
+Woleu-Ntem
+Gaoyao
+Usa
+LOME, Togo
+Kuks
+Derby
+Cuzco, Peru
+Mid and East Antrim
+TALLINN, Estonia
+Pakistan
+Slovenija
+State of Palestine
+Republic of Rwanda
+Kyrgyz Republic
+Arab Republic of Egypt
+Falkirk
+the Republic of Uzbekistan
+Niemcy
+CA
+Tipaza
+the State of Kuwait
+Lahore, Pakistan
+BRATISLAVA, Slovakia
+Royaume de Belgique
+Beira, Mozambique
+Isre
+Emeishan, China
+Huhehaote, China
+Salzburg
+Nusa Tenggara Timur
+Dikhil
+Maracaibo, Venezuela
+ROK
+Mamou
+Thoothukkudi
+Los Ros
+Durango
+Porto Velho
+Brno
+Coatzacoalcos
+Nippon
+Salta, Argentina
+Brest
+the Lao People's Democratic Republic
+Davangere, India
+Lettland
+Jacksonville (FL)
+Kayes, Mali
+the Russian Federation
+Duisburg
+Sissili
+Hellenic Republic
+Kisumu, Kenya
+Southend
+Constantine
+Hamadan, Iran
+Khamis Mushayt
+Cho-son
+Mostaganem
+Saskatoon
+Içel, Turkey
+Göteborg
+Bologna, Italy
+MX
+Hannover, Germany
+Santo André
+Jiuquan
+Portingall
+Jiangyin, China
+Manaus, Brazil
+Tongling, China
+Fujisawa, Japan
+Ilorin, Nigeria
+Craiova
+WASHINGTON
+Sint Eustatius
+Yushu
+British Honduras
+Toyota, Japan
+Galpagos
+Pinar del Ro
+ and 
+the Republic of Italy
+Gdansk, Poland
+Miami
+Ocotepeque
+Yong'an, China
+Roumania
 Kanagawa
-Niigata
-Toyama
-Isikawa
-Hukui
-Yamanasi
-Nagano
-Gihu
-Sizuoka
-Aiti
-Mie
-Siga
-Hygo
-saka
-Hygo
-Nara
-Wakayama
-Tottori
-Simane
-Okayama
-Hirosima
-Yamaguti
-Tokusima
-Kagawa
-Ehime
-Kti
-Hukuoka
-Saga
-Nagasaki
-Kumamoto
-ita
-Miyazaki
-Kagosima
-Okinawa
-Baringo
-Bomet
-Bungoma
-Busia
-Elgeyo
-Embu
-Garissa
-Homa Bay
-Isiolo
-Kajiado
-Kakamega
-Kericho
-Kiambu
-Kilifi
-Kirinyaga
-Kisii
-Kisumu
-Kitui
-Kwale
-Laikipia
-Lamu
-Machakos
-Makueni
-Mandera
-Marsabit
-Meru
-Migori
-Mombasa
-Murang'a
-Nairobi City
-Nakuru
-Nandi
-Narok
-Nyamira
-Nyandarua
-Nyeri
-Samburu
-Siaya
-Taita
-Tana River
-Tharaka-Nithi
-Trans Nzoia
-Turkana
-Uasin Gishu
-Vihiga
-Wajir
-West Pokot
-Batken
-Chy
-Bishkek
-Osh
-Jalal-Abad
+Abeokuta
+Gifu
+Jordan
+Ripablik blong Vanuatu
+Anlu, China
+Paktiya
+RIYADH, Saudi Arabia
+New Zealand
+United Republic of Tanganyika and Zanzibar
+Mardan
+Dominion du Canada
+Kerbala, Iraq
+Cangzhou, China
+Muzaffarpur
+MEXICO CITY, Mexico
+Philippines
+Limerick
+Orsk
+Pesaro e Urbino
+Bozhou, China
+Allemagne
+Republic of Ireland
+the Republic of Korea
+Manitoba
+Kempton Park, South Africa
+SAN JUAN, Puerto Rico
+Hokkaid
+Longford
+Yunfu, China
+Kuna?
+Sunamganj
+Jiutai
+Goiânia
+Shifang, China
+French Republic
+Hungarian People's Republic
+Armenia
+Norway
+Islamic Republic of Iran
+Madrid
+Marshall Islands
+Jiande, China
+Dresden, Germany
+Henan
+Cuiabá, Brazil
+Dangyang
+Ludhiana, India
+Hubei
+Wichita
+OH
+FYROM
+Dominion du Canada
+Commonwealth of The Bahamas
+Pathum Thani
+Avellaneda, Argentina
+Shkodr
+the Republic of Trinidad and Tobago
+CO
+Barisal
+OK
+Sunderland
+ROK
+Islington
+Chinju
+Republic of Slovenia
+Carchi
+Erzurum
+Nagaland
+Adan, Yemen
+the Republic of Belarus
+Trujillo
+L.B. Nagar
+Tomsk, Russia
+Tianshui
+Londrina
+Estado Plurinacional de Bolivia
+Eretz Yisrael
+Xinzheng
+Sumale
+Saskatoon, Canada
+the Republic of Yemen
+Maceió
+Kitwe
+Algeria
+Ha'il
+Cook Islands
+Dhivehi Raajje
+Sumgayit, Azerbaijan
+Republic of Malawi
+Mérida
+the Republic of Ghana
+Kingdom of the Netherlands
+Pingdu
 Naryn
-Talas
-Ysyk-Kl
+Kuwait
+Black Mountain
+Baringo
+Anning, China
+Victoria
+KYIV
+the Republic of El Salvador
+PA
+Takamatsu, Japan
+Ibagué, Colombia
+Vanuatu
+Zürich
+Ash Shariqah
+Tshuapa
+Madhya Pradesh
+UK
+Weinan
+ASTANA
+Luquan
+Dinguiraye
+Romania
+Yiyang
+Baicheng, China
+Jhang, Pakistan
+La Coruña, Spain
+Albania
+Namosi
+Dallas
+Arnavutluk
+Kannur, India
+Gaoyao, China
+Homs, Syria
+the Republic of Guinea
+Saudi regime
+Bucaramanga
+Tongxiang, China
+BENGHAZI
+Maanshan
+Meihekou, China
+Halton
+Genova, Italy
+the Republic of the Sudan
+the Kingdom of Spain
+Ubon Ratchathani, Thailand
+GABORONE, Botswana
+Kabul
+Mali i Zi
+Fengcheng (Jiangxi)
+Bauru, Brazil
+Slovakia
+Republic of Colombia
+Soweto
+Empire Centrafricain
+Ophiusa
+Haute-Volta
+Nizhny Novgorod, Russia
+Occupied Palestine
+TALLINN
+Bil?suvar
+Villavicencio
+Lanus, Argentina
+the Federal Republic of Nigeria
+Choluteca
+Victoria
+Upper Demerara-Berbice
+Liupanshui
+Düsseldorf
+Ipatinga, Brazil
+Artibonite
+Ahvenanmaan maakunta
+NIS, Serbia
+the Eastern Republic of Uruguay
+Huila
+Córdoba, Spain
+Sacramento (CA)
+Oaxaca de Juárez
+Kentrik Makedona
+Albacete
+Aba
+Beihai
+Tengzhou, China
+Bayern
+Zamora Chinchipe
+Seine-Maritime
+Campinas
+Karradah Sharqiyah
+Haryana
+AI Muthann
+Gabon
+Federation of Malaysia
+Ulster
+de los Aldama
+the Republic of San Marino
+Zalaegerszeg
+Hengshui, China
+Guang'an
+Ulyanovsk, Russia
+Chongqing
+Tunisia
+Rewa
+Montana
+Yavan
+Chile
+Bandjarmasin, Indonesia
+the Republic of Cyprus
+Kensington and Chelsea
+V.N.
+Taraz, Kazakhstan
+Bim
+Madras
+Haskovo
+Santa Cruz
+Panihati, India
+Guwahati
+Jura
+U.S.A.
+Trucial States
+Liling, China
+Xingning, China
+Alba
+Bulgaria
+Lisburn and Castlereagh
+Lao People's Democratic Republic
+Wuchuan, China
+Boksburg
+the Republic of Indonesia
+Jining (Inner Mongolia)
+Sao José do Rio Prêto
+Regno Portugalensium
+Nagpur, India
+Micronesia
+the Kingdom of Lesotho
+RS
+UA
+Hashemite Kingdom of Jordan
+Olomouck kraj
+Wafangdian, China
+Mataram, Indonesia
+Nauru
+Yoshkar-ola
+Huangshan
+Buenaventura, Colombia
+Zanzan
+Fengzhen, China
+Somalia
+Southwark
+Tientsin
+Gaoyou
+Granma
+Xamaz
+Moradabad
+Namibia
+Mbomou
+Columbia
+Deyang, China
+Fuyang
+Hangzhou
+Tongchuan, China
+Tel Aviv regime
+Padova
+Bologna
+Miluo, China
+Kochi
+Verona, Italy
+Tapoa
+Lianyungang, China
+Fushun
+Antigua and Barbuda
+TX
+Malaya
+Maarjamaa
+Gujrat, Pakistan
+Hachioji
+Rosario, Argentina
+Al-Hudaydah (Hodeidah)
+Yinchuan
+Gaoping, China
+T?rt?r
+Hunan
+Querétaro, Mexico
+the Argentine
+Béni-Mellal
+Indonesia
+Thailand
+Reading/Wokingham, United Kingdom
+Papua New Guinea
+Kingdom of Romania
+Jarash
+Jizhou, China
+Cayo
+Serbia
+Island of Gems
+Kazan
+Danyang, China
+Varese
+Iwaki, Japan
+Regno Portugalensium
+Weifang, China
+Principat d'Andorra
+SSSR
+Jalna
+Bissau
+Meizhou, China
+Hungaria
+Mogilev, Belarus
+Changning, China
+Kyrgyz Respublikasy
+Umlazi, South Africa
+S.R.V.
+SUCRE
+Mombasa
+Zimbabwe
+Maluku Utara
+Firenze
+the Syrian Arab Republic
+Klang
+VILNIUS, Lithuania
+Zhangzhou, China
+Kanpur, India
+Yingcheng
+Hirosima
+Australia
+Kukatpalle
+Haute-Garonne
+Comoros
+Enotria
+Chemnitz
+Bogor, Indonesia
+Liverpool
+Hermosillo, Mexico
+Cagliari
+Cho-son
+Asturias
+Anda
+Treviso
+Viro
+Jwaneng
+Limn
+Lesotho
+Blaenau Gwent
+Dhibat-al-Mahal
+Wuchang, China
+Stoke-on-Trent
+Tijuana, Mexico
+Sachsen-Anhalt
+Suid-Afrika
+Gabon
+Herzlstan
+Leping
+Pulandian, China
+Benxi, China
+TX
+Khagrachhari
+Lleida
+USSR
+DDR
+Detroit
+the Kingdom of Thailand
+Sanmenxia
+Lunda Sul
+Xinyu
+Bundesrepublik Deutschland
+the Boot
+Tambov, Russia
+Teresina, Brazil
+Landes
+Vosges
+Saudia
+Han-guk
+Jijel
+GrandeAnse
+Chongjin, North Korea
+Hailun
+Mwaro
+Cook Islands
+Mymensingh
+Johannesburg
+Gwalior, India
+Norurland eystra
+Rajpur Sonarpur, India
+Republic of Benin
+Baoshan
+Socialist Republic of Vietnam
+Xinghua, China
+Shimkent
+Chernivtsy
+Comoros
+Seychelles
+Dehradun, India
+the Republic of Azerbaijan
+Bikaner, India
+Jinhua, China
+CAIRO, Egypt
+Ille-et-Vilaine
+Angeles
+Naxivan
+Enugu, Nigeria
+the Republic of Ecuador
+Kaesong
+Portingall
+Stann Creek
+Tel Aviv regime
+the Democratic Socialist Republic of Sri Lanka
+Republic of Tunisia
+TX
+the Republic of Turkey
 Banteay Mean Chey
-Kracheh
-Mondol Kiri
+North Yorkshire
+Bimini
+Delmas, Haiti
+the State of Kuwait
+the United Republic of Tanzania
+Republic of Cuba
+the Kingdom of Belgium
+Lufeng, China
+the Kingdom of the Netherlands
+Samegrelo-Zemo Svanet'i
+Izabal
+Papua New Guinea
+Vorarlberg
+Warri, Nigeria
+Letland
+Taizhou (Zhejiang)
+Chandigarh
+Vesturland
+Xinxiang
+FYROM
+U.S.A
+the Hashemite Kingdom of Jordan
+Savoie
+the Republic of Poland
+Bergen, Norway
+Hyderabad, India
+DRC
+CANBERRA, Australia
+General Santos
+eSwatini
+Portland (OR)
+Ciudad de La Habana
+Guangxi
+Christchurch
+Chihuahua
+Terra di Papaga
+Durham
+Plurinational State of Bolivia
+Sachsen
+Jan
+Caruaru
+Lanzhou, China
+Belarus
+Venezia
+Patna, India
+Nishinomiya
+Rio de Janeiro
+the Republic of Croatia
+MANILA
+Bimshire
+Rajshahi
+Danyang
+Rizhao, China
+Zhoukou, China
+CH
+Holguín, Cuba
+Saxony
+Ciudad del Este
+Tel Aviv-Yafo, Israel
+Ananindeua
+Mumbai (Bombay)
+Columbia
+Rawalpindi
+Duitsland
+Passor
+Andorra la Vella
+Tieling
+Onitsha, Nigeria
+Chengde
+Jingjiang, China
+Corse-du-Sud
+MACAO, China : Macao SAR
+United Arab Emirates
+Chenzhou, China
+Mambr-Kad
+Singapore
+Cameroon
+Huaibei, China
+Haute-Sane
+MOSCOW
+Vanuatri
+PEKING
+Richmond upon Thames
+Union of the Comoros
+Eskisehir, Turkey
+Shida K'art'li
+Linghai, China
+Toyota
+Nepal
+Nana-Mambr
+Balak?n
+Mansûra, Egypt
+Hellas
+Cebu
+Kolhapur, India
+Tulsa (OK)
+Chimbote, Peru
+Isle of Wight
+Akita
+Voreo Aigao
+the Republic of the Congo
+Shouguang
+Saint Andrew
+Sanmenxia, China
+Koninkrijk der Nederlanden
+Taishan
+Zhangjiagang
+Ta'izz, Yemen
+Australia
+Dominion of Canada
+the Republic of Estonia
+Sanmatenga
+Czestochowa
+Malaysia
+Guarulhos, Brazil
+Magé
+Huadian, China
+Letonnie
+Pingxiang
+Caucaia
+Belfast
+Salerno
+Kingdom of Denmark
+Cdiz
+Huaying
+Svizra
+Mauritius
+Samts'khe-Javakhet'i
+Aberdeen City
+Seongnam
+Tieling, China
+Niigata
+Penza
+Republic of Moldova
+Huambo
+Renhuai
+Djibouti
+Zhaoyuan, China
+NOUAKCHOTT
+Fenghua
+Heze
+Luxembourg
+Saint Kitts-Nevis-Anguilla
+Greater Accra
+Bogor
+German Democratic Republic
+the Federal Republic of Nigeria
+Uttarakhand
+United Arab Emirates
+Daykundi
+United Mexican States
+KABUL
+Cabinda
+Ramagundam, India
+Takasaki
+Taiwan, Province of China
+West Yorkshire
+Mahal Dvipa
+Fortaleza
+Mauritius
+Chongzhou, China
+Dalian, China
+Portugraal
+Sri Lanka
+Estuaire
+Lianjiang
+Gaziantep, Turkey
+the Dominican Republic
+Gijón
+Suihua
+Lambeth
+Grand Cay
+Fodla
+Brisbane
+Kemerovo, Russia
+the Republic of Guatemala
+Banba
+Mzansi
+Morona-Santiago
+Denpasar, Indonesia
+Lucknow
+Macapá, Brazil
+Tamil Nadu
+Navi Mumbai
+Antioquia
+Horlivka, Ukraine
+Brent
+Funabashi, Japan
+Nanded, India
+Wuan, China
+Alash
+Pasay, Philippines
+New York (NY)
+Karlovarsk kraj
+Par
+the State of Palestine
+Garoua
+United Kingdom of Great Britain and Northern Ireland
+Kankan
+Kolkata (Calcutta)
+Kossi
+Verona
+the Republic of Madagascar
+the French Republic
+Trans Nzoia
+Wenzhou
+Republic of Chile
+A Corua
+Central Eleuthera
+Panshi
+Bahawalpur
+the Bolivarian Republic of Venezuela
+Piracicaba
+Alpes-de-Haute-Provence
+NIAMEY
+People's Republic of China
+the Cook Islands
+San Diego (CA)
+BUENOS AIRES
+Malmö, Sweden
+Gyeongju
+Jiujiang, China
+US
+Okayama
+Jiyuan
+Chahar Ma?al va Bakhtiari
+Indre
+Kryviy Rig, Ukraine
+Teesside
+Mudanjiang, China
+Sao Paulo, Brazil
+Nehe, China
+Sao José dos Campos, Brazil
+Koulikoro
+Keski-Pohjanmaa
+Linqing, China
+the Republic of India
+Banda Aceh
+Newcastle, Australia
+Tianjin (Tientsin)
+Birmingham[] , United Kingdom 
+Cuvette
+Sabran
+Hechuan
+Stirling
+the Republic of South Sudan
+Santiago de Cuba, Cuba
+Selibe Phikwe
+Malatya
+ATHENS
+Isikawa
+Constantine
+Susa
+Bazhou, China
+RSFSR
+Saudi Arabia
+Nigeria
+Baguio
+Sirajganj
+Kankan, Guinea
+the Republic of Chile
+Panshi, China
+Schaffhausen
+Mahilyowskaya voblasts'
+Ad-Dammam, Saudi Arabia
+Kericho
+Asti
+the Republic of Iraq
+Gateshead
+Pucallpa
+Bavaria
+ASHGABAT
+Qazvin
+Antigua and Barbuda
+Masalli
+Tel Aviv-Yafo
