@@ -91,3 +91,6 @@ class TextDataset(Dataset):
 
     def __len__(self):
         return self.labels.size()[0]
+
+def prepare_emb_matrix(emb_path, tokenizer):
+    pass
