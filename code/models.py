@@ -3,19 +3,22 @@ from torch import nn
 import torch.nn.functional as F
 import logging
 
+
 logger = logging.getLogger('TEXT CLASSIFIER')
 
-class ConvClassifier:
+
+class ConvClassifier(nn.Module):
     def __init__(self, num_classes=6, wvocab_size=50000, wv_dim=100,
                  charvocab_size=64, cv_size=50,
-                 hdim=256, embedding_weights=None):
+                 hdim=256, embedding_weights=None, char_pad_idx=0):
+        super(ConvClassifier, self).__init__()
 
-        if embedding_weights:
-            self.wrd_embedding = nn.Embedding.from_pretrained(embedding_weights, freeze=True)
+        if embedding_weights is not None:
+            self.wrd_embedding = nn.Embedding.from_pretrained(torch.Tensor(embedding_weights), freeze=True)
         else:
             self.wrd_embedding = nn.Embedding(wvocab_size, wv_dim)
 
-        self.char_embedding = nn.Embedding(charvocab_size, cv_size)
+        self.char_embedding = nn.Embedding(charvocab_size, cv_size, padding_idx=char_pad_idx)
 
         num_filters = 10
         self.c2 = nn.Conv1d(cv_size, num_filters, 2)
@@ -28,7 +31,7 @@ class ConvClassifier:
 
         self.lossfn = nn.CrossEntropyLoss()
 
-    def forward(self, tk_ids, char_ids):
+    def forward(self, tk_ids, tk_lens, char_ids, char_lens):
 
         char_embs = self.char_embedding(char_ids).permute(0, 2, 1)
         char_conv2 = self.c2(char_embs)
@@ -39,8 +42,10 @@ class ConvClassifier:
         p4 = F.max_pool1d(char_conv4, char_conv4.size()[-1]).squeeze(-1)
         conv_rep = torch.cat((p2, p3, p4), dim=1)
 
-        wrd_embs = self.wrd_embedding(tk_ids).permute(0, 2, 1)
-        emb_avg = F.avg_pool1d(wrd_embs, wrd_embs.size()[-1]).squeeze(-1)
+        wrd_embs = self.wrd_embedding(tk_ids)
+        emb_sum = torch.sum(wrd_embs, 1)
+        emb_lens = tk_lens.unsqueeze(1).repeat_interleave(wrd_embs.size()[-1], dim=1)
+        emb_avg = emb_sum/emb_lens
 
         hidden_rep = torch.cat((conv_rep, emb_avg), dim=1)
 
@@ -48,6 +53,6 @@ class ConvClassifier:
 
         return logits
 
-    def get_loss(self, tk_ids, char_ids, labels):
-        logits = self.forward(tk_ids, char_ids)
+    def get_loss(self, tk_ids, tk_lens, char_ids, char_lens, labels):
+        logits = self.forward(tk_ids, tk_lens, char_ids, char_lens)
         return self.lossfn(logits, labels), logits
