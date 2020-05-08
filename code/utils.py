@@ -75,7 +75,7 @@ class Tokenizer:
             categories.append('_'.join(fil.split('.')[0].split('_')[1:]))
             with open(os.path.join(data_dir, fil)) as f:
                 lines = set(f.read().strip().split('\n'))
-            clean_lines = [clean_string(line, lint_ascii, case_lower) for line in lines]
+            clean_lines = [wrd for line in lines for wrd in clean_string(line, lint_ascii, case_lower).split()]
             words_vocab.update(clean_lines)
 
         words_vocab.intersection_update(pretrained_vocab)
@@ -83,6 +83,7 @@ class Tokenizer:
         char_vocab = set()
         for word in words_vocab:
             char_vocab.update(word)
+        char_vocab.add(' ')
 
         words_vocab = dict(zip(words_vocab, range(len(words_vocab))))
         char_vocab = dict(zip(char_vocab, range(len(char_vocab))))
@@ -102,6 +103,9 @@ class Tokenizer:
 
     def decode_tokens(self, token_ids):
         return ' '.join([self.rev_word_vocab[tkid] for tkid in token_ids])
+
+    def decode_chars(self, char_ids):
+        return ''.join([self.rev_char_vocab[char_id] for char_id in char_ids])
 
 
 class TextDataset(Dataset):

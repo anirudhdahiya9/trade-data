@@ -83,7 +83,6 @@ def train(model, train_dataset, dev_dataset, label_list, args):
     best_fscore = 0.0
     stopping_epochs = 0
 
-
     for epoch in range(args.num_epochs):
         model.train()
         train_loss = 0.0
@@ -147,8 +146,8 @@ if __name__ == "__main__":
 
     parser.add_argument('--mode', choices=('train', 'infer'), required=True, help="Run mode.")
     parser.add_argument('--experiment_name', default='base_training', help="Label for the run.")
-    parser.add_argument('--lint_ascii', default=True, type=bool, help="Run mode.")
-    parser.add_argument('--case_lower', default=True, type=bool, help="Run mode.")
+    parser.add_argument('--lint_ascii', default=True, type=bool, help="Reduce non-ascii to ascii characters")
+    parser.add_argument('--case_lower', default=True, type=bool, help="Lower case all texts")
 
     parser.add_argument('--device', choices=('cpu', 'cuda'), default='cuda', help="Device")
     parser.add_argument('--batch_size', default=16, type=int, help="Batch size for training.")

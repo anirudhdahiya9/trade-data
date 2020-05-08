@@ -1,0 +1,94 @@
+2020-05-08 23:34:11,056 - __main__ - INFO - Training with the following arguments
+remote_debug:True
+mode:train
+experiment_name:base_training
+lint_ascii:True
+case_lower:True
+device:cuda
+batch_size:16
+learning_rate:0.1
+num_epochs:30
+early_stopping_threshold:5
+data_dir:../data/splits
+pretrained_vocab_path:../data/glove_vocab.txt
+pretrained_glove_path:/DATA1/USERS/anirudh/glove6B/glove.6B.100d.txt
+tbwriter_path:../tblogs
+log_path:../logs/main.log
+save_path:../checkpoints/
+2020-05-08 23:34:19,230 - __main__ - INFO - Training with the following arguments
+remote_debug:True
+mode:train
+experiment_name:base_training
+lint_ascii:True
+case_lower:True
+device:cuda
+batch_size:16
+learning_rate:0.1
+num_epochs:30
+early_stopping_threshold:5
+data_dir:../data/splits
+pretrained_vocab_path:../data/glove_vocab.txt
+pretrained_glove_path:/DATA1/USERS/anirudh/glove6B/glove.6B.100d.txt
+tbwriter_path:../tblogs
+log_path:../logs/main.log
+save_path:../checkpoints/
+2020-05-08 23:34:37,563 - __main__ - INFO - Entered training
+2020-05-08 23:34:38,757 - __main__ - INFO - Validation Loss Epoch -1 1.8177961830822926
+2020-05-08 23:34:38,773 - __main__ - INFO - Epoch -1 Evaluation Results
+               precision    recall  f1-score   support
+
+     location       0.10      0.10      0.10       879
+     products       0.00      0.00      0.00       597
+         date       0.00      0.00      0.00      2000
+random_string       0.00      0.00      0.00      2000
+        other       0.00      0.00      0.00      1004
+      company       0.26      0.97      0.41      2000
+
+     accuracy                           0.24      8480
+    macro avg       0.06      0.18      0.08      8480
+ weighted avg       0.07      0.24      0.11      8480
+
+2020-05-08 23:35:09,694 - __main__ - INFO - Epoch 0
+2020-05-08 23:35:09,695 - __main__ - INFO - Train Loss 1.953754744622505
+2020-05-08 23:35:09,695 - __main__ - INFO - Validation Loss 1.7098008272782812
+2020-05-08 23:35:09,696 - __main__ - INFO - Precision: 0.03930817610062893  Recall: 0.16666666666666666  FScore: 0.06361323155216285
+2020-05-08 23:35:09,726 - __main__ - INFO - Checkpoint saved at ../checkpoints/base_training.ckpt
+2020-05-08 23:35:43,477 - __main__ - INFO - Epoch 1
+2020-05-08 23:35:43,478 - __main__ - INFO - Train Loss 1.7084327952198262
+2020-05-08 23:35:43,478 - __main__ - INFO - Validation Loss 1.7013826041851403
+2020-05-08 23:35:43,479 - __main__ - INFO - Precision: 0.03930817610062893  Recall: 0.16666666666666666  FScore: 0.06361323155216285
+2020-05-08 23:36:15,149 - __main__ - INFO - Epoch 2
+2020-05-08 23:36:15,150 - __main__ - INFO - Train Loss 1.709486926501652
+2020-05-08 23:36:15,150 - __main__ - INFO - Validation Loss 1.7030748176124861
+2020-05-08 23:36:15,150 - __main__ - INFO - Precision: 0.03930817610062893  Recall: 0.16666666666666666  FScore: 0.06361323155216285
+2020-05-08 23:36:44,667 - __main__ - INFO - Epoch 3
+2020-05-08 23:36:44,668 - __main__ - INFO - Train Loss 1.7094374825369636
+2020-05-08 23:36:44,669 - __main__ - INFO - Validation Loss 1.709621784597073
+2020-05-08 23:36:44,669 - __main__ - INFO - Precision: 0.03930817610062893  Recall: 0.16666666666666666  FScore: 0.06361323155216285
+2020-05-08 23:37:13,543 - __main__ - INFO - Epoch 4
+2020-05-08 23:37:13,544 - __main__ - INFO - Train Loss 1.708873866892086
+2020-05-08 23:37:13,544 - __main__ - INFO - Validation Loss 1.7104884952869055
+2020-05-08 23:37:13,544 - __main__ - INFO - Precision: 0.03930817610062893  Recall: 0.16666666666666666  FScore: 0.06361323155216285
+2020-05-08 23:37:46,214 - __main__ - INFO - Epoch 5
+2020-05-08 23:37:46,215 - __main__ - INFO - Train Loss 1.7093305103902547
+2020-05-08 23:37:46,216 - __main__ - INFO - Validation Loss 1.7100920533234218
+2020-05-08 23:37:46,216 - __main__ - INFO - Precision: 0.03930817610062893  Recall: 0.16666666666666666  FScore: 0.06361323155216285
+2020-05-08 23:38:18,017 - __main__ - INFO - Epoch 6
+2020-05-08 23:38:18,017 - __main__ - INFO - Train Loss 1.7091489191325206
+2020-05-08 23:38:18,018 - __main__ - INFO - Validation Loss 1.7017431616783143
+2020-05-08 23:38:18,018 - __main__ - INFO - Precision: 0.03930817610062893  Recall: 0.16666666666666666  FScore: 0.06361323155216285
+2020-05-08 23:38:18,019 - __main__ - INFO - Early Stopping criteria reached at epoch 6
+2020-05-08 23:38:56,449 - __main__ - INFO - Test Results on best model
+               precision    recall  f1-score   support
+
+     location       0.00      0.00      0.00       878
+     products       0.00      0.00      0.00       596
+         date       0.24      1.00      0.38      2000
+random_string       0.00      0.00      0.00      2000
+        other       0.00      0.00      0.00      1004
+      company       0.00      0.00      0.00      2000
+
+     accuracy                           0.24      8478
+    macro avg       0.04      0.17      0.06      8478
+ weighted avg       0.06      0.24      0.09      8478
+
