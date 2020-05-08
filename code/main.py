@@ -162,7 +162,7 @@ if __name__ == "__main__":
     parser.add_argument('--pretrained_glove_path', default='/DATA1/USERS/anirudh/glove6B/glove.6B.100d.txt',
                         type=str, help="Path to the glove embeddings file.")
     parser.add_argument('--tbwriter_path', default='../tblogs', type=str, help="Path to the tensorboard log path.")
-    parser.add_argument('--log_path', default='../logs/main.log', type=str, help="Path to the log file.")
+    parser.add_argument('--log_path', default='../logs', type=str, help="Path to the log file.")
     parser.add_argument('--save_path', default='../checkpoints/', type=str, help="Path to save model checkpoints.")
 
     args = parser.parse_args()
@@ -170,7 +170,9 @@ if __name__ == "__main__":
     if args.remote_debug:
         pydevd_pycharm.settrace('10.1.65.133', port=2134, stdoutToServer=True, stderrToServer=True)
 
-    setup_logging(args.log_path)
+    args.tbwriter_path = os.path.join(args.tbwriter_path, args.experiment_name)
+    log_path = os.path.join(args.log_path, args.experiment_name)
+    setup_logging(log_path)
     logger = logging.getLogger(__name__)
 
     argstring = '\n'.join([arg + ':' + str(args.__getattribute__(arg)) for arg in args.__dict__])
