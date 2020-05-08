@@ -29,7 +29,7 @@ class ConvClassifier(nn.Module):
         #                          nn.ReLU(),
         #                          nn.Linear(hdim, num_classes))
 
-        self.mlp = nn.Sequential(nn.Linear(3 * num_filters, hdim),
+        self.mlp = nn.Sequential(nn.Linear(wv_dim, hdim),
                                  nn.ReLU(),
                                  nn.Linear(hdim, num_classes))
 
@@ -37,24 +37,24 @@ class ConvClassifier(nn.Module):
 
     def forward(self, tk_ids, tk_lens, char_ids, char_lens):
 
-        char_embs = self.char_embedding(char_ids).permute(0, 2, 1)
-        char_conv2 = self.c2(char_embs)
-        p2 = F.max_pool1d(char_conv2, char_conv2.size()[-1]).squeeze(-1)
-        char_conv3 = self.c3(char_embs)
-        p3 = F.max_pool1d(char_conv3, char_conv3.size()[-1]).squeeze(-1)
-        char_conv4 = self.c4(char_embs)
-        p4 = F.max_pool1d(char_conv4, char_conv4.size()[-1]).squeeze(-1)
-        conv_rep = torch.cat((p2, p3, p4), dim=1)
+        # char_embs = self.char_embedding(char_ids).permute(0, 2, 1)
+        # char_conv2 = self.c2(char_embs)
+        # p2 = F.max_pool1d(char_conv2, char_conv2.size()[-1]).squeeze(-1)
+        # char_conv3 = self.c3(char_embs)
+        # p3 = F.max_pool1d(char_conv3, char_conv3.size()[-1]).squeeze(-1)
+        # char_conv4 = self.c4(char_embs)
+        # p4 = F.max_pool1d(char_conv4, char_conv4.size()[-1]).squeeze(-1)
+        # conv_rep = torch.cat((p2, p3, p4), dim=1)
 
-        '''
+
         wrd_embs = self.wrd_embedding(tk_ids)
         emb_sum = torch.sum(wrd_embs, 1)
         emb_lens = tk_lens.unsqueeze(1).repeat_interleave(wrd_embs.size()[-1], dim=1)
         emb_avg = emb_sum/emb_lens
         
-        hidden_rep = torch.cat((conv_rep, emb_avg), dim=1)
-        '''
-        logits = self.mlp(conv_rep)
+        # hidden_rep = torch.cat((conv_rep, emb_avg), dim=1)
+
+        logits = self.mlp(emb_avg)
 
         return logits
 

@@ -151,7 +151,7 @@ if __name__ == "__main__":
 
     parser.add_argument('--device', choices=('cpu', 'cuda'), default='cuda', help="Device")
     parser.add_argument('--batch_size', default=16, type=int, help="Batch size for training.")
-    parser.add_argument('--learning_rate', default=0.1, type=float, help="Adam optimizer learning rate")
+    parser.add_argument('--learning_rate', default=0.001, type=float, help="Adam optimizer learning rate")
     parser.add_argument('--num_epochs', default=30, type=int, help="Number of training epochs.")
     parser.add_argument('--early_stopping_threshold', default=5, type=int)
 
