@@ -6,12 +6,18 @@ The repository presents a character convolution based text classifier for Intern
 ## Data Collection and Preprocessing
 
 The data for each category was collected from a variety of sources and binned into respective categories, as
- explained in [Data Readme](data/readme.md). The data was initially preprocessed as detailed by the notebooks at `notebooks
+ explained in [Data Readme](data/readme.md).
+ 
+ The data was initially preprocessed as detailed by the notebooks at `notebooks
  /*.ipynb`, then clubbed into categories and split into 80-10-10 train, validation and test splits as detailed in `notebooks/split_data.ipynb`. 
-As part of preprocessing for the convolutional model, the data samples were often riddled with accentuation and other non-ascii characters, and were thus normalised to their closes ascii counterparts using [Unidecode](https://pypi.org/project/Unidecode/). Due to various possible case variations, the data was also case normalised to be lower case only. The `utils.Tokenizer` class implements the preprocessing, encoding and decoding functionalities.
+
+
+As part of preprocessing for the convolutional model, the data samples were often riddled with accentuation and other
+ non-ascii characters, and were thus normalised to their closes ascii counterparts using [Unidecode](https://pypi.org
+ /project/Unidecode/). Due to various possible case variations, the data was also case normalised to be lower case only. The `utils.Tokenizer` class implements the preprocessing, encoding and decoding functionalities.
 
 ## Model
-![](model.png)
+![](static/model.png)
 
 The model is a hybrid character convolution based approach, coupled with bag of words based approach for the token
  level information. The model involves 1D convolutions with kernel sizes 2, 3, and 4 (10 filters per kernel size
@@ -27,10 +33,13 @@ The model is a hybrid character convolution based approach, coupled with bag of 
     
 ## Training
 The different variations of the model are trained with CrossEntropy Loss and Adam Optimizer with a learning rate of 1e
--3. Early stopping over the validation f-score is implemented with a threshold of 5 degrading epochs. The test
- results are reported at the
- best
- performing epoch's model state. See `code/main.py` for more details, and enter `python main.py -h` to list the
+-3. 
+
+Early stopping criteria over the validation f-score is implemented with a threshold of 5 degrading epochs. 
+
+The test results are reported at the best performing epoch's model state.
+ 
+ See `code/main.py` for more details, and enter `python main.py -h` to list the
   various configuration options.
     
 ## Results

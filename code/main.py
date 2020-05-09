@@ -145,7 +145,7 @@ if __name__ == "__main__":
 
     parser.add_argument('--remote_debug', type=bool, default=False, help="Flag for the remote debug process.")
 
-    parser.add_argument('--mode', choices=('train', 'test'), required=True, help="Run mode.")
+    parser.add_argument('--mode', choices=('train', 'test', 'infer'), required=True, help="Run mode.")
     parser.add_argument('--model_type', choices=('bow', 'conv', 'hybrid'), required=True, help="Model Type wanted.")
     parser.add_argument('--experiment_name', default='base_training', help="Label for the run.")
     parser.add_argument('--lint_ascii', default=True, type=bool, help="Reduce non-ascii to ascii characters")
@@ -185,7 +185,7 @@ if __name__ == "__main__":
     args.save_path = os.path.join(args.save_path, args.experiment_name)
     os.makedirs(args.save_path, exist_ok=True)
 
-    if args.device=='cuda' and torch.cuda.is_available():
+    if args.device == 'cuda' and torch.cuda.is_available():
         args.device = torch.device('cuda')
     else:
         args.device = torch.device('cpu')
@@ -231,7 +231,7 @@ if __name__ == "__main__":
 
     elif args.mode == 'test':
 
-        logger.info(f"Entered inference for experiment {args.experiment_name}")
+        logger.info(f"Entered Testing for experiment {args.experiment_name}")
 
         with open(os.path.join(args.save_path, 'tokenizer.pkl'), 'rb') as f:
             tokenizer = pickle.load(f)
@@ -252,4 +252,19 @@ if __name__ == "__main__":
         cmatrix = plot_confusion_matrix(ground_truth, predictions, label_list, plot_path)
         logger.info(f'Confusion Matrix:\n{cmatrix}')
         logger.info(f'Confusion Matrix saved at {plot_path}')
-        pass
+
+    elif args.mode == 'infer':
+
+        logger.info(f'Entered Inference for the experiment {args.experiment_name}')
+
+        with open(os.path.join(args.save_path, 'tokenizer.pkl'), 'rb') as f:
+            tokenizer = pickle.load(f)
+        label_list = [tokenizer.id2label[i] for i in range(len(tokenizer.id2label))]
+
+        save_path = os.path.join(args.save_path, args.experiment_name + '.ckpt')
+        model = ConvClassifier.load_model(save_path).to(args.device)
+
+        # Order of setting these important, should be set before model and dataset creation
+        TK_PAD_IDX = tokenizer.word_vocab[tokenizer.pad_token]
+        CHAR_PAD_IDX = tokenizer.char_vocab[tokenizer.pad_token]
+
