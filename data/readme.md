@@ -34,6 +34,16 @@ Generated randomly using the data, enough samples.
 **Other:**
 Mined non NER spans from ontonotes data. Nothing special to mention here.
 
+**Final Data Stats**
+```bash
+16000 splits/train_company.txt
+16000 splits/train_date.txt
+7028 splits/train_location.txt
+8031 splits/train_other.txt
+4770 splits/train_products.txt
+16000 splits/train_random_string.txt
+```
+
 
 ## Categorywise Remarks
 

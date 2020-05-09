@@ -268,3 +268,9 @@ if __name__ == "__main__":
         TK_PAD_IDX = tokenizer.word_vocab[tokenizer.pad_token]
         CHAR_PAD_IDX = tokenizer.char_vocab[tokenizer.pad_token]
 
+        dev_dataset = preprocess_data(args.data_dir, 'dev', tokenizer)
+        test_dataset = preprocess_data(args.data_dir, 'test', tokenizer)
+
+        predictions, ground_truth, running_loss = evaluate(model, test_dataset)
+
+        pass

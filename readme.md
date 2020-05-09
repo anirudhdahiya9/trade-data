@@ -9,7 +9,8 @@ The data for each category was collected from a variety of sources and binned in
  explained in [Data Readme](data/readme.md).
  
  The data was initially preprocessed as detailed by the notebooks at `notebooks
- /*.ipynb`, then clubbed into categories and split into 80-10-10 train, validation and test splits as detailed in `notebooks/split_data.ipynb`. 
+ /*.ipynb`, then clubbed into categories and split into 80-10-10 train, validation and test splits as detailed in
+  `notebooks/split_data.ipynb`, and the notes on self-notes in the data readme. 
 
 
 As part of preprocessing for the convolutional model, the data samples were often riddled with accentuation and other
@@ -76,7 +77,6 @@ random_string       0.76      1.00      0.86      2000
      accuracy                           0.91      8478
     macro avg       0.94      0.89      0.91      8478
  weighted avg       0.93      0.91      0.91      8478
-
 ```
 
 #### Character Convolutions only
@@ -94,7 +94,6 @@ random_string       0.98      0.96      0.97      2000
      accuracy                           0.94      8478
     macro avg       0.91      0.92      0.91      8478
  weighted avg       0.94      0.94      0.94      8478
-
 ```
 
 ## Analysis
