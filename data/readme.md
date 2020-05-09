@@ -1,9 +1,39 @@
-# Data Processing Readme
+# Data Processing
 
 ## Structure
 `./*.ipynb` the notebooks used to preprocess and extract the datasets for each corresponding category.
 
 `./data/*.txt` are the corresponding clean data files.
+
+## Final Data accumulation notes
+
+Below are some self-notes I made to document my final data accumulation to prepare train-test-val splits. Gives a
+ generic idea about the data choices made.
+
+**Companies data** , almost unlimited data with >1million samples, no augmentation req. Augmented the company suffix
+ randomized removal (like LLC, Corp, Corp Inc. etc) to make it more generalizable to real world data. Took 20000 random samples from companies_data.txt, then split.
+
+**Products** Since UN list very limited, and products are the least amount in numbers (~1000 samples). Took the data
+ from flipkart catalogue tree (~4k samples). Also, made a mix of 3*UN + flipkart data to generate a repeating list of commonly occuring data samples. Its alright if our model learns to memorize the *almost finite* list of products. As long as test data is representative of distribution, its alright.
+
+**Location**
+Also scraped the county synonym names from the wikipedia page, this increased the countries data significantly.
+98k cities, 4.7k provinces, 871 countries
+
+Scraped data of 2000 most populous cities.
+From each sample of the form New Delhi (Delhi) etc., generated 3 samples. New Delhi (Delhi), New Delhi, and Delhi, This led to data of 4000 samples. Also helps model being a memory loader.
+
+Finally took 3x countries data + Populous cities data + random 2k provinces -> Dataset
+
+**Dates**
+While enough samples exist from Ontonotes dates expressions data, since date is usually in the fixed format, generated 50000 random (but valid) dates from the data, and added 10k such samples to 10k ontonotes samples to keep a balance in diversity.
+
+**Random Strings**
+Generated randomly using the data, enough samples.
+
+**Other:**
+Mined non NER spans from ontonotes data. Nothing special to mention here.
+
 
 ## Categorywise Remarks
 
@@ -14,7 +44,7 @@ Used the UN location code data from [here](http://www.unece.org/cefact/locode/we
 Also scraped the data for top 2000 populated cities, and added to the data mix.
 
 
-###  Company Names
+### Company Names
 Data fetched from [Corpwatch](https://old.datahub.io/dataset/corpwatch).
 Huge collections of company registrations mainly based in the US.
 * Generated *1,083,055* unique company names with probabilistic case variations (uppercase, lowercase, mixedcase), as initial data had all company names in ALLCAPS.
