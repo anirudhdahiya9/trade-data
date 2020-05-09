@@ -1,96 +1,104 @@
-# Data Processing Readme
+# Text Classification Model
 
-## Structure
-`./*.ipynb` the notebooks used to preprocess and extract the datasets for each corresponding category.
+The repository presents a character convolution based text classifier for International trade and logistics data, and categorises the data into the following 6 categories: 
+*Location, Company, Product, Date Expressions, Random String (ID numbers etc.), Other*
 
-`./data/*.txt` are the corresponding clean data files.
+## Data Collection and Preprocessing
 
-## Categorywise Remarks
+The data for each category was collected from a variety of sources and binned into respective categories, as explained in [LINK DATA ReadmeHERE](). The data was initially preprocessed as detailed by the notebooks at `notebooks/*.ipynb`, then clubbed into categories and split into 80-10-10 train, validation and test splits as detailed in `notebooks/split_data.ipynb`. 
+As part of preprocessing for the convolutional model, the data samples were often riddled with accentuation and other non-ascii characters, and were thus normalised to their closes ascii counterparts using [Unidecode](https://pypi.org/project/Unidecode/). Due to various possible case variations, the data was also case normalised to be lower case only. The `utils.Tokenizer` class implements the preprocessing, encoding and decoding functionalities.
 
-### Location
-Used the UN location code data from [here](http://www.unece.org/cefact/locode/welcome.html). Cleaned the country and province names in the notebook. Data currently segregated into cities, subdivisions and countries list.
-* Should I consider company addresses as data points too here? Access to that data exists as part of [Corpwatch](https://old.datahub.io/dataset/corpwatch) company registries data.
+## Model
+![](model.png)
 
-Also scraped the data for top 2000 populated cities, and added to the data mix.
+The model is a hybrid character convolution based approach, coupled with bag of words based approach for the token
+ level information. The model involves 1D convolutions with kernel sizes 2, 3, and 4 (10 filters per kernel size
+ ), followed by a 1D maxpooling and Relu activation. This representation is concatenated with the average pooled
+  representation over the word embeddings in the string, and followed by a multilayer perceptron + softmax to output
+   the probability distribution over the 6 categories.
+   
+   The character embeddings are initialized from scratch and learnt along training, whereas the token embeddings are
+    initialized with 100 dimensional Glove vectors kept frozen over training.
+   
+   Also implemented are the ablation of convolution or word embedding representation, and their results compiled. See
+    `code/models.py` for more details.
+    
+## Training
+The different variations of the model are trained with CrossEntropy Loss and Adam Optimizer with a learning rate of 1e
+-3. Early stopping over the validation f-score is implemented with a threshold of 5 degrading epochs. The test
+ results are reported at the
+ best
+ performing epoch's model state. See `code/main.py` for more details, and enter `python main.py -h` to list the
+  various configuration options.
+    
+## Results
+The test results of each model ablation are summarized below:
 
-
-###  Company Names
-Data fetched from [Corpwatch](https://old.datahub.io/dataset/corpwatch).
-Huge collections of company registrations mainly based in the US.
-* Generated *1,083,055* unique company names with probabilistic case variations (uppercase, lowercase, mixedcase), as initial data had all company names in ALLCAPS.
-* Also generated randomized pruning of suffixes to names, like `& co`, `LLC` etc 
-* Example: `TATA SONS & CO` -> `Tata Sons & Co` `tata sons & co` `tata sons` and all case variations.
-	**Clarification :** *Ideally the data should include foreign names of companies too, since the data is meant for international trade. Please clarify if current data is alright.*
-
- ### Products
-  Data sourced from [UNCPC product classification data](https://unstats.un.org/unsd/classifications/Econ/CPC.cshtml) (1058 products), and [Flipkart products dataset](https://www.kaggle.com/PromptCloudHQ/flipkart-products) (an ecommerce site in India) (4061 products).
- ##### Preprocessing
- * Flipkart Dataset
-	 * Navigated the Product category tree to fetch non-terminal product categories, stemmed the product categories using NLTK wordnet stemmer to generate singular and plural variations, also created case variations. Both processes randomized using random.random().
-* UNSTATS CPC
-	* Since lots of overlapping and finer product categories, I first create a set of unique items.
-	* Since many products are basically descriptions, I take only products upto length 5 words, and also ignore any further specification, like `Rice, seed`. Can create further case variations.
-
-### Date
-Collected from [OntoNotesv5](https://catalog.ldc.upenn.edu/LDC2013T19) Dataset, where the NER labels also specify any date expressions. Was able to filter out 23,799 various date expressions from the dataset.
- * *Clarification* : Currently the mined date expressions are more natural language text in nature. Should we focus more on standardized date expressions? like `20-08-2014` and `20th Jan 1948`
- For example, 
-	```text
-	December 20
-	January 1
-	December 18
-	December 25
-	the 21st century
-	June of 2001
-	December 28
-	2001
-	Four years ago
-	year
-	1996
-	```
- * Also generated random date data in various formats, check `data/dates_randomgen.txt`	
-
-### Random Strings
-This category seems to be meant to capture random ID numbers, like invoice/tracking numbers etc. Created a random number generator, where the delimiter, the number and types of id segments, and the individual segment lengths, all are generated on the fly and randomly. Refer to `random_string.ipynb` for details. Currently generated strings look like
+#### Hybrid Approach (Token Embeddings + Character Convolution)
 ```text
-QBFGNVRYQ#cEqufnXwl#wcciamp
-IMXHAMZHR#mialgrw
-LTTKHPL
-8988-AFSDRTDM-EZVWOUHB
-cJjeGRbI
-721888479
-qlbd
-vdo-7000
-72241-913
-6116@7440@EpFfWdpsV
-wRY
-GLA@KQRNBJZPX
-37081-TJUHVUCRL
-73263
-ECWVPJK:fvcdwmnno
-YNOFSLD-7778
-86-23
+               precision    recall  f1-score   support
+
+     location       0.93      0.91      0.92       878
+     products       0.97      0.95      0.96       596
+         date       1.00      0.99      0.99      2000
+random_string       0.97      0.98      0.98      2000
+        other       0.97      0.98      0.97      1004
+      company       0.96      0.97      0.97      2000
+
+     accuracy                           0.97      8478
+    macro avg       0.97      0.96      0.96      8478
+ weighted avg       0.97      0.97      0.97      8478
 ```
 
-### Other category
-Not very clear about it, seems like a general category meant for natural language(non ID numbers), but which don't belong elsewhere as well. I took the U.S. Security and Exchange Commission (SEC) filings data from [here](https://github.com/juand-r/entity-recognition-datasets/tree/master/data/SEC-filings). It is annotated with basic named entities, and I capture the non-entity textual spans. Current data looks like
+#### Bag of Words Model (Token Embeddings only)
+
 ```text
-AND
-27 , 1999 , between
-Bank "), a
-principal place
-of business at 3003 Tasman
-California 95054 with
-a loan production office
-. 350 , Wellesley
-, INC .
-. (" Borrower "), whose address
-4th Floor , Cambridge ,
-Floor
-the terms
-terms
-on which
-and Borrower will repay Bank
-. The parties agree
+               precision    recall  f1-score   support
+
+     location       0.96      0.63      0.76       878
+     products       0.94      0.96      0.95       596
+         date       0.99      0.89      0.94      2000
+random_string       0.76      1.00      0.86      2000
+        other       0.97      0.96      0.97      1004
+      company       0.99      0.93      0.96      2000
+
+     accuracy                           0.91      8478
+    macro avg       0.94      0.89      0.91      8478
+ weighted avg       0.93      0.91      0.91      8478
+
 ```
 
+#### Character Convolutions only
+
+```text
+               precision    recall  f1-score   support
+
+     location       0.82      0.89      0.85       878
+     products       0.84      0.81      0.82       596
+         date       0.98      0.98      0.98      2000
+random_string       0.98      0.96      0.97      2000
+        other       0.91      0.93      0.92      1004
+      company       0.94      0.93      0.93      2000
+
+     accuracy                           0.94      8478
+    macro avg       0.91      0.92      0.91      8478
+ weighted avg       0.94      0.94      0.94      8478
+
+```
+
+## Analysis
+
+Below are the confusion matrices for the above model runs on the test data. The vertical axis represents the
+ true class and the horizontal axis represents the
+ predicted class. Values are normalized along the true class, and represent the percentage of
+  sample predicted as the corresponding label.
+ 
+
+* Hybrid
+![](cmatrices/hybrid.png)
+
+* Bag of words model
+![](cmatrices/bag_of_words.png)
+
+* Character Convolutional only model
+![](cmatrices/charconv.png)
