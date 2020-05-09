@@ -5,7 +5,9 @@ The repository presents a character convolution based text classifier for Intern
 
 ## Data Collection and Preprocessing
 
-The data for each category was collected from a variety of sources and binned into respective categories, as explained in [LINK DATA ReadmeHERE](). The data was initially preprocessed as detailed by the notebooks at `notebooks/*.ipynb`, then clubbed into categories and split into 80-10-10 train, validation and test splits as detailed in `notebooks/split_data.ipynb`. 
+The data for each category was collected from a variety of sources and binned into respective categories, as
+ explained in [Data Readme](data/readme.md). The data was initially preprocessed as detailed by the notebooks at `notebooks
+ /*.ipynb`, then clubbed into categories and split into 80-10-10 train, validation and test splits as detailed in `notebooks/split_data.ipynb`. 
 As part of preprocessing for the convolutional model, the data samples were often riddled with accentuation and other non-ascii characters, and were thus normalised to their closes ascii counterparts using [Unidecode](https://pypi.org/project/Unidecode/). Due to various possible case variations, the data was also case normalised to be lower case only. The `utils.Tokenizer` class implements the preprocessing, encoding and decoding functionalities.
 
 ## Model
@@ -93,12 +95,14 @@ Below are the confusion matrices for the above model runs on the test data. The 
  predicted class. Values are normalized along the true class, and represent the percentage of
   sample predicted as the corresponding label.
  
+#### Hybrid
 
-* Hybrid
 ![](cmatrices/hybrid.png)
 
-* Bag of words model
+#### Bag of words model
+
 ![](cmatrices/bag_of_words.png)
 
-* Character Convolutional only model
+#### Character Convolutional only model
+
 ![](cmatrices/charconv.png)
