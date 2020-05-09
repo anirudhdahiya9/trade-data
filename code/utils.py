@@ -4,9 +4,21 @@ from torch.utils.data import Dataset
 import torch
 import logging
 import numpy as np
-
+from sklearn.metrics import confusion_matrix
+import seaborn as sn
+import pandas as pd
+import matplotlib.pyplot as plt
 
 logger = logging.getLogger(__name__)
+
+
+def plot_confusion_matrix(ground_truth, predictions, label_list, plot_path):
+    # Normalized along rows (true labels), cols are predicted labels
+    cmatrix = confusion_matrix(ground_truth, predictions, normalize='true')
+    df_cm = pd.DataFrame(cmatrix, label_list, label_list)
+    sn.heatmap(df_cm, annot=True, cmap="YlGnBu")
+    plt.savefig(plot_path, bbox_inches="tight")
+    return cmatrix
 
 
 def clean_string(inp_string, lint_ascii, case_lower):

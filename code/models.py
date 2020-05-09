@@ -4,7 +4,7 @@ import torch.nn.functional as F
 import logging
 
 
-logger = logging.getLogger('TEXT CLASSIFIER')
+logger = logging.getLogger(__name__)
 
 
 class ConvClassifier(nn.Module):
@@ -30,6 +30,17 @@ class ConvClassifier(nn.Module):
                                  nn.Linear(hdim, num_classes))
 
         self.lossfn = nn.CrossEntropyLoss()
+
+        self.hyperparams = {
+            'num_classes': num_classes,
+            'wvocab_size':self.wrd_embedding.num_embeddings,
+            'wv_dim': self.wrd_embedding.embedding_dim,
+            'charvocab_size': self.char_embedding.num_embeddings,
+            'cv_size': self.char_embedding.embedding_dim,
+            'hdim': hdim,
+            'embedding_weights': None,
+            'char_pad_idx': char_pad_idx
+        }
 
     def forward(self, tk_ids, tk_lens, char_ids, char_lens):
 
@@ -57,3 +68,18 @@ class ConvClassifier(nn.Module):
     def get_loss(self, tk_ids, tk_lens, char_ids, char_lens, labels):
         logits = self.forward(tk_ids, tk_lens, char_ids, char_lens)
         return self.lossfn(logits, labels), logits
+
+    def save_model(self, save_path):
+        model_save_dict = self.state_dict()
+        model_save_dict['hyperparams'] = self.hyperparams
+        torch.save(model_save_dict, save_path)
+
+    @classmethod
+    def load_model(cls, save_path):
+        state_dict = torch.load(save_path)
+        model = cls(**state_dict['hyperparams'])
+        missing_keys, unexpected_keys = model.load_state_dict(state_dict, strict=False)
+        if missing_keys!=[]:
+            logger.error(f"ConvModel received state_dict with missing keys: {missing_keys}, returning None.")
+            return None
+        return model

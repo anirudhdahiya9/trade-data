@@ -1,7 +1,7 @@
 from argparse import ArgumentParser
 import logging
 import os
-from utils import Tokenizer, TextDataset, prepare_emb_matrix
+from utils import Tokenizer, TextDataset, prepare_emb_matrix, plot_confusion_matrix
 from models import ConvClassifier
 import pydevd_pycharm
 from torch.utils.data import DataLoader
@@ -10,6 +10,7 @@ from torch.nn.utils.rnn import pad_sequence
 from torch.utils.tensorboard import SummaryWriter
 from sklearn.metrics import classification_report, precision_recall_fscore_support
 from tqdm import tqdm
+import _pickle as pickle
 
 TK_PAD_IDX = None
 CHAR_PAD_IDX = None
@@ -111,7 +112,7 @@ def train(model, train_dataset, dev_dataset, label_list, args):
         if fscore > best_fscore:
             stopping_epochs = 0
             best_fscore = fscore
-            torch.save(model.state_dict(), save_path)
+            model.save_model(save_path)
             logger.info(f'Checkpoint saved at {save_path}')
         else:
             stopping_epochs += 1
@@ -119,7 +120,7 @@ def train(model, train_dataset, dev_dataset, label_list, args):
                 logger.info(f'Early Stopping criteria reached at epoch {epoch}')
                 break
 
-    model.load_state_dict(torch.load(save_path))
+    model = ConvClassifier.load_model(save_path)
     return model
 
 
@@ -144,7 +145,7 @@ if __name__ == "__main__":
 
     parser.add_argument('--remote_debug', type=bool, default=True, help="Flag for the remote debug process.")
 
-    parser.add_argument('--mode', choices=('train', 'infer'), required=True, help="Run mode.")
+    parser.add_argument('--mode', choices=('train', 'test'), required=True, help="Run mode.")
     parser.add_argument('--experiment_name', default='base_training', help="Label for the run.")
     parser.add_argument('--lint_ascii', default=True, type=bool, help="Reduce non-ascii to ascii characters")
     parser.add_argument('--case_lower', default=True, type=bool, help="Lower case all texts")
@@ -163,6 +164,7 @@ if __name__ == "__main__":
                         type=str, help="Path to the glove embeddings file.")
     parser.add_argument('--tbwriter_path', default='../tblogs', type=str, help="Path to the tensorboard log path.")
     parser.add_argument('--log_path', default='../logs', type=str, help="Path to the log file.")
+    parser.add_argument('--plot_path', default='../cmatrices', type=str, help="Path to plot conf matrices")
     parser.add_argument('--save_path', default='../checkpoints/', type=str, help="Path to save model checkpoints.")
 
     args = parser.parse_args()
@@ -170,14 +172,17 @@ if __name__ == "__main__":
     if args.remote_debug:
         pydevd_pycharm.settrace('10.1.65.133', port=2134, stdoutToServer=True, stderrToServer=True)
 
-    args.tbwriter_path = os.path.join(args.tbwriter_path, args.experiment_name)
+    # Setup Logging
     log_path = os.path.join(args.log_path, args.experiment_name)
     setup_logging(log_path)
     logger = logging.getLogger(__name__)
 
     argstring = '\n'.join([arg + ':' + str(args.__getattribute__(arg)) for arg in args.__dict__])
-    logger.info(f"Training with the following arguments\n{argstring}")
+    logger.info(f"Running with the following arguments\n{argstring}")
 
+    # Setup checkpoints path
+    args.save_path = os.path.join(args.save_path, args.experiment_name)
+    os.makedirs(args.save_path, exist_ok=True)
 
     if args.device=='cuda' and torch.cuda.is_available():
         args.device = torch.device('cuda')
@@ -188,24 +193,62 @@ if __name__ == "__main__":
         with open(args.pretrained_vocab_path) as f:
             pretrained_vocab = set(f.read().strip().split('\n'))
 
+        args.tbwriter_path = os.path.join(args.tbwriter_path, args.experiment_name)
+
+        # Tokenizer
         tokenizer = Tokenizer.from_datadir(args.data_dir, pretrained_vocab, args.lint_ascii, args.case_lower)
         label_list = [tokenizer.id2label[i] for i in range(len(tokenizer.id2label))]
+        with open(os.path.join(args.save_path, 'tokenizer.pkl'), 'wb') as f:
+            pickle.dump(tokenizer, f)
 
         # Order of setting these important, should be set before model and dataset creation
         TK_PAD_IDX = tokenizer.word_vocab[tokenizer.pad_token]
         CHAR_PAD_IDX = tokenizer.char_vocab[tokenizer.pad_token]
 
+        # Setup datasets
         train_dataset = preprocess_data(args.data_dir, 'train', tokenizer)
         dev_dataset = preprocess_data(args.data_dir, 'dev', tokenizer)
+        test_dataset = preprocess_data(args.data_dir, 'test', tokenizer)
 
+        # Model Creation
         emb_matrix = prepare_emb_matrix(args.pretrained_glove_path, tokenizer)
         model = ConvClassifier(wvocab_size=len(tokenizer.word_vocab), charvocab_size=len(tokenizer.char_vocab),
                                embedding_weights=emb_matrix, char_pad_idx=CHAR_PAD_IDX)
         model.to(args.device)
 
+        # Training
         model = train(model, train_dataset, dev_dataset, label_list, args)
+        model.to(args.device)
+
+        predictions, ground_truth, running_loss = evaluate(model, test_dataset)
+        logger.info(f'Test Results on best model\n'
+                     f'{classification_report(ground_truth, predictions, target_names=label_list)}')
+        plot_path = os.path.join(args.plot_path, args.experiment_name + '.png')
+        cmatrix = plot_confusion_matrix(ground_truth, predictions, label_list, plot_path)
+        logging.info(f'Confusion Matrix:\n{cmatrix}')
+        logging.info(f'Confusion Matrix saved at {plot_path}')
+
+    elif args.mode == 'test':
+
+        logger.info(f"Entered inference for experiment {args.experiment_name}")
+
+        with open(os.path.join(args.save_path, 'tokenizer.pkl'), 'rb') as f:
+            tokenizer = pickle.load(f)
+        label_list = [tokenizer.id2label[i] for i in range(len(tokenizer.id2label))]
+
+        save_path = os.path.join(args.save_path, args.experiment_name + '.ckpt')
+        model = ConvClassifier.load_model(save_path).to(args.device)
+
+        # Order of setting these important, should be set before model and dataset creation
+        TK_PAD_IDX = tokenizer.word_vocab[tokenizer.pad_token]
+        CHAR_PAD_IDX = tokenizer.char_vocab[tokenizer.pad_token]
 
         test_dataset = preprocess_data(args.data_dir, 'test', tokenizer)
         predictions, ground_truth, running_loss = evaluate(model, test_dataset)
         logger.info(f'Test Results on best model\n'
-                     f'{classification_report(ground_truth, predictions, target_names=label_list)}')
+                    f'{classification_report(ground_truth, predictions, target_names=label_list)}')
+        plot_path = os.path.join(args.plot_path, args.experiment_name+'.png')
+        cmatrix = plot_confusion_matrix(ground_truth, predictions, label_list, plot_path)
+        logger.info(f'Confusion Matrix:\n{cmatrix}')
+        logger.info(f'Confusion Matrix saved at {plot_path}')
+        pass
