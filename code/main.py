@@ -146,6 +146,7 @@ if __name__ == "__main__":
     parser.add_argument('--remote_debug', type=bool, default=True, help="Flag for the remote debug process.")
 
     parser.add_argument('--mode', choices=('train', 'test'), required=True, help="Run mode.")
+    parser.add_argument('--model_type', choices=('bow', 'conv', 'hybrid'), required=True, help="Model Type wanted.")
     parser.add_argument('--experiment_name', default='base_training', help="Label for the run.")
     parser.add_argument('--lint_ascii', default=True, type=bool, help="Reduce non-ascii to ascii characters")
     parser.add_argument('--case_lower', default=True, type=bool, help="Lower case all texts")
@@ -213,7 +214,7 @@ if __name__ == "__main__":
         # Model Creation
         emb_matrix = prepare_emb_matrix(args.pretrained_glove_path, tokenizer)
         model = ConvClassifier(wvocab_size=len(tokenizer.word_vocab), charvocab_size=len(tokenizer.char_vocab),
-                               embedding_weights=emb_matrix, char_pad_idx=CHAR_PAD_IDX)
+                               embedding_weights=emb_matrix, char_pad_idx=CHAR_PAD_IDX, model_type=args.model_type)
         model.to(args.device)
 
         # Training

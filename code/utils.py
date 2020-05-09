@@ -14,7 +14,7 @@ logger = logging.getLogger(__name__)
 
 def plot_confusion_matrix(ground_truth, predictions, label_list, plot_path):
     # Normalized along rows (true labels), cols are predicted labels
-    cmatrix = confusion_matrix(ground_truth, predictions, normalize='true')
+    cmatrix = confusion_matrix(ground_truth, predictions, normalize='true') * 100
     df_cm = pd.DataFrame(cmatrix, label_list, label_list)
     sn.heatmap(df_cm, annot=True, cmap="YlGnBu")
     plt.savefig(plot_path, bbox_inches="tight")
