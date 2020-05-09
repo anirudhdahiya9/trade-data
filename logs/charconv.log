@@ -1,0 +1,181 @@
+2020-05-09 23:31:47,709 - __main__ - INFO - Running with the following arguments
+remote_debug:False
+mode:train
+model_type:conv
+experiment_name:charconv
+lint_ascii:True
+case_lower:True
+device:cuda
+batch_size:16
+learning_rate:0.001
+num_epochs:30
+early_stopping_threshold:5
+data_dir:../data/splits
+pretrained_vocab_path:../data/glove_vocab.txt
+pretrained_glove_path:/DATA1/USERS/anirudh/glove6B/glove.6B.100d.txt
+tbwriter_path:../tblogs
+log_path:../logs
+plot_path:../cmatrices
+save_path:../checkpoints/
+2020-05-09 23:32:01,188 - __main__ - INFO - Entered training
+2020-05-09 23:32:02,650 - __main__ - INFO - Validation Loss Epoch -1 1.801865992231189
+2020-05-09 23:32:02,667 - __main__ - INFO - Epoch -1 Evaluation Results
+               precision    recall  f1-score   support
+
+     location       0.00      0.00      0.00       879
+     products       0.03      0.01      0.01       597
+         date       0.10      0.05      0.07      2000
+random_string       0.41      0.02      0.05      2000
+        other       0.11      0.79      0.20      1004
+      company       0.04      0.00      0.01      2000
+
+     accuracy                           0.11      8480
+    macro avg       0.11      0.15      0.05      8480
+ weighted avg       0.14      0.11      0.05      8480
+
+2020-05-09 23:32:29,577 - __main__ - INFO - Epoch 0
+2020-05-09 23:32:29,578 - __main__ - INFO - Train Loss 0.4132747404593623
+2020-05-09 23:32:29,578 - __main__ - INFO - Validation Loss 0.31317626310266417
+2020-05-09 23:32:29,578 - __main__ - INFO - Precision: 0.8495676421209053  Recall: 0.8375564092932621  FScore: 0.8410012255472469
+2020-05-09 23:32:29,586 - __main__ - INFO - Checkpoint saved at ../checkpoints/charconv/charconv.ckpt
+2020-05-09 23:32:57,703 - __main__ - INFO - Epoch 1
+2020-05-09 23:32:57,704 - __main__ - INFO - Train Loss 0.27467870016687745
+2020-05-09 23:32:57,704 - __main__ - INFO - Validation Loss 0.26004898704869567
+2020-05-09 23:32:57,704 - __main__ - INFO - Precision: 0.8694590800276156  Recall: 0.8772251107183555  FScore: 0.8724606316710032
+2020-05-09 23:32:57,710 - __main__ - INFO - Checkpoint saved at ../checkpoints/charconv/charconv.ckpt
+2020-05-09 23:33:25,973 - __main__ - INFO - Epoch 2
+2020-05-09 23:33:25,973 - __main__ - INFO - Train Loss 0.23969399594594198
+2020-05-09 23:33:25,973 - __main__ - INFO - Validation Loss 0.2557792071463927
+2020-05-09 23:33:25,974 - __main__ - INFO - Precision: 0.8745853552310985  Recall: 0.8657094777021443  FScore: 0.8687102939798071
+2020-05-09 23:33:56,123 - __main__ - INFO - Epoch 3
+2020-05-09 23:33:56,123 - __main__ - INFO - Train Loss 0.21883873676459464
+2020-05-09 23:33:56,123 - __main__ - INFO - Validation Loss 0.24044253973044313
+2020-05-09 23:33:56,123 - __main__ - INFO - Precision: 0.8840461631314606  Recall: 0.8697123712736099  FScore: 0.8759614500481891
+2020-05-09 23:33:56,132 - __main__ - INFO - Checkpoint saved at ../checkpoints/charconv/charconv.ckpt
+2020-05-09 23:34:24,191 - __main__ - INFO - Epoch 4
+2020-05-09 23:34:24,191 - __main__ - INFO - Train Loss 0.2052856279567833
+2020-05-09 23:34:24,191 - __main__ - INFO - Validation Loss 0.23825309447381857
+2020-05-09 23:34:24,191 - __main__ - INFO - Precision: 0.8858539660823076  Recall: 0.8857911613455888  FScore: 0.8852760640237186
+2020-05-09 23:34:24,200 - __main__ - INFO - Checkpoint saved at ../checkpoints/charconv/charconv.ckpt
+2020-05-09 23:34:50,741 - __main__ - INFO - Epoch 5
+2020-05-09 23:34:50,741 - __main__ - INFO - Train Loss 0.19270957666229596
+2020-05-09 23:34:50,741 - __main__ - INFO - Validation Loss 0.22179068245415418
+2020-05-09 23:34:50,742 - __main__ - INFO - Precision: 0.8943351054939749  Recall: 0.8888598904595241  FScore: 0.8912839712520447
+2020-05-09 23:34:50,748 - __main__ - INFO - Checkpoint saved at ../checkpoints/charconv/charconv.ckpt
+2020-05-09 23:35:20,486 - __main__ - INFO - Epoch 6
+2020-05-09 23:35:20,486 - __main__ - INFO - Train Loss 0.18304879507708874
+2020-05-09 23:35:20,486 - __main__ - INFO - Validation Loss 0.22648631036281586
+2020-05-09 23:35:20,487 - __main__ - INFO - Precision: 0.8991486875372382  Recall: 0.8947687971404704  FScore: 0.8956678239234664
+2020-05-09 23:35:20,495 - __main__ - INFO - Checkpoint saved at ../checkpoints/charconv/charconv.ckpt
+2020-05-09 23:35:50,832 - __main__ - INFO - Epoch 7
+2020-05-09 23:35:50,833 - __main__ - INFO - Train Loss 0.17435049026180938
+2020-05-09 23:35:50,833 - __main__ - INFO - Validation Loss 0.21878748983496202
+2020-05-09 23:35:50,833 - __main__ - INFO - Precision: 0.8951124728714808  Recall: 0.8949566825833948  FScore: 0.8950033495275086
+2020-05-09 23:36:19,854 - __main__ - INFO - Epoch 8
+2020-05-09 23:36:19,855 - __main__ - INFO - Train Loss 0.16651557482798796
+2020-05-09 23:36:19,855 - __main__ - INFO - Validation Loss 0.22030139907948532
+2020-05-09 23:36:19,855 - __main__ - INFO - Precision: 0.901471801185232  Recall: 0.8972906933654049  FScore: 0.8991682340166757
+2020-05-09 23:36:19,862 - __main__ - INFO - Checkpoint saved at ../checkpoints/charconv/charconv.ckpt
+2020-05-09 23:36:46,804 - __main__ - INFO - Epoch 9
+2020-05-09 23:36:46,804 - __main__ - INFO - Train Loss 0.1614964955486357
+2020-05-09 23:36:46,805 - __main__ - INFO - Validation Loss 0.21684621644891658
+2020-05-09 23:36:46,805 - __main__ - INFO - Precision: 0.894945490500075  Recall: 0.9080704691538498  FScore: 0.9001209580759006
+2020-05-09 23:36:46,813 - __main__ - INFO - Checkpoint saved at ../checkpoints/charconv/charconv.ckpt
+2020-05-09 23:37:16,894 - __main__ - INFO - Epoch 10
+2020-05-09 23:37:16,895 - __main__ - INFO - Train Loss 0.15274620840835543
+2020-05-09 23:37:16,895 - __main__ - INFO - Validation Loss 0.22320328070694265
+2020-05-09 23:37:16,895 - __main__ - INFO - Precision: 0.9007619169526634  Recall: 0.899135823932903  FScore: 0.8994777480547292
+2020-05-09 23:37:46,442 - __main__ - INFO - Epoch 11
+2020-05-09 23:37:46,443 - __main__ - INFO - Train Loss 0.14966441486868926
+2020-05-09 23:37:46,443 - __main__ - INFO - Validation Loss 0.2173718353667525
+2020-05-09 23:37:46,443 - __main__ - INFO - Precision: 0.9026146528304645  Recall: 0.9125555794118951  FScore: 0.9070568415821597
+2020-05-09 23:37:46,452 - __main__ - INFO - Checkpoint saved at ../checkpoints/charconv/charconv.ckpt
+2020-05-09 23:38:15,389 - __main__ - INFO - Epoch 12
+2020-05-09 23:38:15,390 - __main__ - INFO - Train Loss 0.14428623871524152
+2020-05-09 23:38:15,390 - __main__ - INFO - Validation Loss 0.22028415080089614
+2020-05-09 23:38:15,390 - __main__ - INFO - Precision: 0.9050804231815756  Recall: 0.9060132580510848  FScore: 0.9048220804718098
+2020-05-09 23:38:43,521 - __main__ - INFO - Epoch 13
+2020-05-09 23:38:43,522 - __main__ - INFO - Train Loss 0.13724311387592508
+2020-05-09 23:38:43,522 - __main__ - INFO - Validation Loss 0.23273800116664958
+2020-05-09 23:38:43,522 - __main__ - INFO - Precision: 0.8980738634754967  Recall: 0.907335415741804  FScore: 0.9022454025219692
+2020-05-09 23:39:11,219 - __main__ - INFO - Epoch 14
+2020-05-09 23:39:11,219 - __main__ - INFO - Train Loss 0.13354772895526246
+2020-05-09 23:39:11,219 - __main__ - INFO - Validation Loss 0.2205938860176588
+2020-05-09 23:39:11,219 - __main__ - INFO - Precision: 0.9026668814824204  Recall: 0.9019569995866773  FScore: 0.9020151612069046
+2020-05-09 23:39:38,801 - __main__ - INFO - Epoch 15
+2020-05-09 23:39:38,801 - __main__ - INFO - Train Loss 0.13001653594041754
+2020-05-09 23:39:38,802 - __main__ - INFO - Validation Loss 0.22640523219388856
+2020-05-09 23:39:38,802 - __main__ - INFO - Precision: 0.8983034645931061  Recall: 0.9133706560991794  FScore: 0.9051564802362573
+2020-05-09 23:40:06,880 - __main__ - INFO - Epoch 16
+2020-05-09 23:40:06,880 - __main__ - INFO - Train Loss 0.12602230807478576
+2020-05-09 23:40:06,880 - __main__ - INFO - Validation Loss 0.22164703265320124
+2020-05-09 23:40:06,881 - __main__ - INFO - Precision: 0.9096763504172135  Recall: 0.8988853254456823  FScore: 0.9036617920458592
+2020-05-09 23:40:34,624 - __main__ - INFO - Epoch 17
+2020-05-09 23:40:34,624 - __main__ - INFO - Train Loss 0.12427564590105694
+2020-05-09 23:40:34,624 - __main__ - INFO - Validation Loss 0.21783927916373425
+2020-05-09 23:40:34,624 - __main__ - INFO - Precision: 0.908079971428915  Recall: 0.9136203002887747  FScore: 0.91071025087055
+2020-05-09 23:40:34,631 - __main__ - INFO - Checkpoint saved at ../checkpoints/charconv/charconv.ckpt
+2020-05-09 23:41:00,103 - __main__ - INFO - Epoch 18
+2020-05-09 23:41:00,104 - __main__ - INFO - Train Loss 0.11912795808479269
+2020-05-09 23:41:00,104 - __main__ - INFO - Validation Loss 0.23019591419307409
+2020-05-09 23:41:00,104 - __main__ - INFO - Precision: 0.9014397206511421  Recall: 0.9057410895613337  FScore: 0.9029575954815185
+2020-05-09 23:41:26,734 - __main__ - INFO - Epoch 19
+2020-05-09 23:41:26,735 - __main__ - INFO - Train Loss 0.11636505208331278
+2020-05-09 23:41:26,735 - __main__ - INFO - Validation Loss 0.23550199859705315
+2020-05-09 23:41:26,735 - __main__ - INFO - Precision: 0.9087848412641147  Recall: 0.9029967209841866  FScore: 0.9056750808854193
+2020-05-09 23:41:56,609 - __main__ - INFO - Epoch 20
+2020-05-09 23:41:56,610 - __main__ - INFO - Train Loss 0.11441596844167677
+2020-05-09 23:41:56,610 - __main__ - INFO - Validation Loss 0.2229984884528127
+2020-05-09 23:41:56,610 - __main__ - INFO - Precision: 0.910421964476097  Recall: 0.9156794392851814  FScore: 0.9126133561294499
+2020-05-09 23:41:56,619 - __main__ - INFO - Checkpoint saved at ../checkpoints/charconv/charconv.ckpt
+2020-05-09 23:42:24,264 - __main__ - INFO - Epoch 21
+2020-05-09 23:42:24,264 - __main__ - INFO - Train Loss 0.11012484765603901
+2020-05-09 23:42:24,264 - __main__ - INFO - Validation Loss 0.24345317583636575
+2020-05-09 23:42:24,265 - __main__ - INFO - Precision: 0.8991987070002246  Recall: 0.9004379164965935  FScore: 0.8993618897134003
+2020-05-09 23:42:52,439 - __main__ - INFO - Epoch 22
+2020-05-09 23:42:52,439 - __main__ - INFO - Train Loss 0.1084954576134651
+2020-05-09 23:42:52,439 - __main__ - INFO - Validation Loss 0.24149978461253616
+2020-05-09 23:42:52,440 - __main__ - INFO - Precision: 0.9035587680813885  Recall: 0.914772267316379  FScore: 0.9088298773874032
+2020-05-09 23:43:20,724 - __main__ - INFO - Epoch 23
+2020-05-09 23:43:20,724 - __main__ - INFO - Train Loss 0.10697924670220225
+2020-05-09 23:43:20,724 - __main__ - INFO - Validation Loss 0.23635710493116727
+2020-05-09 23:43:20,724 - __main__ - INFO - Precision: 0.9122959284717176  Recall: 0.9122597244771767  FScore: 0.9122233364622431
+2020-05-09 23:43:47,539 - __main__ - INFO - Epoch 24
+2020-05-09 23:43:47,539 - __main__ - INFO - Train Loss 0.10326242553891685
+2020-05-09 23:43:47,539 - __main__ - INFO - Validation Loss 0.24903295377163953
+2020-05-09 23:43:47,539 - __main__ - INFO - Precision: 0.9069295250166493  Recall: 0.9093036378960919  FScore: 0.9080650996801428
+2020-05-09 23:44:14,943 - __main__ - INFO - Epoch 25
+2020-05-09 23:44:14,943 - __main__ - INFO - Train Loss 0.10238948169192914
+2020-05-09 23:44:14,943 - __main__ - INFO - Validation Loss 0.24097867869016415
+2020-05-09 23:44:14,944 - __main__ - INFO - Precision: 0.9131447396304871  Recall: 0.916768219114403  FScore: 0.9148273887984834
+2020-05-09 23:44:14,950 - __main__ - INFO - Checkpoint saved at ../checkpoints/charconv/charconv.ckpt
+2020-05-09 23:44:42,050 - __main__ - INFO - Epoch 26
+2020-05-09 23:44:42,050 - __main__ - INFO - Train Loss 0.09936147084947564
+2020-05-09 23:44:42,050 - __main__ - INFO - Validation Loss 0.2698465555906296
+2020-05-09 23:44:42,051 - __main__ - INFO - Precision: 0.9058587629200332  Recall: 0.9107892420405332  FScore: 0.9079420910581139
+2020-05-09 23:45:08,311 - __main__ - INFO - Epoch 27
+2020-05-09 23:45:08,312 - __main__ - INFO - Train Loss 0.0993639841426042
+2020-05-09 23:45:08,312 - __main__ - INFO - Validation Loss 0.27176927583344845
+2020-05-09 23:45:08,312 - __main__ - INFO - Precision: 0.9086516982142429  Recall: 0.9047357500251318  FScore: 0.9065669182020483
+2020-05-09 23:45:37,641 - __main__ - INFO - Epoch 28
+2020-05-09 23:45:37,641 - __main__ - INFO - Train Loss 0.09586607183479125
+2020-05-09 23:45:37,642 - __main__ - INFO - Validation Loss 0.26503637837079125
+2020-05-09 23:45:37,642 - __main__ - INFO - Precision: 0.9117200034646821  Recall: 0.9091651285012269  FScore: 0.909589738663323
+2020-05-09 23:46:06,117 - __main__ - INFO - Epoch 29
+2020-05-09 23:46:06,118 - __main__ - INFO - Train Loss 0.09383134692252218
+2020-05-09 23:46:06,118 - __main__ - INFO - Validation Loss 0.26919924430637004
+2020-05-09 23:46:06,118 - __main__ - INFO - Precision: 0.9106255366175086  Recall: 0.9132337934921151  FScore: 0.9116606506276422
+2020-05-09 23:46:06,958 - __main__ - INFO - Test Results on best model
+               precision    recall  f1-score   support
+
+     location       0.87      0.84      0.86       878
+     products       0.80      0.88      0.84       596
+         date       0.98      0.99      0.98      2000
+random_string       0.98      0.98      0.98      2000
+        other       0.93      0.90      0.92      1004
+      company       0.93      0.92      0.93      2000
+
+     accuracy                           0.94      8478
+    macro avg       0.91      0.92      0.92      8478
+ weighted avg       0.94      0.94      0.94      8478
+

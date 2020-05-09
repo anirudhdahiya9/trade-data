@@ -143,7 +143,7 @@ def preprocess_data(data_dir, split, tokenizer):
 if __name__ == "__main__":
     parser = ArgumentParser(prog="Text Classifier", description="Training Code for the trade text classifier.")
 
-    parser.add_argument('--remote_debug', type=bool, default=True, help="Flag for the remote debug process.")
+    parser.add_argument('--remote_debug', type=bool, default=False, help="Flag for the remote debug process.")
 
     parser.add_argument('--mode', choices=('train', 'test'), required=True, help="Run mode.")
     parser.add_argument('--model_type', choices=('bow', 'conv', 'hybrid'), required=True, help="Model Type wanted.")
@@ -174,7 +174,7 @@ if __name__ == "__main__":
         pydevd_pycharm.settrace('10.1.65.133', port=2134, stdoutToServer=True, stderrToServer=True)
 
     # Setup Logging
-    log_path = os.path.join(args.log_path, args.experiment_name)
+    log_path = os.path.join(args.log_path, args.experiment_name+'.log')
     setup_logging(log_path)
     logger = logging.getLogger(__name__)
 

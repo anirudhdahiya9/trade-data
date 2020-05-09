@@ -1,0 +1,161 @@
+2020-05-09 23:32:39,635 - __main__ - INFO - Running with the following arguments
+remote_debug:False
+mode:train
+model_type:bow
+experiment_name:bag_of_words
+lint_ascii:True
+case_lower:True
+device:cuda
+batch_size:16
+learning_rate:0.001
+num_epochs:30
+early_stopping_threshold:5
+data_dir:../data/splits
+pretrained_vocab_path:../data/glove_vocab.txt
+pretrained_glove_path:/DATA1/USERS/anirudh/glove6B/glove.6B.100d.txt
+tbwriter_path:../tblogs
+log_path:../logs
+plot_path:../cmatrices
+save_path:../checkpoints/
+2020-05-09 23:32:53,166 - __main__ - INFO - Entered training
+2020-05-09 23:32:54,348 - __main__ - INFO - Validation Loss Epoch -1 1.806237244606018
+2020-05-09 23:32:54,359 - __main__ - INFO - Epoch -1 Evaluation Results
+               precision    recall  f1-score   support
+
+     location       0.12      0.44      0.19       879
+     products       0.21      0.36      0.27       597
+         date       0.08      0.00      0.00      2000
+random_string       0.00      0.00      0.00      2000
+        other       0.03      0.00      0.01      1004
+      company       0.59      0.11      0.18      2000
+
+     accuracy                           0.10      8480
+    macro avg       0.17      0.15      0.11      8480
+ weighted avg       0.19      0.10      0.08      8480
+
+2020-05-09 23:33:07,205 - __main__ - INFO - Epoch 0
+2020-05-09 23:33:07,206 - __main__ - INFO - Train Loss 0.320538053567574
+2020-05-09 23:33:07,206 - __main__ - INFO - Validation Loss 0.3752075358662965
+2020-05-09 23:33:07,206 - __main__ - INFO - Precision: 0.9254747624164237  Recall: 0.8725071543376215  FScore: 0.8883384035373542
+2020-05-09 23:33:07,216 - __main__ - INFO - Checkpoint saved at ../checkpoints/bag_of_words/bag_of_words.ckpt
+2020-05-09 23:33:20,807 - __main__ - INFO - Epoch 1
+2020-05-09 23:33:20,808 - __main__ - INFO - Train Loss 0.25195050808372643
+2020-05-09 23:33:20,808 - __main__ - INFO - Validation Loss 0.3545724601326686
+2020-05-09 23:33:20,808 - __main__ - INFO - Precision: 0.9263212591647331  Recall: 0.8771272292675958  FScore: 0.8914455736556173
+2020-05-09 23:33:20,817 - __main__ - INFO - Checkpoint saved at ../checkpoints/bag_of_words/bag_of_words.ckpt
+2020-05-09 23:33:34,579 - __main__ - INFO - Epoch 2
+2020-05-09 23:33:34,579 - __main__ - INFO - Train Loss 0.2317008071451641
+2020-05-09 23:33:34,579 - __main__ - INFO - Validation Loss 0.3585574747607955
+2020-05-09 23:33:34,579 - __main__ - INFO - Precision: 0.9319101085946838  Recall: 0.8773979547287646  FScore: 0.893663688796385
+2020-05-09 23:33:34,588 - __main__ - INFO - Checkpoint saved at ../checkpoints/bag_of_words/bag_of_words.ckpt
+2020-05-09 23:33:47,566 - __main__ - INFO - Epoch 3
+2020-05-09 23:33:47,566 - __main__ - INFO - Train Loss 0.2188195750253486
+2020-05-09 23:33:47,567 - __main__ - INFO - Validation Loss 0.3465449929729385
+2020-05-09 23:33:47,567 - __main__ - INFO - Precision: 0.9288737369826334  Recall: 0.8838319238733101  FScore: 0.8969616449039753
+2020-05-09 23:33:47,576 - __main__ - INFO - Checkpoint saved at ../checkpoints/bag_of_words/bag_of_words.ckpt
+2020-05-09 23:33:59,913 - __main__ - INFO - Epoch 4
+2020-05-09 23:33:59,913 - __main__ - INFO - Train Loss 0.20936855226271908
+2020-05-09 23:33:59,914 - __main__ - INFO - Validation Loss 0.35885363863253933
+2020-05-09 23:33:59,914 - __main__ - INFO - Precision: 0.928286960986251  Recall: 0.8812928217517552  FScore: 0.8957584407511069
+2020-05-09 23:34:13,852 - __main__ - INFO - Epoch 5
+2020-05-09 23:34:13,852 - __main__ - INFO - Train Loss 0.2019529355885373
+2020-05-09 23:34:13,852 - __main__ - INFO - Validation Loss 0.34512136699456086
+2020-05-09 23:34:13,853 - __main__ - INFO - Precision: 0.9357595357668093  Recall: 0.8856614052533813  FScore: 0.9001246096540347
+2020-05-09 23:34:13,862 - __main__ - INFO - Checkpoint saved at ../checkpoints/bag_of_words/bag_of_words.ckpt
+2020-05-09 23:34:26,690 - __main__ - INFO - Epoch 6
+2020-05-09 23:34:26,690 - __main__ - INFO - Train Loss 0.19617191955671243
+2020-05-09 23:34:26,690 - __main__ - INFO - Validation Loss 0.3443690196883355
+2020-05-09 23:34:26,690 - __main__ - INFO - Precision: 0.9368167325010885  Recall: 0.8875243928613785  FScore: 0.9020373584073819
+2020-05-09 23:34:26,697 - __main__ - INFO - Checkpoint saved at ../checkpoints/bag_of_words/bag_of_words.ckpt
+2020-05-09 23:34:40,274 - __main__ - INFO - Epoch 7
+2020-05-09 23:34:40,275 - __main__ - INFO - Train Loss 0.19242436086126374
+2020-05-09 23:34:40,275 - __main__ - INFO - Validation Loss 0.35120164759738265
+2020-05-09 23:34:40,275 - __main__ - INFO - Precision: 0.9323722414543344  Recall: 0.8864010470334653  FScore: 0.8991538334953901
+2020-05-09 23:34:55,120 - __main__ - INFO - Epoch 8
+2020-05-09 23:34:55,120 - __main__ - INFO - Train Loss 0.18925608829024054
+2020-05-09 23:34:55,120 - __main__ - INFO - Validation Loss 0.3428989997766209
+2020-05-09 23:34:55,121 - __main__ - INFO - Precision: 0.9363845633354441  Recall: 0.8891348565373618  FScore: 0.9031376741180955
+2020-05-09 23:34:55,127 - __main__ - INFO - Checkpoint saved at ../checkpoints/bag_of_words/bag_of_words.ckpt
+2020-05-09 23:35:08,520 - __main__ - INFO - Epoch 9
+2020-05-09 23:35:08,520 - __main__ - INFO - Train Loss 0.18540045784386577
+2020-05-09 23:35:08,520 - __main__ - INFO - Validation Loss 0.34310177641586875
+2020-05-09 23:35:08,520 - __main__ - INFO - Precision: 0.9333600533302168  Recall: 0.8884071241270571  FScore: 0.9007806962117647
+2020-05-09 23:35:22,797 - __main__ - INFO - Epoch 10
+2020-05-09 23:35:22,798 - __main__ - INFO - Train Loss 0.1842619586817235
+2020-05-09 23:35:22,798 - __main__ - INFO - Validation Loss 0.34276179195082973
+2020-05-09 23:35:22,798 - __main__ - INFO - Precision: 0.93782321356673  Recall: 0.8906626397529954  FScore: 0.903798360002309
+2020-05-09 23:35:22,807 - __main__ - INFO - Checkpoint saved at ../checkpoints/bag_of_words/bag_of_words.ckpt
+2020-05-09 23:35:37,414 - __main__ - INFO - Epoch 11
+2020-05-09 23:35:37,415 - __main__ - INFO - Train Loss 0.18193701426767664
+2020-05-09 23:35:37,415 - __main__ - INFO - Validation Loss 0.3534053516389697
+2020-05-09 23:35:37,415 - __main__ - INFO - Precision: 0.9388210798647042  Recall: 0.8895626569988759  FScore: 0.9036815420128278
+2020-05-09 23:35:50,949 - __main__ - INFO - Epoch 12
+2020-05-09 23:35:50,950 - __main__ - INFO - Train Loss 0.18131426771716128
+2020-05-09 23:35:50,950 - __main__ - INFO - Validation Loss 0.3645191403553944
+2020-05-09 23:35:50,950 - __main__ - INFO - Precision: 0.9339178337903332  Recall: 0.8875253011180999  FScore: 0.9011355905815042
+2020-05-09 23:36:05,461 - __main__ - INFO - Epoch 13
+2020-05-09 23:36:05,461 - __main__ - INFO - Train Loss 0.17948658186192779
+2020-05-09 23:36:05,462 - __main__ - INFO - Validation Loss 0.3514896999288983
+2020-05-09 23:36:05,462 - __main__ - INFO - Precision: 0.9358951388959876  Recall: 0.8906254578456526  FScore: 0.9036219310904744
+2020-05-09 23:36:18,110 - __main__ - INFO - Epoch 14
+2020-05-09 23:36:18,111 - __main__ - INFO - Train Loss 0.17882116880193177
+2020-05-09 23:36:18,111 - __main__ - INFO - Validation Loss 0.35188687966811416
+2020-05-09 23:36:18,111 - __main__ - INFO - Precision: 0.9369594716664237  Recall: 0.8902125092926602  FScore: 0.9035724227337992
+2020-05-09 23:36:30,476 - __main__ - INFO - Epoch 15
+2020-05-09 23:36:30,476 - __main__ - INFO - Train Loss 0.1779834878706716
+2020-05-09 23:36:30,477 - __main__ - INFO - Validation Loss 0.35890950425418167
+2020-05-09 23:36:30,477 - __main__ - INFO - Precision: 0.9387555408580502  Recall: 0.8921690742019887  FScore: 0.9047801294611867
+2020-05-09 23:36:30,483 - __main__ - INFO - Checkpoint saved at ../checkpoints/bag_of_words/bag_of_words.ckpt
+2020-05-09 23:36:44,486 - __main__ - INFO - Epoch 16
+2020-05-09 23:36:44,486 - __main__ - INFO - Train Loss 0.17685663058242118
+2020-05-09 23:36:44,486 - __main__ - INFO - Validation Loss 0.35311168916699176
+2020-05-09 23:36:44,487 - __main__ - INFO - Precision: 0.9378775539023242  Recall: 0.8915745669399624  FScore: 0.9050278507305308
+2020-05-09 23:36:44,493 - __main__ - INFO - Checkpoint saved at ../checkpoints/bag_of_words/bag_of_words.ckpt
+2020-05-09 23:36:57,324 - __main__ - INFO - Epoch 17
+2020-05-09 23:36:57,325 - __main__ - INFO - Train Loss 0.17652090757471325
+2020-05-09 23:36:57,325 - __main__ - INFO - Validation Loss 0.359276301343486
+2020-05-09 23:36:57,325 - __main__ - INFO - Precision: 0.937765093203253  Recall: 0.8905760376380267  FScore: 0.9037690087142174
+2020-05-09 23:37:11,705 - __main__ - INFO - Epoch 18
+2020-05-09 23:37:11,706 - __main__ - INFO - Train Loss 0.17530230179732173
+2020-05-09 23:37:11,706 - __main__ - INFO - Validation Loss 0.35830959100803395
+2020-05-09 23:37:11,706 - __main__ - INFO - Precision: 0.9394722598954205  Recall: 0.8923983493121271  FScore: 0.9060795334485787
+2020-05-09 23:37:11,712 - __main__ - INFO - Checkpoint saved at ../checkpoints/bag_of_words/bag_of_words.ckpt
+2020-05-09 23:37:25,108 - __main__ - INFO - Epoch 19
+2020-05-09 23:37:25,109 - __main__ - INFO - Train Loss 0.17600934359262574
+2020-05-09 23:37:25,109 - __main__ - INFO - Validation Loss 0.35902120931796677
+2020-05-09 23:37:25,109 - __main__ - INFO - Precision: 0.9361482420948984  Recall: 0.8905559656211489  FScore: 0.9034387466628475
+2020-05-09 23:37:37,201 - __main__ - INFO - Epoch 20
+2020-05-09 23:37:37,201 - __main__ - INFO - Train Loss 0.17514778762372615
+2020-05-09 23:37:37,201 - __main__ - INFO - Validation Loss 0.3618169494500419
+2020-05-09 23:37:37,202 - __main__ - INFO - Precision: 0.9356104207564089  Recall: 0.891415101275884  FScore: 0.9035764979779275
+2020-05-09 23:37:50,829 - __main__ - INFO - Epoch 21
+2020-05-09 23:37:50,830 - __main__ - INFO - Train Loss 0.17544415437985422
+2020-05-09 23:37:50,830 - __main__ - INFO - Validation Loss 0.37365492409411466
+2020-05-09 23:37:50,830 - __main__ - INFO - Precision: 0.9377621809148721  Recall: 0.8900557108087185  FScore: 0.9041160364163607
+2020-05-09 23:38:04,735 - __main__ - INFO - Epoch 22
+2020-05-09 23:38:04,736 - __main__ - INFO - Train Loss 0.17289045375402806
+2020-05-09 23:38:04,736 - __main__ - INFO - Validation Loss 0.3632889141247362
+2020-05-09 23:38:04,736 - __main__ - INFO - Precision: 0.934130554579034  Recall: 0.8887368313233536  FScore: 0.9017407163723052
+2020-05-09 23:38:18,269 - __main__ - INFO - Epoch 23
+2020-05-09 23:38:18,269 - __main__ - INFO - Train Loss 0.1744045647353215
+2020-05-09 23:38:18,269 - __main__ - INFO - Validation Loss 0.36501857694414147
+2020-05-09 23:38:18,269 - __main__ - INFO - Precision: 0.9377745777752403  Recall: 0.890467729401016  FScore: 0.9041976226508769
+2020-05-09 23:38:32,885 - __main__ - INFO - Epoch 24
+2020-05-09 23:38:32,886 - __main__ - INFO - Train Loss 0.17484899048730818
+2020-05-09 23:38:32,886 - __main__ - INFO - Validation Loss 0.368294466238135
+2020-05-09 23:38:32,886 - __main__ - INFO - Precision: 0.937906225918033  Recall: 0.8916481234959014  FScore: 0.9041104425773531
+2020-05-09 23:38:32,886 - __main__ - INFO - Early Stopping criteria reached at epoch 24
+2020-05-09 23:38:33,699 - __main__ - INFO - Test Results on best model
+               precision    recall  f1-score   support
+
+     location       0.96      0.63      0.76       878
+     products       0.95      0.95      0.95       596
+         date       0.99      0.89      0.94      2000
+random_string       0.76      1.00      0.86      2000
+        other       0.98      0.96      0.97      1004
+      company       0.98      0.94      0.96      2000
+
+     accuracy                           0.91      8478
+    macro avg       0.94      0.89      0.91      8478
+ weighted avg       0.93      0.91      0.91      8478
+

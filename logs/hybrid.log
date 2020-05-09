@@ -1,0 +1,108 @@
+2020-05-09 23:48:25,214 - __main__ - INFO - Running with the following arguments
+remote_debug:False
+mode:train
+model_type:hybrid
+experiment_name:hybrid
+lint_ascii:True
+case_lower:True
+device:cuda
+batch_size:16
+learning_rate:0.001
+num_epochs:30
+early_stopping_threshold:5
+data_dir:../data/splits
+pretrained_vocab_path:../data/glove_vocab.txt
+pretrained_glove_path:/DATA1/USERS/anirudh/glove6B/glove.6B.100d.txt
+tbwriter_path:../tblogs
+log_path:../logs
+plot_path:../cmatrices
+save_path:../checkpoints/
+2020-05-09 23:48:37,648 - __main__ - INFO - Entered training
+2020-05-09 23:48:38,984 - __main__ - INFO - Validation Loss Epoch -1 1.8482942578927526
+2020-05-09 23:48:38,994 - __main__ - INFO - Epoch -1 Evaluation Results
+               precision    recall  f1-score   support
+
+     location       0.11      0.88      0.19       879
+     products       0.15      0.26      0.19       597
+         date       0.00      0.00      0.00      2000
+random_string       0.04      0.00      0.01      2000
+        other       0.00      0.00      0.00      1004
+      company       0.04      0.00      0.00      2000
+
+     accuracy                           0.11      8480
+    macro avg       0.06      0.19      0.06      8480
+ weighted avg       0.04      0.11      0.03      8480
+
+2020-05-09 23:49:08,259 - __main__ - INFO - Epoch 0
+2020-05-09 23:49:08,259 - __main__ - INFO - Train Loss 0.14942762053817102
+2020-05-09 23:49:08,260 - __main__ - INFO - Validation Loss 0.11332681301348614
+2020-05-09 23:49:08,260 - __main__ - INFO - Precision: 0.95517521681881  Recall: 0.9447768249287387  FScore: 0.9496997933909218
+2020-05-09 23:49:08,265 - __main__ - INFO - Checkpoint saved at ../checkpoints/hybrid/hybrid.ckpt
+2020-05-09 23:49:34,901 - __main__ - INFO - Epoch 1
+2020-05-09 23:49:34,901 - __main__ - INFO - Train Loss 0.08995074823516298
+2020-05-09 23:49:34,901 - __main__ - INFO - Validation Loss 0.1256338433555837
+2020-05-09 23:49:34,901 - __main__ - INFO - Precision: 0.961224634618481  Recall: 0.9399802239866006  FScore: 0.9497021730763646
+2020-05-09 23:49:34,910 - __main__ - INFO - Checkpoint saved at ../checkpoints/hybrid/hybrid.ckpt
+2020-05-09 23:50:04,312 - __main__ - INFO - Epoch 2
+2020-05-09 23:50:04,313 - __main__ - INFO - Train Loss 0.07328895566862006
+2020-05-09 23:50:04,313 - __main__ - INFO - Validation Loss 0.1078310473066456
+2020-05-09 23:50:04,313 - __main__ - INFO - Precision: 0.9623945977130894  Recall: 0.9544693488192237  FScore: 0.9580909621844094
+2020-05-09 23:50:04,320 - __main__ - INFO - Checkpoint saved at ../checkpoints/hybrid/hybrid.ckpt
+2020-05-09 23:50:36,292 - __main__ - INFO - Epoch 3
+2020-05-09 23:50:36,292 - __main__ - INFO - Train Loss 0.06160153411249169
+2020-05-09 23:50:36,293 - __main__ - INFO - Validation Loss 0.09896623287701382
+2020-05-09 23:50:36,293 - __main__ - INFO - Precision: 0.9610228571696539  Recall: 0.9625589524048697  FScore: 0.9615476975951829
+2020-05-09 23:50:36,302 - __main__ - INFO - Checkpoint saved at ../checkpoints/hybrid/hybrid.ckpt
+2020-05-09 23:51:06,262 - __main__ - INFO - Epoch 4
+2020-05-09 23:51:06,262 - __main__ - INFO - Train Loss 0.053363241183017995
+2020-05-09 23:51:06,262 - __main__ - INFO - Validation Loss 0.09792569063885032
+2020-05-09 23:51:06,262 - __main__ - INFO - Precision: 0.9659238793988197  Recall: 0.9592677678198012  FScore: 0.9624506686355092
+2020-05-09 23:51:06,271 - __main__ - INFO - Checkpoint saved at ../checkpoints/hybrid/hybrid.ckpt
+2020-05-09 23:51:37,890 - __main__ - INFO - Epoch 5
+2020-05-09 23:51:37,890 - __main__ - INFO - Train Loss 0.046770511276005185
+2020-05-09 23:51:37,890 - __main__ - INFO - Validation Loss 0.11352305793080408
+2020-05-09 23:51:37,890 - __main__ - INFO - Precision: 0.9541574987799835  Recall: 0.9562623397537844  FScore: 0.9543157155310112
+2020-05-09 23:51:59,731 - __main__ - INFO - Epoch 6
+2020-05-09 23:51:59,731 - __main__ - INFO - Train Loss 0.04113782513262914
+2020-05-09 23:51:59,731 - __main__ - INFO - Validation Loss 0.10628637728404323
+2020-05-09 23:51:59,731 - __main__ - INFO - Precision: 0.963179616473349  Recall: 0.96464143007969  FScore: 0.9638354121343561
+2020-05-09 23:51:59,737 - __main__ - INFO - Checkpoint saved at ../checkpoints/hybrid/hybrid.ckpt
+2020-05-09 23:52:29,844 - __main__ - INFO - Epoch 7
+2020-05-09 23:52:29,845 - __main__ - INFO - Train Loss 0.037495659369473425
+2020-05-09 23:52:29,845 - __main__ - INFO - Validation Loss 0.1050963763903194
+2020-05-09 23:52:29,845 - __main__ - INFO - Precision: 0.9653793209934345  Recall: 0.9604704919135076  FScore: 0.9627433232742795
+2020-05-09 23:52:58,574 - __main__ - INFO - Epoch 8
+2020-05-09 23:52:58,574 - __main__ - INFO - Train Loss 0.03445945225896551
+2020-05-09 23:52:58,574 - __main__ - INFO - Validation Loss 0.11995819110493615
+2020-05-09 23:52:58,575 - __main__ - INFO - Precision: 0.9588338858498738  Recall: 0.9559560067689218  FScore: 0.957020701311745
+2020-05-09 23:53:29,266 - __main__ - INFO - Epoch 9
+2020-05-09 23:53:29,267 - __main__ - INFO - Train Loss 0.03075334061603963
+2020-05-09 23:53:29,267 - __main__ - INFO - Validation Loss 0.11363953869956774
+2020-05-09 23:53:29,267 - __main__ - INFO - Precision: 0.9642073366314032  Recall: 0.9580963298055104  FScore: 0.9609327751446305
+2020-05-09 23:54:00,294 - __main__ - INFO - Epoch 10
+2020-05-09 23:54:00,295 - __main__ - INFO - Train Loss 0.02950894676444323
+2020-05-09 23:54:00,295 - __main__ - INFO - Validation Loss 0.13314932470455906
+2020-05-09 23:54:00,295 - __main__ - INFO - Precision: 0.9635001933360153  Recall: 0.9535637333793021  FScore: 0.9578900563106769
+2020-05-09 23:54:30,578 - __main__ - INFO - Epoch 11
+2020-05-09 23:54:30,579 - __main__ - INFO - Train Loss 0.027993529999325546
+2020-05-09 23:54:30,579 - __main__ - INFO - Validation Loss 0.1293552839847387
+2020-05-09 23:54:30,579 - __main__ - INFO - Precision: 0.9608512118400329  Recall: 0.957133766525284  FScore: 0.958523558781572
+2020-05-09 23:55:01,049 - __main__ - INFO - Epoch 12
+2020-05-09 23:55:01,049 - __main__ - INFO - Train Loss 0.02442954163312083
+2020-05-09 23:55:01,050 - __main__ - INFO - Validation Loss 0.13228838628263406
+2020-05-09 23:55:01,050 - __main__ - INFO - Precision: 0.9642121068024987  Recall: 0.9580760615399191  FScore: 0.9605450378637154
+2020-05-09 23:55:01,050 - __main__ - INFO - Early Stopping criteria reached at epoch 12
+2020-05-09 23:55:02,520 - __main__ - INFO - Test Results on best model
+               precision    recall  f1-score   support
+
+     location       0.90      0.93      0.91       878
+     products       0.95      0.97      0.96       596
+         date       0.99      0.99      0.99      2000
+random_string       0.97      0.98      0.98      2000
+        other       0.98      0.96      0.97      1004
+      company       0.98      0.96      0.97      2000
+
+     accuracy                           0.97      8478
+    macro avg       0.96      0.96      0.96      8478
+ weighted avg       0.97      0.97      0.97      8478
+
